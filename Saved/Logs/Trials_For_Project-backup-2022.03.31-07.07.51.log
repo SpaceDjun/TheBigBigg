@@ -1,0 +1,1464 @@
+﻿Log file open, 03/31/22 13:41:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Trials_For_Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.491717
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Apps/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Engine.ini]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Engine.ini]
+[2022.03.31-06.41.27:978][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Engine.ini]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Engine.ini]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.31-06.41.27:978][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Engine.ini]
+[2022.03.31-06.41.27:978][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Engine.ini]
+[2022.03.31-06.41.27:990][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.31-06.41.27:990][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.31-06.41.27:991][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.31-06.41.27:991][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.31-06.41.27:991][  0]LogHAL: Display: Platform has ~ 16 GB [17017495552 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.31-06.41.27:991][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.31-06.41.27:991][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.31-06.41.27:991][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.31-06.41.27:992][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.31-06.41.27:993][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Engine.ini]
+[2022.03.31-06.41.27:993][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Config/Windows/Editor.ini]
+[2022.03.31-06.41.27:993][  0]LogInit: Computer: MADAMS-1STSON
+[2022.03.31-06.41.27:993][  0]LogInit: User: microsoft
+[2022.03.31-06.41.27:993][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.03.31-06.41.27:993][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.31-06.41.27:993][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.03.31-06.41.27:993][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.31-06.41.27:993][  0]LogMemory: Process Physical Memory: 144.38 MB used, 144.39 MB peak
+[2022.03.31-06.41.27:993][  0]LogMemory: Process Virtual Memory: 128.73 MB used, 128.73 MB peak
+[2022.03.31-06.41.27:993][  0]LogMemory: Physical Memory: 10249.29 MB used,  5979.86 MB free, 16229.15 MB total
+[2022.03.31-06.41.27:993][  0]LogMemory: Virtual Memory: 134211344.00 MB used,  6384.74 MB free, 134217728.00 MB total
+[2022.03.31-06.41.27:998][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.31-06.41.28:056][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.31-06.41.28:081][  0]LogInit: Using OS detected language (en-US).
+[2022.03.31-06.41.28:081][  0]LogInit: Using OS detected locale (en-US).
+[2022.03.31-06.41.28:085][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.03.31-06.41.28:307][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.31-06.41.28:323][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-06.41.28:340][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.31-06.41.28:341][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.31-06.41.28:636][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.03.31-06.41.28:685][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.31-06.41.28:685][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.31-06.41.28:686][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.31-06.41.28:686][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.31-06.41.28:784][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2022.03.31-06.41.28:784][  0]LogD3D11RHI:       6052/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.03.31-06.41.28:816][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2022.03.31-06.41.28:816][  0]LogD3D11RHI:       128/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.03.31-06.41.28:818][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.31-06.41.28:818][  0]LogD3D11RHI:       0/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.31-06.41.28:818][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.03.31-06.41.28:818][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060 with Max-Q Design
+[2022.03.31-06.41.28:818][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.31-06.41.28:818][  0]LogD3D11RHI:     DeviceId    : 1c20
+[2022.03.31-06.41.28:818][  0]LogD3D11RHI:     SubSysId    : 8021028
+[2022.03.31-06.41.28:818][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.31-06.41.28:818][  0]LogD3D11RHI:     DedicatedVideoMemory : 6345981952 bytes
+[2022.03.31-06.41.28:818][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.31-06.41.28:818][  0]LogD3D11RHI:     SharedSystemMemory : 8508747776 bytes
+[2022.03.31-06.41.28:818][  0]LogD3D11RHI:     AdapterLuid : 0 76628
+[2022.03.31-06.41.28:826][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.31-06.41.28:826][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.31-06.41.28:826][  0]LogWindows: EnumDisplayDevices:
+[2022.03.31-06.41.28:827][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2022.03.31-06.41.28:827][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2022.03.31-06.41.28:827][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2022.03.31-06.41.28:827][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2022.03.31-06.41.28:828][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.03.31-06.41.28:828][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2022.03.31-06.41.28:828][  0]LogD3D11RHI:   Driver Version: 456.55 (internal:27.21.14.5655, unified:456.55)
+[2022.03.31-06.41.28:828][  0]LogD3D11RHI:      Driver Date: 9-24-2020
+[2022.03.31-06.41.28:828][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2022.03.31-06.41.28:828][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.03.31-06.41.28:828][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060 with Max-Q Design
+[2022.03.31-06.41.28:828][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.31-06.41.28:828][  0]LogD3D11RHI:     DeviceId    : 1c20
+[2022.03.31-06.41.28:828][  0]LogD3D11RHI:     SubSysId    : 8021028
+[2022.03.31-06.41.28:828][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.31-06.41.28:828][  0]LogD3D11RHI:     DedicatedVideoMemory : 6345981952 bytes
+[2022.03.31-06.41.28:828][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.31-06.41.28:828][  0]LogD3D11RHI:     SharedSystemMemory : 8508747776 bytes
+[2022.03.31-06.41.28:828][  0]LogD3D11RHI:     AdapterLuid : 0 76628
+[2022.03.31-06.41.28:897][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.31-06.41.28:897][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.31-06.41.28:897][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.31-06.41.28:929][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.03.31-06.41.28:995][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.31-06.41.29:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.31-06.41.29:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.31-06.41.29:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.31-06.41.29:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.31-06.41.29:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.31-06.41.29:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.31-06.41.29:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.31-06.41.29:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.31-06.41.29:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.31-06.41.29:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.31-06.41.29:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.31-06.41.29:488][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.31-06.41.29:488][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.31-06.41.29:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.31-06.41.29:504][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.31-06.41.29:509][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.31-06.41.29:514][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.31-06.41.29:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.31-06.41.29:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.31-06.41.29:534][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.31-06.41.29:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.31-06.41.29:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.31-06.41.29:572][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.31-06.41.29:578][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.31-06.41.29:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.31-06.41.29:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.31-06.41.29:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.31-06.41.29:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.31-06.41.29:612][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.31-06.41.29:618][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.31-06.41.29:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.31-06.41.29:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.31-06.41.29:628][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.31-06.41.29:636][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.31-06.41.29:668][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.03.31-06.41.29:710][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.31-06.41.29:710][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Intermediate/Shaders/WorkingDirectory/9348/).
+[2022.03.31-06.41.29:711][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/microsoft/AppData/Local/Temp/UnrealShaderWorkingDir/D462ED80498242B4FC0B69A071245DD4/'.
+[2022.03.31-06.41.29:712][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.03.31-06.41.29:712][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.31-06.41.29:713][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.31-06.41.30:625][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.31-06.41.30:716][  0]LogDerivedDataCache: Loaded boot cache 0.09s 94MB C:/Users/microsoft/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.31-06.41.30:716][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/microsoft/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.03.31-06.41.30:716][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.31-06.41.30:716][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.31-06.41.30:716][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.31-06.41.30:716][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.31-06.41.30:739][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.31-06.41.30:739][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.31-06.41.30:739][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.31-06.41.30:749][  0]LogDerivedDataCache: Speed tests for C:/Users/microsoft/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.03.31-06.41.30:749][  0]LogDerivedDataCache: Display: Performance to C:/Users/microsoft/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.07ms. RandomReadSpeed=882.48MBs, RandomWriteSpeed=121.90MBs. Assigned SpeedClass 'Local'
+[2022.03.31-06.41.30:752][  0]LogDerivedDataCache: Using Local data cache path C:/Users/microsoft/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.31-06.41.30:752][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.31-06.41.30:752][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.31-06.41.30:828][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.31-06.41.30:829][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.31-06.41.30:865][  0]LogAssetRegistry: FAssetRegistry took 0.0039 seconds to start up
+[2022.03.31-06.41.31:198][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.31-06.41.31:199][  0]LogInit: Active device profile: [000002077F2CC900][000002077D8794C0 49] Windows
+[2022.03.31-06.41.31:199][  0]LogInit: Profiles: [000002077F2CC900][000002077D8794C0 49] Windows, [000002077F28B800][0000020772725640 49] WindowsNoEditor, [000002077F2CF500][00000207727297C0 49] WindowsServer, [000002077F288E00][000002077272D940 49] WindowsClient, [000002077F2CF800][0000020772731AC0 49] IOS, [000002077F28A800][000002077D7A20C0 49] iPadAir, [000002077F2CE000][000002077D7A6240 49] iPadAir2, [000002077F240A00][000002077D7AE500 49] IPadPro, [000002077F240B00][000002077D7AA540 49] iPadAir3, [000002077F289800][000002077D7B26C0 49] iPadAir4, [000002077F243400][000002077D7B6840 49] iPadMini2, [000002077F28AA00][000002077D87C980 49] iPadMini3, [000002077F241700][000002077D7BAAC0 49] iPadMini4, [000002077F2CD000][000002077D7BEC00 49] iPadMini5, [000002077F248300][000002077D7CAE80 49] iPhone6, [000002077F248400][000002077D7C2EC0 49] iPodTouch6, [000002077F243600][0000020772771180 49] iPhone7, [000002077F241800][000002077D7CF1C0 49] iPodTouch7, [000002077F24BF00][0000020772775340 49] iPhone5S, [000002077F28A300][00000207727794C0 49] iPhone6Plus, [000002077F240200][000002077277D640 49] iPhone6S, [000002077F28A200][00000207727817C0 49] iPhone6SPlus, [000002077F243C00][0000020772785940 49] iPhone7Plus, [000002077F288100][0000020772789AC0 49] iPhoneSE, [000002077F243500][000002077278C0C0 49] iPhone8, [000002077F289E00][0000020772790240 49] iPhone8Plus, [000002077F241000][00000207727943C0 49] iPhoneX, [000002077F288A00][0000020772798540 49] iPhoneXS, [000002077F241200][000002077279C6C0 49] iPhoneXSMax, [000002077F289500][00000207727A0840 49] iPhoneXR, [000002077F243700][00000207727A89C0 49] iPhone11, [000002077F288D00][0000020771E9CB40 49] iPhone11Pro, [000002077F243800][000002077D7C6C80 49] iPhone11ProMax, [000002077F288F00][0000020771EC6DC0 49] iPhoneSE2, [000002077F242E00][0000020771ED2F00 49] iPhone12Mini, [000002077F28B100][0000020771EE3080 49] iPhone12, [000002077F242B00][0000020771EEF200 49] iPhone12Pro, [000002077F288800][0000020771ECB380 49] iPhone12ProMax, [000002077F242300][000002077EC8B500 49] iPadPro105, [000002077F28AF00][000002077D7D3680 49] iPadPro129, [000002077F242000][000002077D811800 49] iPadPro97, [000002077F289300][000002077D815980 49] iPadPro2_129, [000002077F241A00][000002077D819B00 49] iPad5, [000002077F289A00][000002077D86C100 49] iPad6, [000002077F242800][000002077D708280 49] iPad7, [000002077F288C00][000002077D70C400 49] iPad8, [000002077F243200][000002077D710580 49] iPadPro11, [000002077F289600][000002077D782700 49] iPadPro2_11, [000002077F241C00][000002077D786880 49] iPadPro3_129, [000002077F28B900][000002077D78AA00 49] iPadPro4_129, [000002077F241500][00000207000C2B80 49] AppleTV, [000002077F288300][00000207000C6D00 49] AppleTV4K, [000002077F240100][0000020771EDEE40 49] TVOS, [000002077F28A400][000002077D78EF80 49] Mac, [000002077F242100][000002077D7930C0 49] MacClient, [000002077F28B400][000002077D79B240 49] MacNoEditor, [000002077F241F00][000002077D79F3C0 49] MacServer, [000002077F288600][00000207003D1540 49] Linux, [000002077F242200][00000207003E56C0 49] LinuxAArch64, [000002077F28B600][00000207003F5840 49] LinuxNoEditor, [000002077F241D00][00000207003F99C0 49] LinuxAArch64NoEditor, [000002077F289400][00000207003FDB40 49] LinuxClient, [000002077F243100][000002077EAA8140 49] LinuxAArch64Client, [000002077F289900][000002077EABA2C0 49] LinuxServer, [000002077F243000][000002077EABE440 49] LinuxAArch64Server, [000002077F28A600][000002077EAC25C0 49] Android, [000002077F240700][000002077EAC6740 49] Android_Low, [000002077F289B00][000002077EACA8C0 49] Android_Mid, [000002077F2CFA00][000002077EACEA40 49] Android_High, [000002077F249C00][000002077D81CBC0 49] Android_Default, [000002077F2CE100][000002077D820D40 49] Android_Adreno4xx, [000002077F24A700][000002077D838EC0 49] Android_Adreno5xx_Low, [000002077F2CCB00][000002077D797000 49] Android_Adreno5xx, [000002077F24AD00][000002077D869140 49] Android_Adreno6xx, [000002077F2CD200][000002077EB4B280 49] Android_Adreno6xx_Vulkan, [000002077F24A800][000002077EB4F3C0 49] Android_Mali_T6xx, [000002077F2CF200][000002077EB57540 49] Android_Mali_T7xx, [000002077F24AE00][000002077EB5F6C0 49] Android_Mali_T8xx, [000002077F2CE500][000002077EB63840 49] Android_Mali_G71, [000002077F24BE00][000002077D7159C0 49] Android_Mali_G72, [000002077F2CEA00][000002077D749B40 49] Android_Mali_G72_Vulkan, [000002077F249B00][000002077D74C140 49] Android_Mali_G76, [000002077F2CDB00][000002077D7502C0 49] Android_Mali_G76_Vulkan, [000002077F24BD00][000002077D754440 49] Android_Mali_G77, [000002077F2CED00][000002077D6E85C0 49] Android_Mali_G77_Vulkan, [000002077F24B900][000002077D6EC740 49] Android_Mali_G78, [000002077F2CCD00][000002077D6F08C0 49] Android_Mali_G78_Vulkan, [000002077F248500][000002077D744A40 49] Android_Mali_G710, [000002077F2CEB00][000002077EB5ABC0 49] Android_Mali_G710_Vulkan, [000002077F24B500][000002077D700D40 49] Android_Vulkan_SM5, [000002077F2CF400][000002077D704EC0 49] Android_PowerVR_G6xxx, [000002077F24A400][000002077D76F040 49] Android_PowerVR_GT7xxx, [000002077F2CFC00][000002077EB53180 49] Android_PowerVR_GE8xxx, [000002077F24A200][000002077D7732C0 49] Android_PowerVR_GM9xxx, [000002077F2CF000][00000207003CD400 49] Android_PowerVR_GM9xxx_Vulkan, [000002077F249500][000002077EC87540 49] Android_TegraK1, [000002077F2CD100][000002077D7776C0 49] Android_Unknown_Vulkan, [000002077F28BD00][000002077D77B840 49] Lumin, [000002077F2CE900][000002077D77F9C0 49] Lumin_Desktop, [000002077F28BE00][000002077EC23B40 49] HoloLens, 
+[2022.03.31-06.41.31:347][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.31-06.41.31:347][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.31-06.41.31:347][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.31-06.41.31:347][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.31-06.41.31:347][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.31-06.41.31:369][  0]LogNetVersion: Trials_For_Project 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1074673124)
+[2022.03.31-06.41.31:892][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.03.31-06.41.32:011][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.31-06.41.32:019][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.03.31-06.41.32:019][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.03.31-06.41.32:019][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.31-06.41.32:328][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 206A2767401D2F90BDE03C9BD5C0DE5C | Instance: F3D8C0E54426DCA65A74A0A069AC830F (MADAMS-1STSON-9348).
+[2022.03.31-06.41.32:467][  0]LogPython: Using Python 3.7.7
+[2022.03.31-06.41.33:151][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.31-06.41.33:156][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.31-06.41.33:332][  0]SourceControl: Source control is disabled
+[2022.03.31-06.41.33:332][  0]SourceControl: Source control is disabled
+[2022.03.31-06.41.33:336][  0]SourceControl: Source control is disabled
+[2022.03.31-06.41.33:338][  0]SourceControl: Source control is disabled
+[2022.03.31-06.41.33:345][  0]SourceControl: Source control is disabled
+[2022.03.31-06.41.33:356][  0]LogUProjectInfo: Found projects:
+[2022.03.31-06.41.33:364][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.31-06.41.33:365][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.31-06.41.33:366][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.31-06.41.33:621][  0]LogOpenImageDenoise: OIDN starting up
+[2022.03.31-06.41.33:639][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.31-06.41.33:664][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.31-06.41.33:664][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.31-06.41.33:825][  0]LogCollectionManager: Loaded 0 collections in 0.000885 seconds
+[2022.03.31-06.41.33:852][  0]LogFileCache: Scanning file cache for directory 'D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Collections/' took 0.00s
+[2022.03.31-06.41.33:852][  0]LogFileCache: Scanning file cache for directory 'D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Developers/microsoft/Collections/' took 0.00s
+[2022.03.31-06.41.33:852][  0]LogFileCache: Scanning file cache for directory 'D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Collections/' took 0.00s
+[2022.03.31-06.41.33:852][  0]LogOcInput: OculusInput pre-init called
+[2022.03.31-06.41.34:149][  0]LogEngine: Initializing Engine...
+[2022.03.31-06.41.34:152][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.03.31-06.41.34:152][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.31-06.41.34:152][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.31-06.41.34:153][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.31-06.41.34:317][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.31-06.41.34:328][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.31-06.41.34:350][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.31-06.41.34:355][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.03.31-06.41.34:356][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.03.31-06.41.34:356][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.31-06.41.34:356][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.31-06.41.34:356][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.31-06.41.34:356][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.31-06.41.34:356][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.31-06.41.34:356][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.31-06.41.34:356][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.31-06.41.34:356][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.31-06.41.34:356][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.31-06.41.34:356][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.31-06.41.34:357][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.31-06.41.34:357][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.31-06.41.34:357][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.31-06.41.34:357][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.31-06.41.34:425][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.31-06.41.34:425][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.31-06.41.34:525][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.03.31-06.41.34:532][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.31-06.41.34:535][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.31-06.41.34:535][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.31-06.41.34:536][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.31-06.41.34:536][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.31-06.41.34:536][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.31-06.41.34:537][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.31-06.41.34:537][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.31-06.41.34:537][  0]LogInit: FAudioDevice initialized.
+[2022.03.31-06.41.34:537][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.31-06.41.34:537][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.31-06.41.34:614][  0]LogDerivedDataCache: Saved boot cache 0.08s 94MB C:/Users/microsoft/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.31-06.41.34:614][  0]LogInit: Texture streaming: Enabled
+[2022.03.31-06.41.34:627][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.03.31-06.41.34:632][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.31-06.41.34:632][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.31-06.41.34:641][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.31-06.41.34:672][  0]LogInit: Transaction tracking system initialized
+[2022.03.31-06.41.34:694][  0]BlueprintLog: New page: Editor Load
+[2022.03.31-06.41.34:763][  0]LocalizationService: Localization service is disabled
+[2022.03.31-06.41.34:789][  0]TimingProfiler: Initialize
+[2022.03.31-06.41.34:789][  0]TimingProfiler: OnSessionChanged
+[2022.03.31-06.41.34:789][  0]LoadingProfiler: Initialize
+[2022.03.31-06.41.34:789][  0]LoadingProfiler: OnSessionChanged
+[2022.03.31-06.41.34:790][  0]NetworkingProfiler: Initialize
+[2022.03.31-06.41.34:790][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.31-06.41.34:790][  0]MemoryProfiler: Initialize
+[2022.03.31-06.41.34:790][  0]MemoryProfiler: OnSessionChanged
+[2022.03.31-06.41.34:848][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.31-06.41.34:849][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.31-06.41.34:850][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.31-06.41.34:956][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.31-06.41.34:956][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.31-06.41.35:168][  0]LogFileCache: Scanning file cache for directory 'D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/' took 0.00s
+[2022.03.31-06.41.35:411][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.31-06.41.35:415][  0]SourceControl: Source control is disabled
+[2022.03.31-06.41.35:415][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.134
+[2022.03.31-06.41.35:415][  0]Cmd: MAP LOAD FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.31-06.41.35:415][  0]LightingResults: New page: Lighting Build
+[2022.03.31-06.41.35:417][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-06.41.35:417][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-06.41.35:417][  0]MapCheck: New page: Map Check
+[2022.03.31-06.41.35:417][  0]LightingResults: New page: Lighting Build
+[2022.03.31-06.41.35:422][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.31-06.41.35:425][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.03.31-06.41.35:579][  0]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2022.03.31-06.41.35:585][  0]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.03.31-06.41.35:624][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.03.31-06.41.35:625][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.03.31-06.41.35:633][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.31-06.41.35:643][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.03.31-06.41.35:643][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.31-06.41.35:643][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2022.03.31-06.41.35:643][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.229
+[2022.03.31-06.41.35:646][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.366
+[2022.03.31-06.41.35:792][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.31-06.41.35:800][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.31-06.41.35:807][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.31-06.41.35:814][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.31-06.41.35:829][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0106 seconds. Added 3822 classes and 928 folders.
+[2022.03.31-06.41.35:832][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.31-06.41.35:834][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.31-06.41.35:834][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:834][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.31-06.41.35:834][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:834][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.03.31-06.41.35:834][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2022.03.31-06.41.35:835][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.31-06.41.35:835][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:835][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.31-06.41.35:835][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:835][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.03.31-06.41.35:835][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.03.31-06.41.35:836][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.03.31-06.41.35:836][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:836][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.03.31-06.41.35:836][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:836][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.03.31-06.41.35:836][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.03.31-06.41.35:837][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.31-06.41.35:837][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:837][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.31-06.41.35:837][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:837][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.03.31-06.41.35:837][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.03.31-06.41.35:838][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.31-06.41.35:838][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:838][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.31-06.41.35:838][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:838][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.03.31-06.41.35:838][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.03.31-06.41.35:839][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.31-06.41.35:839][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:839][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.31-06.41.35:839][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:839][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.03.31-06.41.35:839][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.03.31-06.41.35:839][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.31-06.41.35:839][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:839][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.31-06.41.35:839][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:839][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.03.31-06.41.35:839][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.03.31-06.41.35:840][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.31-06.41.35:840][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:840][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.31-06.41.35:840][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:840][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.03.31-06.41.35:840][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.03.31-06.41.35:841][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.31-06.41.35:841][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:841][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.31-06.41.35:841][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:841][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.03.31-06.41.35:841][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.03.31-06.41.35:843][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.31-06.41.35:843][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:843][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.31-06.41.35:843][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:843][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.03.31-06.41.35:843][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.03.31-06.41.35:844][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.31-06.41.35:844][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:844][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.31-06.41.35:844][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:844][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.03.31-06.41.35:844][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.03.31-06.41.35:845][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.31-06.41.35:845][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:845][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.31-06.41.35:845][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:845][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.03.31-06.41.35:845][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.03.31-06.41.35:846][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.31-06.41.35:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:846][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.31-06.41.35:846][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:846][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.03.31-06.41.35:846][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.03.31-06.41.35:846][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.31-06.41.35:847][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:847][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.31-06.41.35:847][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:847][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.03.31-06.41.35:847][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2022.03.31-06.41.35:847][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.31-06.41.35:847][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:848][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.31-06.41.35:848][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:848][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.03.31-06.41.35:848][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.03.31-06.41.35:848][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.31-06.41.35:848][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:848][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.31-06.41.35:848][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:848][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.03.31-06.41.35:849][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.03.31-06.41.35:849][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.31-06.41.35:849][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:849][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.31-06.41.35:850][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:850][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.03.31-06.41.35:850][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.03.31-06.41.35:851][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.31-06.41.35:851][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:851][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.31-06.41.35:851][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:851][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.03.31-06.41.35:851][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.03.31-06.41.35:852][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.31-06.41.35:852][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:852][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.31-06.41.35:852][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:852][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.03.31-06.41.35:852][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.03.31-06.41.35:853][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.31-06.41.35:853][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:853][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.31-06.41.35:853][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:853][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.03.31-06.41.35:853][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.03.31-06.41.35:853][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.31-06.41.35:854][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:854][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.31-06.41.35:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.03.31-06.41.35:854][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.03.31-06.41.35:854][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.31-06.41.35:854][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:854][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.31-06.41.35:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:855][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.03.31-06.41.35:855][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2022.03.31-06.41.35:855][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.03.31-06.41.35:855][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:855][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.03.31-06.41.35:856][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:856][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.03.31-06.41.35:856][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.03.31-06.41.35:857][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.31-06.41.35:857][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:857][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.31-06.41.35:857][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:857][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.03.31-06.41.35:857][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2022.03.31-06.41.35:858][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.31-06.41.35:858][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:858][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.31-06.41.35:858][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:858][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.03.31-06.41.35:858][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.03.31-06.41.35:859][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.31-06.41.35:859][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-06.41.35:859][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.31-06.41.35:859][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Apps/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.31-06.41.35:859][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Apps/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.03.31-06.41.35:859][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.03.31-06.41.35:969][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.31-06.41.35:970][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2022.03.31-06.41.36:041][  0]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.31-06.41.36:045][  0]LogSlate: Took 0.001307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.31-06.41.36:046][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.31-06.41.36:165][  0]LogRenderer: Reallocating scene render targets to support 964x440 Format 10 NumSamples 1 (Frame:1).
+[2022.03.31-06.41.36:331][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.03.31-06.41.36:331][  0]LogLoad: (Engine Initialization) Total time: 10.05 seconds
+[2022.03.31-06.41.36:331][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.31-06.41.36:393][  0]LogAssetRegistry: Asset discovery search completed in 5.5300 seconds
+[2022.03.31-06.41.36:400][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.03.31-06.41.36:402][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.31-06.41.36:498][  3]LogSlate: Took 0.000411 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.31-06.41.37:352][ 54]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.31-06.42.10:859][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube': Can't find file.
+[2022.03.31-06.42.10:859][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube': Can't find file.
+[2022.03.31-06.42.10:859][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube.GreyBoxMap_Cube'
+[2022.03.31-06.42.10:859][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_001': Can't find file.
+[2022.03.31-06.42.10:859][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_001': Can't find file.
+[2022.03.31-06.42.10:859][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_001.GreyBoxMap_Cube_001'
+[2022.03.31-06.42.10:859][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_002': Can't find file.
+[2022.03.31-06.42.10:859][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_002': Can't find file.
+[2022.03.31-06.42.10:859][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_002.GreyBoxMap_Cube_002'
+[2022.03.31-06.42.10:859][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_003': Can't find file.
+[2022.03.31-06.42.10:860][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_003': Can't find file.
+[2022.03.31-06.42.10:860][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_003.GreyBoxMap_Cube_003'
+[2022.03.31-06.42.10:860][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_004': Can't find file.
+[2022.03.31-06.42.10:860][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_004': Can't find file.
+[2022.03.31-06.42.10:860][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_004.GreyBoxMap_Cube_004'
+[2022.03.31-06.42.10:860][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_005': Can't find file.
+[2022.03.31-06.42.10:860][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_005': Can't find file.
+[2022.03.31-06.42.10:860][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_005.GreyBoxMap_Cube_005'
+[2022.03.31-06.42.10:860][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_006': Can't find file.
+[2022.03.31-06.42.10:861][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_006': Can't find file.
+[2022.03.31-06.42.10:861][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_006.GreyBoxMap_Cube_006'
+[2022.03.31-06.42.10:861][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_007': Can't find file.
+[2022.03.31-06.42.10:861][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_007': Can't find file.
+[2022.03.31-06.42.10:861][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_007.GreyBoxMap_Cube_007'
+[2022.03.31-06.42.10:861][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_008': Can't find file.
+[2022.03.31-06.42.10:861][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_008': Can't find file.
+[2022.03.31-06.42.10:861][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_008.GreyBoxMap_Cube_008'
+[2022.03.31-06.42.10:861][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_009': Can't find file.
+[2022.03.31-06.42.10:862][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_009': Can't find file.
+[2022.03.31-06.42.10:862][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_009.GreyBoxMap_Cube_009'
+[2022.03.31-06.42.10:862][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_010': Can't find file.
+[2022.03.31-06.42.10:862][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_010': Can't find file.
+[2022.03.31-06.42.10:862][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_010.GreyBoxMap_Cube_010'
+[2022.03.31-06.42.10:862][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_011': Can't find file.
+[2022.03.31-06.42.10:862][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_011': Can't find file.
+[2022.03.31-06.42.10:862][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_011.GreyBoxMap_Cube_011'
+[2022.03.31-06.42.10:862][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_012': Can't find file.
+[2022.03.31-06.42.10:863][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_012': Can't find file.
+[2022.03.31-06.42.10:863][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_012.GreyBoxMap_Cube_012'
+[2022.03.31-06.42.10:863][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_013': Can't find file.
+[2022.03.31-06.42.10:863][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_013': Can't find file.
+[2022.03.31-06.42.10:863][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_013.GreyBoxMap_Cube_013'
+[2022.03.31-06.42.10:863][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_014': Can't find file.
+[2022.03.31-06.42.10:863][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_014': Can't find file.
+[2022.03.31-06.42.10:863][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_014.GreyBoxMap_Cube_014'
+[2022.03.31-06.42.10:864][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_015': Can't find file.
+[2022.03.31-06.42.10:864][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_015': Can't find file.
+[2022.03.31-06.42.10:864][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_015.GreyBoxMap_Cube_015'
+[2022.03.31-06.42.10:864][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_016': Can't find file.
+[2022.03.31-06.42.10:865][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_016': Can't find file.
+[2022.03.31-06.42.10:865][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_016.GreyBoxMap_Cube_016'
+[2022.03.31-06.42.10:865][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_017': Can't find file.
+[2022.03.31-06.42.10:865][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_017': Can't find file.
+[2022.03.31-06.42.10:865][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_017.GreyBoxMap_Cube_017'
+[2022.03.31-06.42.10:865][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_018': Can't find file.
+[2022.03.31-06.42.10:866][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_018': Can't find file.
+[2022.03.31-06.42.10:866][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_018.GreyBoxMap_Cube_018'
+[2022.03.31-06.42.10:866][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_019': Can't find file.
+[2022.03.31-06.42.10:866][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_019': Can't find file.
+[2022.03.31-06.42.10:866][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_019.GreyBoxMap_Cube_019'
+[2022.03.31-06.42.10:866][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_020': Can't find file.
+[2022.03.31-06.42.10:866][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_020': Can't find file.
+[2022.03.31-06.42.10:866][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_020.GreyBoxMap_Cube_020'
+[2022.03.31-06.42.10:866][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_021': Can't find file.
+[2022.03.31-06.42.10:867][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_021': Can't find file.
+[2022.03.31-06.42.10:867][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_021.GreyBoxMap_Cube_021'
+[2022.03.31-06.42.10:867][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_022': Can't find file.
+[2022.03.31-06.42.10:867][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_022': Can't find file.
+[2022.03.31-06.42.10:867][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_022.GreyBoxMap_Cube_022'
+[2022.03.31-06.42.10:867][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_023': Can't find file.
+[2022.03.31-06.42.10:867][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_023': Can't find file.
+[2022.03.31-06.42.10:867][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_023.GreyBoxMap_Cube_023'
+[2022.03.31-06.42.10:867][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_024': Can't find file.
+[2022.03.31-06.42.10:868][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_024': Can't find file.
+[2022.03.31-06.42.10:868][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_024.GreyBoxMap_Cube_024'
+[2022.03.31-06.42.10:868][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_025': Can't find file.
+[2022.03.31-06.42.10:868][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_025': Can't find file.
+[2022.03.31-06.42.10:868][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_025.GreyBoxMap_Cube_025'
+[2022.03.31-06.42.10:868][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_026': Can't find file.
+[2022.03.31-06.42.10:868][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_026': Can't find file.
+[2022.03.31-06.42.10:868][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_026.GreyBoxMap_Cube_026'
+[2022.03.31-06.42.10:868][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane': Can't find file.
+[2022.03.31-06.42.10:868][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane': Can't find file.
+[2022.03.31-06.42.10:869][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane.GreyBoxMap_Plane'
+[2022.03.31-06.42.10:869][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane_001': Can't find file.
+[2022.03.31-06.42.10:869][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane_001': Can't find file.
+[2022.03.31-06.42.10:869][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane_001.GreyBoxMap_Plane_001'
+[2022.03.31-06.42.10:869][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane_002': Can't find file.
+[2022.03.31-06.42.10:869][608]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane_002': Can't find file.
+[2022.03.31-06.42.10:869][608]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane_002.GreyBoxMap_Plane_002'
+[2022.03.31-06.42.34:552][348]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.31-06.42.34:577][348]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.31-06.42.36:280][451]LogContentBrowser: Attempting asset rename: NewFolder -> Map
+[2022.03.31-06.42.36:281][451]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.31-06.42.39:191][625]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Maps/Environment_trial': Can't find file.
+[2022.03.31-06.42.39:191][625]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Maps/Environment_trial': Can't find file.
+[2022.03.31-06.42.39:191][625]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Maps/Environment_trial.Environment_trial'
+[2022.03.31-06.43.44:391][166]LogSlate: Window 'Message' being destroyed
+[2022.03.31-06.43.44:397][166]Message dialog closed, result: YesAll, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/Wind_Sim/Models/GreyBoxMap
+[2022.03.31-06.43.44:398][166]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Blender/GreyBoxMap.fbx)
+[2022.03.31-06.43.44:540][166]LogEditorFactories: Performing atomic reimport of [D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Blender/GreyBoxMap.fbx]
+[2022.03.31-06.43.44:555][166]LogFbx: Loading FBX Scene from D:/Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Blender/GreyBoxMap.fbx
+[2022.03.31-06.43.44:579][166]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.31-06.43.44:595][166]LogStaticMesh: Building static mesh GreyBoxMap...
+[2022.03.31-06.43.44:613][166]LogStaticMesh: Built static mesh [0.02s] /Engine/Transient.GreyBoxMap
+[2022.03.31-06.43.44:664][166]LogFbx: Display: Triangulating static mesh Plane
+[2022.03.31-06.43.44:665][166]LogFbx: Display: Triangulating static mesh Cube
+[2022.03.31-06.43.44:665][166]LogFbx: Display: Triangulating static mesh Cube.001
+[2022.03.31-06.43.44:666][166]LogFbx: Display: Triangulating static mesh Cube.002
+[2022.03.31-06.43.44:667][166]LogFbx: Display: Triangulating static mesh Cube.004
+[2022.03.31-06.43.44:667][166]LogFbx: Display: Triangulating static mesh Cube.005
+[2022.03.31-06.43.44:669][166]LogFbx: Display: Triangulating static mesh Cube.003
+[2022.03.31-06.43.44:670][166]LogFbx: Display: Triangulating static mesh Cube.008
+[2022.03.31-06.43.44:671][166]LogFbx: Display: Triangulating static mesh Cube.009
+[2022.03.31-06.43.44:672][166]LogFbx: Display: Triangulating static mesh Cube.012
+[2022.03.31-06.43.44:673][166]LogFbx: Display: Triangulating static mesh Plane.001
+[2022.03.31-06.43.44:682][166]LogFbx: Display: Triangulating static mesh Cube.010
+[2022.03.31-06.43.44:683][166]LogFbx: Display: Triangulating static mesh Cube.011
+[2022.03.31-06.43.44:684][166]LogFbx: Display: Triangulating static mesh Cube.013
+[2022.03.31-06.43.44:685][166]LogFbx: Display: Triangulating static mesh Cube.014
+[2022.03.31-06.43.44:686][166]LogFbx: Display: Triangulating static mesh Cube.015
+[2022.03.31-06.43.44:687][166]LogFbx: Display: Triangulating static mesh Cube.017
+[2022.03.31-06.43.44:688][166]LogFbx: Display: Triangulating static mesh Cube.016
+[2022.03.31-06.43.44:689][166]LogFbx: Display: Triangulating static mesh Cube.019
+[2022.03.31-06.43.44:690][166]LogFbx: Display: Triangulating static mesh Cube.018
+[2022.03.31-06.43.44:691][166]LogFbx: Display: Triangulating static mesh Cube.020
+[2022.03.31-06.43.44:693][166]LogFbx: Display: Triangulating static mesh Cube.021
+[2022.03.31-06.43.44:695][166]LogFbx: Display: Triangulating static mesh Cube.006
+[2022.03.31-06.43.44:697][166]LogFbx: Display: Triangulating static mesh Cube.007
+[2022.03.31-06.43.44:698][166]LogFbx: Display: Triangulating static mesh Cube.022
+[2022.03.31-06.43.44:699][166]LogFbx: Display: Triangulating static mesh Cube.023
+[2022.03.31-06.43.44:699][166]LogFbx: Display: Triangulating static mesh Cube.025
+[2022.03.31-06.43.44:700][166]LogFbx: Display: Triangulating static mesh Cube.024
+[2022.03.31-06.43.44:700][166]LogFbx: Display: Triangulating static mesh Plane.002
+[2022.03.31-06.43.44:701][166]LogFbx: Display: Triangulating static mesh Cube.026
+[2022.03.31-06.43.44:712][166]LogStaticMesh: Building static mesh GreyBoxMap...
+[2022.03.31-06.43.44:726][166]LogStaticMesh: Built static mesh [0.01s] /Game/Wind_Sim/Models/GreyBoxMap.GreyBoxMap
+[2022.03.31-06.43.44:728][166]LogStaticMesh: Warning: GreyBoxMap has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.31-06.43.44:728][166]LogStaticMesh: Warning: GreyBoxMap has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.31-06.43.44:735][166]LogEditorFactories: -- imported successfully
+[2022.03.31-06.43.44:739][166]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.03.31-06.43.44:740][166]FBXImport: Warning: GreyBoxMap has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.03.31-06.43.44:740][166]FBXImport: Warning: GreyBoxMap has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.03.31-06.43.50:967][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.03.31-06.43.54:104][485]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.31-06.43.54:117][485]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Wind_Sim/Models/GreyBoxMap.GreyBoxMap
+[2022.03.31-06.43.56:899][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.03.31-06.43.56:907][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.03.31-06.43.56:913][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.03.31-06.44.03:775][682]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Blender/GreyBoxMap.fbx)
+[2022.03.31-06.44.03:793][682]LogFbx: Loading FBX Scene from ../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Blender/GreyBoxMap.fbx
+[2022.03.31-06.44.03:823][682]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.31-06.44.05:022][682]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.03.31-06.44.05:039][682]LogFbx: Display: Triangulating static mesh Plane
+[2022.03.31-06.44.05:041][682]LogStaticMesh: Building static mesh GreyBoxMap_Plane...
+[2022.03.31-06.44.05:042][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Plane.GreyBoxMap_Plane
+[2022.03.31-06.44.05:043][682]LogFbx: Display: Triangulating static mesh Cube
+[2022.03.31-06.44.05:045][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube...
+[2022.03.31-06.44.05:046][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube.GreyBoxMap_Cube
+[2022.03.31-06.44.05:057][682]LogFbx: Display: Triangulating static mesh Cube.001
+[2022.03.31-06.44.05:060][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_001...
+[2022.03.31-06.44.05:061][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_001.GreyBoxMap_Cube_001
+[2022.03.31-06.44.05:065][682]LogFbx: Display: Triangulating static mesh Cube.002
+[2022.03.31-06.44.05:067][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_002...
+[2022.03.31-06.44.05:068][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_002.GreyBoxMap_Cube_002
+[2022.03.31-06.44.05:072][682]LogFbx: Display: Triangulating static mesh Cube.004
+[2022.03.31-06.44.05:074][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_004...
+[2022.03.31-06.44.05:075][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_004.GreyBoxMap_Cube_004
+[2022.03.31-06.44.05:086][682]LogFbx: Display: Triangulating static mesh Cube.005
+[2022.03.31-06.44.05:088][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_005...
+[2022.03.31-06.44.05:089][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_005.GreyBoxMap_Cube_005
+[2022.03.31-06.44.05:096][682]LogFbx: Display: Triangulating static mesh Cube.003
+[2022.03.31-06.44.05:099][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_003...
+[2022.03.31-06.44.05:100][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_003.GreyBoxMap_Cube_003
+[2022.03.31-06.44.05:104][682]LogFbx: Display: Triangulating static mesh Cube.008
+[2022.03.31-06.44.05:106][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_008...
+[2022.03.31-06.44.05:107][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_008.GreyBoxMap_Cube_008
+[2022.03.31-06.44.05:116][682]LogFbx: Display: Triangulating static mesh Cube.009
+[2022.03.31-06.44.05:118][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_009...
+[2022.03.31-06.44.05:119][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_009.GreyBoxMap_Cube_009
+[2022.03.31-06.44.05:123][682]LogFbx: Display: Triangulating static mesh Cube.012
+[2022.03.31-06.44.05:128][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_012...
+[2022.03.31-06.44.05:130][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_012.GreyBoxMap_Cube_012
+[2022.03.31-06.44.05:138][682]LogFbx: Display: Triangulating static mesh Plane.001
+[2022.03.31-06.44.05:154][682]LogStaticMesh: Building static mesh GreyBoxMap_Plane_001...
+[2022.03.31-06.44.05:159][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Plane_001.GreyBoxMap_Plane_001
+[2022.03.31-06.44.05:163][682]LogFbx: Display: Triangulating static mesh Cube.010
+[2022.03.31-06.44.05:165][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_010...
+[2022.03.31-06.44.05:166][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_010.GreyBoxMap_Cube_010
+[2022.03.31-06.44.05:170][682]LogFbx: Display: Triangulating static mesh Cube.011
+[2022.03.31-06.44.05:173][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_011...
+[2022.03.31-06.44.05:174][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_011.GreyBoxMap_Cube_011
+[2022.03.31-06.44.05:185][682]LogFbx: Display: Triangulating static mesh Cube.013
+[2022.03.31-06.44.05:187][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_013...
+[2022.03.31-06.44.05:187][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_013.GreyBoxMap_Cube_013
+[2022.03.31-06.44.05:194][682]LogFbx: Display: Triangulating static mesh Cube.014
+[2022.03.31-06.44.05:198][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_014...
+[2022.03.31-06.44.05:198][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_014.GreyBoxMap_Cube_014
+[2022.03.31-06.44.05:204][682]LogFbx: Display: Triangulating static mesh Cube.015
+[2022.03.31-06.44.05:206][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_015...
+[2022.03.31-06.44.05:206][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_015.GreyBoxMap_Cube_015
+[2022.03.31-06.44.05:215][682]LogFbx: Display: Triangulating static mesh Cube.017
+[2022.03.31-06.44.05:217][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_017...
+[2022.03.31-06.44.05:218][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_017.GreyBoxMap_Cube_017
+[2022.03.31-06.44.05:225][682]LogFbx: Display: Triangulating static mesh Cube.016
+[2022.03.31-06.44.05:230][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_016...
+[2022.03.31-06.44.05:231][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_016.GreyBoxMap_Cube_016
+[2022.03.31-06.44.05:235][682]LogFbx: Display: Triangulating static mesh Cube.019
+[2022.03.31-06.44.05:248][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_019...
+[2022.03.31-06.44.05:249][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_019.GreyBoxMap_Cube_019
+[2022.03.31-06.44.05:253][682]LogFbx: Display: Triangulating static mesh Cube.018
+[2022.03.31-06.44.05:255][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_018...
+[2022.03.31-06.44.05:256][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_018.GreyBoxMap_Cube_018
+[2022.03.31-06.44.05:265][682]LogFbx: Display: Triangulating static mesh Cube.020
+[2022.03.31-06.44.05:268][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_020...
+[2022.03.31-06.44.05:269][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_020.GreyBoxMap_Cube_020
+[2022.03.31-06.44.05:270][682]LogStaticMesh: Warning: GreyBoxMap_Cube_020 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.31-06.44.05:270][682]LogStaticMesh: Warning: GreyBoxMap_Cube_020 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.31-06.44.05:275][682]LogFbx: Display: Triangulating static mesh Cube.021
+[2022.03.31-06.44.05:278][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_021...
+[2022.03.31-06.44.05:279][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_021.GreyBoxMap_Cube_021
+[2022.03.31-06.44.05:280][682]LogStaticMesh: Warning: GreyBoxMap_Cube_021 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.31-06.44.05:280][682]LogStaticMesh: Warning: GreyBoxMap_Cube_021 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.31-06.44.05:285][682]LogFbx: Display: Triangulating static mesh Cube.006
+[2022.03.31-06.44.05:290][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_006...
+[2022.03.31-06.44.05:291][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_006.GreyBoxMap_Cube_006
+[2022.03.31-06.44.05:291][682]LogStaticMesh: Warning: GreyBoxMap_Cube_006 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.31-06.44.05:291][682]LogStaticMesh: Warning: GreyBoxMap_Cube_006 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.31-06.44.05:296][682]LogFbx: Display: Triangulating static mesh Cube.007
+[2022.03.31-06.44.05:299][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_007...
+[2022.03.31-06.44.05:300][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_007.GreyBoxMap_Cube_007
+[2022.03.31-06.44.05:301][682]LogStaticMesh: Warning: GreyBoxMap_Cube_007 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.31-06.44.05:301][682]LogStaticMesh: Warning: GreyBoxMap_Cube_007 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.31-06.44.05:305][682]LogFbx: Display: Triangulating static mesh Cube.022
+[2022.03.31-06.44.05:307][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_022...
+[2022.03.31-06.44.05:307][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_022.GreyBoxMap_Cube_022
+[2022.03.31-06.44.05:312][682]LogFbx: Display: Triangulating static mesh Cube.023
+[2022.03.31-06.44.05:313][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_023...
+[2022.03.31-06.44.05:314][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_023.GreyBoxMap_Cube_023
+[2022.03.31-06.44.05:318][682]LogFbx: Display: Triangulating static mesh Cube.025
+[2022.03.31-06.44.05:320][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_025...
+[2022.03.31-06.44.05:321][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_025.GreyBoxMap_Cube_025
+[2022.03.31-06.44.05:325][682]LogFbx: Display: Triangulating static mesh Cube.024
+[2022.03.31-06.44.05:327][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_024...
+[2022.03.31-06.44.05:328][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_024.GreyBoxMap_Cube_024
+[2022.03.31-06.44.05:335][682]LogFbx: Display: Triangulating static mesh Plane.002
+[2022.03.31-06.44.05:337][682]LogStaticMesh: Building static mesh GreyBoxMap_Plane_002...
+[2022.03.31-06.44.05:337][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Plane_002.GreyBoxMap_Plane_002
+[2022.03.31-06.44.05:343][682]LogFbx: Display: Triangulating static mesh Cube.026
+[2022.03.31-06.44.05:344][682]LogStaticMesh: Building static mesh GreyBoxMap_Cube_026...
+[2022.03.31-06.44.05:345][682]LogStaticMesh: Built static mesh [0.00s] /Game/Wind_Sim/Models/GreyBoxMap_Cube_026.GreyBoxMap_Cube_026
+[2022.03.31-06.44.05:397][682]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.03.31-06.44.05:397][682]FBXImport: Warning: GreyBoxMap_Cube_020 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.03.31-06.44.05:397][682]FBXImport: Warning: GreyBoxMap_Cube_020 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.03.31-06.44.05:397][682]FBXImport: Warning: GreyBoxMap_Cube_021 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.03.31-06.44.05:397][682]FBXImport: Warning: GreyBoxMap_Cube_021 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.03.31-06.44.05:397][682]FBXImport: Warning: GreyBoxMap_Cube_006 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.03.31-06.44.05:397][682]FBXImport: Warning: GreyBoxMap_Cube_006 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.03.31-06.44.05:397][682]FBXImport: Warning: GreyBoxMap_Cube_007 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.03.31-06.44.05:397][682]FBXImport: Warning: GreyBoxMap_Cube_007 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.03.31-06.44.05:569][682]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.31-06.44.07:123][763]LogSlate: Window 'Message Log' being destroyed
+[2022.03.31-06.44.07:131][763]LogSlate: Window 'Message Log' being destroyed
+[2022.03.31-06.44.10:094][939]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.31-06.45.41:251][165]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.03.31-06.45.41:251][165]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2022.03.31-06.45.41:251][165]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.03.31-06.45.41:251][165]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2022.03.31-06.45.41:251][165]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.03.31-06.45.41:251][165]LogWindows: Warning: URL: C:\Users\microsoft\AppData\Local/Programs/Git/cmd/git.exe version
+[2022.03.31-06.45.41:251][165]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.03.31-06.45.41:251][165]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2022.03.31-06.45.41:251][165]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.03.31-06.45.41:251][165]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2022.03.31-06.45.41:251][165]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.03.31-06.45.41:251][165]LogWindows: Warning: URL: C:\Users\microsoft\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2022.03.31-06.45.41:251][165]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.03.31-06.45.41:252][165]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2022.03.31-06.45.49:597][382]SourceControl: Source control is disabled
+[2022.03.31-06.45.49:597][382]LogSlate: Window 'Source Control Login' being destroyed
+[2022.03.31-06.46.17:638][ 96]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.03.31-06.46.17:647][ 96]LogContentBrowser: Creating deferred item: NewWorld
+[2022.03.31-06.46.19:335][198]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2022.03.31-06.46.19:338][198]LogContentBrowser: End creating deferred item NewWorld
+[2022.03.31-06.46.20:333][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.03.31-06.46.21:707][256]LogSlate: Window 'Save Content' being destroyed
+[2022.03.31-06.46.21:789][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube.uasset" SILENT=true
+[2022.03.31-06.46.21:799][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube78523E6A481626EC0C68B18F67E31F9D.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube.uasset'
+[2022.03.31-06.46.21:825][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_001" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_001.uasset" SILENT=true
+[2022.03.31-06.46.21:833][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_0010539D37F422C66DD619CF6997729EEBD.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_001.uasset'
+[2022.03.31-06.46.21:858][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_002" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_002.uasset" SILENT=true
+[2022.03.31-06.46.21:867][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_002C0F7FAEC41E19D630D7E8BA395FB1B12.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_002.uasset'
+[2022.03.31-06.46.21:898][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_003" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_003.uasset" SILENT=true
+[2022.03.31-06.46.21:907][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_0031AD90B0E408F7AC3936B1F8195D8B7E5.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_003.uasset'
+[2022.03.31-06.46.21:937][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_004" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_004.uasset" SILENT=true
+[2022.03.31-06.46.21:984][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_004158CFADC4CFA24A3D468AD8B5F4BF112.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_004.uasset'
+[2022.03.31-06.46.22:011][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_005" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_005.uasset" SILENT=true
+[2022.03.31-06.46.22:018][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_0052659F875441D391C3E69009E6882B218.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_005.uasset'
+[2022.03.31-06.46.22:045][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_006" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_006.uasset" SILENT=true
+[2022.03.31-06.46.22:053][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_0064AB060A74B9775EAA97F5588DE7B838C.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_006.uasset'
+[2022.03.31-06.46.22:080][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_007" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_007.uasset" SILENT=true
+[2022.03.31-06.46.22:087][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_007785BC625429EFDFB5978E0A1AC641AFC.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_007.uasset'
+[2022.03.31-06.46.22:114][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_008" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_008.uasset" SILENT=true
+[2022.03.31-06.46.22:139][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_008300F09D743F36EE6F32FCB9CD37399AE.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_008.uasset'
+[2022.03.31-06.46.22:165][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_009" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_009.uasset" SILENT=true
+[2022.03.31-06.46.22:171][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_009751071544EAA7AD41B8242863AABD8E7.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_009.uasset'
+[2022.03.31-06.46.22:196][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_010" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_010.uasset" SILENT=true
+[2022.03.31-06.46.22:205][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_010FDCFC8914E2214517CCCB9ACA78D1E99.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_010.uasset'
+[2022.03.31-06.46.22:233][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_011" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_011.uasset" SILENT=true
+[2022.03.31-06.46.22:240][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_011F577AA614E57D3B7C0D9D5BDA50BBB8B.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_011.uasset'
+[2022.03.31-06.46.22:268][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_012" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_012.uasset" SILENT=true
+[2022.03.31-06.46.22:276][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_012C8FCCBB546583CEECAF37D81D2A055B9.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_012.uasset'
+[2022.03.31-06.46.22:303][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_013" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_013.uasset" SILENT=true
+[2022.03.31-06.46.22:309][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_013CD53D8FE41A465F2888ED690ACC61939.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_013.uasset'
+[2022.03.31-06.46.22:328][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_014" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_014.uasset" SILENT=true
+[2022.03.31-06.46.22:335][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_014B66E344049E8018EEC5A5D912135EA63.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_014.uasset'
+[2022.03.31-06.46.22:352][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_015" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_015.uasset" SILENT=true
+[2022.03.31-06.46.22:359][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_015E0B7110F404978A655F7A4BB633F9235.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_015.uasset'
+[2022.03.31-06.46.22:376][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_016" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_016.uasset" SILENT=true
+[2022.03.31-06.46.22:382][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_0163F28D89E4B62DBCCF815F397FA5A06DE.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_016.uasset'
+[2022.03.31-06.46.22:400][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_017" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_017.uasset" SILENT=true
+[2022.03.31-06.46.22:408][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_017728A142346F16AD2ABDB84BE284D5E6D.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_017.uasset'
+[2022.03.31-06.46.22:425][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_018" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_018.uasset" SILENT=true
+[2022.03.31-06.46.22:432][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_0187CADA81A46A7E2CE48B6BFBE15477007.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_018.uasset'
+[2022.03.31-06.46.22:449][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_019" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_019.uasset" SILENT=true
+[2022.03.31-06.46.22:456][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_019547D519340992D445EFD0889ED181481.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_019.uasset'
+[2022.03.31-06.46.22:472][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_020" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_020.uasset" SILENT=true
+[2022.03.31-06.46.22:480][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_0205B04505144DA53287B8D0A84CE62B3C9.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_020.uasset'
+[2022.03.31-06.46.22:498][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_021" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_021.uasset" SILENT=true
+[2022.03.31-06.46.22:505][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_02166F0E44645455E8AAF58EE92E1324D7F.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_021.uasset'
+[2022.03.31-06.46.22:522][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_022" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_022.uasset" SILENT=true
+[2022.03.31-06.46.22:529][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_0227DE0862B40C6FAE9C5D04FB23EFFBE13.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_022.uasset'
+[2022.03.31-06.46.22:546][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_023" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_023.uasset" SILENT=true
+[2022.03.31-06.46.22:553][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_0233407547346AEB6281474C885BFCAA650.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_023.uasset'
+[2022.03.31-06.46.22:572][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_024" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_024.uasset" SILENT=true
+[2022.03.31-06.46.22:580][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_024890E41D649A1591CC32E3EB8857AC4CF.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_024.uasset'
+[2022.03.31-06.46.22:598][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_025" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_025.uasset" SILENT=true
+[2022.03.31-06.46.22:615][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_0259293C479459D74972F06D4BB231E2C11.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_025.uasset'
+[2022.03.31-06.46.22:634][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Cube_026" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_026.uasset" SILENT=true
+[2022.03.31-06.46.22:641][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Cube_0260BAF7B694708444DFB2F32B449D344B9.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Cube_026.uasset'
+[2022.03.31-06.46.22:658][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wind_Sim/Models/GreyBoxMap_Plane" FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Plane.uasset" SILENT=true
+[2022.03.31-06.46.22:665][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Plane17ACA72D4D66BC0D0B6541AD30B88622.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Plane.uasset'
+[2022.03.31-06.46.22:690][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Plane_001A802A51246EAA11D8CC319807920D110.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Plane_001.uasset'
+[2022.03.31-06.46.22:715][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/GreyBoxMap_Plane_0027D9427F04B51424D21BC7E97F553446D.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Models/GreyBoxMap_Plane_002.uasset'
+[2022.03.31-06.46.22:724][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.03.31-06.46.22:726][256]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/NewWorld735659B04915C39FBD0A5684C7A9F6B2.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Map/NewWorld.umap'
+[2022.03.31-06.46.22:727][256]LogFileHelpers: Saving map 'NewWorld' took 0.011
+[2022.03.31-06.46.22:754][256]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Wind_Sim/Map/NewWorld.NewWorld
+[2022.03.31-06.46.22:755][256]Cmd: MAP LOAD FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Map/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.31-06.46.22:755][256]LightingResults: New page: Lighting Build
+[2022.03.31-06.46.22:755][256]LoadErrors: New page: Loading map: NewWorld.umap
+[2022.03.31-06.46.22:793][256]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-06.46.22:793][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-06.46.22:793][256]MapCheck: New page: Map Check
+[2022.03.31-06.46.22:793][256]LightingResults: New page: Lighting Build
+[2022.03.31-06.46.22:799][256]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.31-06.46.22:802][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.03.31-06.46.22:802][256]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewWorld'.
+[2022.03.31-06.46.22:803][256]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.31-06.46.22:803][256]LogAIModule: Creating AISystem for world NewWorld
+[2022.03.31-06.46.22:811][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.03.31-06.46.22:819][256]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.31-06.46.22:820][256]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.176ms to complete.
+[2022.03.31-06.46.22:820][256]LogFileHelpers: Loading map 'NewWorld' took 0.065
+[2022.03.31-06.46.22:849][256]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.31-06.46.22:849][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Plane_001.GreyBoxMap_Plane_001
+[2022.03.31-06.46.22:849][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_012.GreyBoxMap_Cube_012
+[2022.03.31-06.46.22:849][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_009.GreyBoxMap_Cube_009
+[2022.03.31-06.46.22:849][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_008.GreyBoxMap_Cube_008
+[2022.03.31-06.46.22:850][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_003.GreyBoxMap_Cube_003
+[2022.03.31-06.46.22:850][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_005.GreyBoxMap_Cube_005
+[2022.03.31-06.46.22:850][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_004.GreyBoxMap_Cube_004
+[2022.03.31-06.46.22:850][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_002.GreyBoxMap_Cube_002
+[2022.03.31-06.46.22:850][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_001.GreyBoxMap_Cube_001
+[2022.03.31-06.46.22:850][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube.GreyBoxMap_Cube
+[2022.03.31-06.46.22:850][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Plane.GreyBoxMap_Plane
+[2022.03.31-06.46.22:850][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_010.GreyBoxMap_Cube_010
+[2022.03.31-06.46.22:850][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_011.GreyBoxMap_Cube_011
+[2022.03.31-06.46.22:850][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_013.GreyBoxMap_Cube_013
+[2022.03.31-06.46.22:850][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_014.GreyBoxMap_Cube_014
+[2022.03.31-06.46.22:850][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_015.GreyBoxMap_Cube_015
+[2022.03.31-06.46.22:850][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_017.GreyBoxMap_Cube_017
+[2022.03.31-06.46.22:850][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_016.GreyBoxMap_Cube_016
+[2022.03.31-06.46.22:851][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_019.GreyBoxMap_Cube_019
+[2022.03.31-06.46.22:851][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_018.GreyBoxMap_Cube_018
+[2022.03.31-06.46.22:851][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_020.GreyBoxMap_Cube_020
+[2022.03.31-06.46.22:851][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_021.GreyBoxMap_Cube_021
+[2022.03.31-06.46.22:851][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_006.GreyBoxMap_Cube_006
+[2022.03.31-06.46.22:851][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_007.GreyBoxMap_Cube_007
+[2022.03.31-06.46.22:851][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_022.GreyBoxMap_Cube_022
+[2022.03.31-06.46.22:851][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_023.GreyBoxMap_Cube_023
+[2022.03.31-06.46.22:851][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_025.GreyBoxMap_Cube_025
+[2022.03.31-06.46.22:851][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_024.GreyBoxMap_Cube_024
+[2022.03.31-06.46.22:851][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Plane_002.GreyBoxMap_Plane_002
+[2022.03.31-06.46.22:851][256]LogContentValidation: Display: Validating StaticMesh /Game/Wind_Sim/Models/GreyBoxMap_Cube_026.GreyBoxMap_Cube_026
+[2022.03.31-06.46.22:851][256]LogContentValidation: Display: Validating World /Game/Wind_Sim/Map/NewWorld.NewWorld
+[2022.03.31-06.46.23:765][309]Cmd: EDIT PASTE
+[2022.03.31-06.46.23:802][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane.GreyBoxMap_Plane"''
+[2022.03.31-06.46.23:803][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane_001.GreyBoxMap_Plane_001"''
+[2022.03.31-06.46.23:803][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane_002.GreyBoxMap_Plane_002"''
+[2022.03.31-06.46.23:804][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_006.GreyBoxMap_Cube_006"''
+[2022.03.31-06.46.23:805][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_007.GreyBoxMap_Cube_007"''
+[2022.03.31-06.46.23:805][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_022.GreyBoxMap_Cube_022"''
+[2022.03.31-06.46.23:806][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_020.GreyBoxMap_Cube_020"''
+[2022.03.31-06.46.23:806][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_021.GreyBoxMap_Cube_021"''
+[2022.03.31-06.46.23:807][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_024.GreyBoxMap_Cube_024"''
+[2022.03.31-06.46.23:807][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_023.GreyBoxMap_Cube_023"''
+[2022.03.31-06.46.23:808][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_025.GreyBoxMap_Cube_025"''
+[2022.03.31-06.46.23:808][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_004.GreyBoxMap_Cube_004"''
+[2022.03.31-06.46.23:808][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_004.GreyBoxMap_Cube_004"''
+[2022.03.31-06.46.23:809][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_018.GreyBoxMap_Cube_018"''
+[2022.03.31-06.46.23:810][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_018.GreyBoxMap_Cube_018"''
+[2022.03.31-06.46.23:810][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_015.GreyBoxMap_Cube_015"''
+[2022.03.31-06.46.23:811][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_015.GreyBoxMap_Cube_015"''
+[2022.03.31-06.46.23:811][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_026.GreyBoxMap_Cube_026"''
+[2022.03.31-06.46.23:812][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_002.GreyBoxMap_Cube_002"''
+[2022.03.31-06.46.23:813][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_005.GreyBoxMap_Cube_005"''
+[2022.03.31-06.46.23:813][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_003.GreyBoxMap_Cube_003"''
+[2022.03.31-06.46.23:814][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_001.GreyBoxMap_Cube_001"''
+[2022.03.31-06.46.23:814][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube.GreyBoxMap_Cube"''
+[2022.03.31-06.46.23:815][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_008.GreyBoxMap_Cube_008"''
+[2022.03.31-06.46.23:815][309]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_009.GreyBoxMap_Cube_009"''
+[2022.03.31-06.46.41:298][333]Cmd: TRANSACTION UNDO
+[2022.03.31-06.46.41:298][333]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.31-06.46.56:719][222]Cmd: DELETE
+[2022.03.31-06.46.56:719][222]Cmd: ACTOR DELETE
+[2022.03.31-06.46.56:723][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:724][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:724][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:724][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:724][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:724][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:724][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:725][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:725][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:725][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:725][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:725][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:725][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:726][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:726][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:726][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:726][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:727][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:727][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:727][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:727][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:727][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:727][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:728][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:728][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-06.46.56:734][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.03.31-06.46.56:735][222]LogEditorActor: Deleted 25 Actors (0.016 secs)
+[2022.03.31-06.47.06:944][657]LogActorFactory: Actor Factory created GreyBoxMap_Cube_011
+[2022.03.31-06.47.07:502][690]LogActorFactory: Actor Factory created GreyBoxMap_Cube_011
+[2022.03.31-06.47.12:400][981]Cmd: TRANSACTION UNDO
+[2022.03.31-06.47.12:400][981]LogEditorTransaction: Undo Create Actors
+[2022.03.31-06.47.13:286][ 17]Cmd: TRANSACTION UNDO
+[2022.03.31-06.47.13:287][ 17]LogEditorTransaction: Undo Delete Actors
+[2022.03.31-06.47.21:804][518]LogEditorViewport: Clicking Background
+[2022.03.31-06.50.05:248][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.03.31-06.50.08:423][599]LogSlate: Window 'Save Content' being destroyed
+[2022.03.31-06.50.08:486][599]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Wind_Sim/Map/Environment_trial.Environment_trial
+[2022.03.31-06.50.08:486][599]Cmd: MAP LOAD FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Map/Environment_trial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.31-06.50.08:487][599]LightingResults: New page: Lighting Build
+[2022.03.31-06.50.08:487][599]LoadErrors: New page: Loading map: Environment_trial.umap
+[2022.03.31-06.50.08:488][599]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-06.50.08:488][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-06.50.08:488][599]MapCheck: New page: Map Check
+[2022.03.31-06.50.08:488][599]LightingResults: New page: Lighting Build
+[2022.03.31-06.50.08:495][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.31-06.50.08:497][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.03.31-06.50.08:498][599]LogAudio: Display: Audio Device (ID: 1) registered with world 'Environment_trial'.
+[2022.03.31-06.50.08:500][599]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.31-06.50.08:500][599]LogAIModule: Creating AISystem for world Environment_trial
+[2022.03.31-06.50.08:510][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.03.31-06.50.08:524][599]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.31-06.50.08:524][599]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2022.03.31-06.50.08:524][599]LogFileHelpers: Loading map 'Environment_trial' took 0.038
+[2022.03.31-06.50.29:253][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.03.31-06.50.29:263][835]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Environment_trial1C0E310541277D76F17381A6EE7FC938.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Map/Environment_trial.umap'
+[2022.03.31-06.50.29:288][835]AssetCheck: New page: Asset Save: Environment_trial
+[2022.03.31-06.50.29:288][835]LogContentValidation: Display: Validating World /Game/Wind_Sim/Map/Environment_trial.Environment_trial
+[2022.03.31-06.51.37:012][990]Cmd: EDIT PASTE
+[2022.03.31-06.51.37:030][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane.GreyBoxMap_Plane"''
+[2022.03.31-06.51.37:031][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane_001.GreyBoxMap_Plane_001"''
+[2022.03.31-06.51.37:032][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane_002.GreyBoxMap_Plane_002"''
+[2022.03.31-06.51.37:032][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_006.GreyBoxMap_Cube_006"''
+[2022.03.31-06.51.37:033][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_007.GreyBoxMap_Cube_007"''
+[2022.03.31-06.51.37:034][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_022.GreyBoxMap_Cube_022"''
+[2022.03.31-06.51.37:034][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_020.GreyBoxMap_Cube_020"''
+[2022.03.31-06.51.37:035][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_021.GreyBoxMap_Cube_021"''
+[2022.03.31-06.51.37:036][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_024.GreyBoxMap_Cube_024"''
+[2022.03.31-06.51.37:037][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_023.GreyBoxMap_Cube_023"''
+[2022.03.31-06.51.37:038][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_025.GreyBoxMap_Cube_025"''
+[2022.03.31-06.51.37:038][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_004.GreyBoxMap_Cube_004"''
+[2022.03.31-06.51.37:039][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_004.GreyBoxMap_Cube_004"''
+[2022.03.31-06.51.37:039][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_018.GreyBoxMap_Cube_018"''
+[2022.03.31-06.51.37:040][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_018.GreyBoxMap_Cube_018"''
+[2022.03.31-06.51.37:041][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_015.GreyBoxMap_Cube_015"''
+[2022.03.31-06.51.37:041][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_015.GreyBoxMap_Cube_015"''
+[2022.03.31-06.51.37:042][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_026.GreyBoxMap_Cube_026"''
+[2022.03.31-06.51.37:042][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_002.GreyBoxMap_Cube_002"''
+[2022.03.31-06.51.37:043][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_005.GreyBoxMap_Cube_005"''
+[2022.03.31-06.51.37:043][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_003.GreyBoxMap_Cube_003"''
+[2022.03.31-06.51.37:044][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_001.GreyBoxMap_Cube_001"''
+[2022.03.31-06.51.37:044][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube.GreyBoxMap_Cube"''
+[2022.03.31-06.51.37:045][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_008.GreyBoxMap_Cube_008"''
+[2022.03.31-06.51.37:045][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_009.GreyBoxMap_Cube_009"''
+[2022.03.31-06.51.56:434][748]Cmd: EDIT PASTE
+[2022.03.31-06.51.56:448][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane.GreyBoxMap_Plane"''
+[2022.03.31-06.51.56:448][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane_001.GreyBoxMap_Plane_001"''
+[2022.03.31-06.51.56:449][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane_002.GreyBoxMap_Plane_002"''
+[2022.03.31-06.51.56:449][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_006.GreyBoxMap_Cube_006"''
+[2022.03.31-06.51.56:450][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_007.GreyBoxMap_Cube_007"''
+[2022.03.31-06.51.56:450][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_022.GreyBoxMap_Cube_022"''
+[2022.03.31-06.51.56:451][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_020.GreyBoxMap_Cube_020"''
+[2022.03.31-06.51.56:452][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_021.GreyBoxMap_Cube_021"''
+[2022.03.31-06.51.56:452][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_024.GreyBoxMap_Cube_024"''
+[2022.03.31-06.51.56:452][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_023.GreyBoxMap_Cube_023"''
+[2022.03.31-06.51.56:453][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_025.GreyBoxMap_Cube_025"''
+[2022.03.31-06.51.56:453][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_004.GreyBoxMap_Cube_004"''
+[2022.03.31-06.51.56:453][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_004.GreyBoxMap_Cube_004"''
+[2022.03.31-06.51.56:454][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_018.GreyBoxMap_Cube_018"''
+[2022.03.31-06.51.56:454][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_018.GreyBoxMap_Cube_018"''
+[2022.03.31-06.51.56:455][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_015.GreyBoxMap_Cube_015"''
+[2022.03.31-06.51.56:455][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_015.GreyBoxMap_Cube_015"''
+[2022.03.31-06.51.56:456][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_026.GreyBoxMap_Cube_026"''
+[2022.03.31-06.51.56:456][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_002.GreyBoxMap_Cube_002"''
+[2022.03.31-06.51.56:457][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_005.GreyBoxMap_Cube_005"''
+[2022.03.31-06.51.56:457][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_003.GreyBoxMap_Cube_003"''
+[2022.03.31-06.51.56:458][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_001.GreyBoxMap_Cube_001"''
+[2022.03.31-06.51.56:458][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube.GreyBoxMap_Cube"''
+[2022.03.31-06.51.56:458][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_008.GreyBoxMap_Cube_008"''
+[2022.03.31-06.51.56:459][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_009.GreyBoxMap_Cube_009"''
+[2022.03.31-06.52.16:911][454]LogEditorViewport: Clicking Background
+[2022.03.31-06.57.08:639][970]LogActorFactory: Actor Factory created GreyBoxMap_Plane
+[2022.03.31-06.57.09:766][ 36]LogActorFactory: Actor Factory created GreyBoxMap_Plane
+[2022.03.31-06.57.20:709][656]LogEditorViewport: Clicking Background
+[2022.03.31-06.57.21:645][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GreyBoxMap_Plane4)
+[2022.03.31-06.57.31:960][308]LogActorFactory: Actor Factory created Plane
+[2022.03.31-06.57.33:869][417]LogActorFactory: Actor Factory created Plane
+[2022.03.31-07.00.09:539][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GreyBoxMap_Plane4)
+[2022.03.31-07.00.12:910][641]LogActorFactory: Actor Factory created GreyBoxMap_Plane_001
+[2022.03.31-07.00.16:351][844]LogActorFactory: Actor Factory created GreyBoxMap_Plane_001
+[2022.03.31-07.00.18:117][948]Cmd: DELETE
+[2022.03.31-07.00.18:117][948]Cmd: ACTOR DELETE
+[2022.03.31-07.00.18:120][948]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-07.00.18:130][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.03.31-07.00.18:132][948]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.03.31-07.00.19:241][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.31-07.00.20:861][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GreyBoxMap_Plane4)
+[2022.03.31-07.00.22:525][208]Cmd: DELETE
+[2022.03.31-07.00.22:525][208]Cmd: ACTOR DELETE
+[2022.03.31-07.00.22:530][208]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-07.00.22:536][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.03.31-07.00.22:537][208]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.03.31-07.00.22:854][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.31-07.01.18:614][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.03.31-07.01.18:636][165]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Environment_trial_Auto1C2D0CD0945C422CE583F489BE722B74E.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Autosaves/Game/Wind_Sim/Map/Environment_trial_Auto1.umap'
+[2022.03.31-07.01.18:637][165]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Wind_Sim/Map/Environment_trial' took 0.033
+[2022.03.31-07.01.18:637][165]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
