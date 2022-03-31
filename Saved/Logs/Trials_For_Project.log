@@ -1360,3 +1360,105 @@ An asset already exists at the import location: /Game/Wind_Sim/Models/GreyBoxMap
 [2022.03.31-06.47.13:286][ 17]Cmd: TRANSACTION UNDO
 [2022.03.31-06.47.13:287][ 17]LogEditorTransaction: Undo Delete Actors
 [2022.03.31-06.47.21:804][518]LogEditorViewport: Clicking Background
+[2022.03.31-06.50.05:248][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.03.31-06.50.08:423][599]LogSlate: Window 'Save Content' being destroyed
+[2022.03.31-06.50.08:486][599]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Wind_Sim/Map/Environment_trial.Environment_trial
+[2022.03.31-06.50.08:486][599]Cmd: MAP LOAD FILE="../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Map/Environment_trial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.31-06.50.08:487][599]LightingResults: New page: Lighting Build
+[2022.03.31-06.50.08:487][599]LoadErrors: New page: Loading map: Environment_trial.umap
+[2022.03.31-06.50.08:488][599]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-06.50.08:488][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-06.50.08:488][599]MapCheck: New page: Map Check
+[2022.03.31-06.50.08:488][599]LightingResults: New page: Lighting Build
+[2022.03.31-06.50.08:495][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.31-06.50.08:497][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.03.31-06.50.08:498][599]LogAudio: Display: Audio Device (ID: 1) registered with world 'Environment_trial'.
+[2022.03.31-06.50.08:500][599]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.31-06.50.08:500][599]LogAIModule: Creating AISystem for world Environment_trial
+[2022.03.31-06.50.08:510][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.03.31-06.50.08:524][599]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.31-06.50.08:524][599]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2022.03.31-06.50.08:524][599]LogFileHelpers: Loading map 'Environment_trial' took 0.038
+[2022.03.31-06.50.29:253][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.03.31-06.50.29:263][835]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Environment_trial1C0E310541277D76F17381A6EE7FC938.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Content/Wind_Sim/Map/Environment_trial.umap'
+[2022.03.31-06.50.29:288][835]AssetCheck: New page: Asset Save: Environment_trial
+[2022.03.31-06.50.29:288][835]LogContentValidation: Display: Validating World /Game/Wind_Sim/Map/Environment_trial.Environment_trial
+[2022.03.31-06.51.37:012][990]Cmd: EDIT PASTE
+[2022.03.31-06.51.37:030][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane.GreyBoxMap_Plane"''
+[2022.03.31-06.51.37:031][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane_001.GreyBoxMap_Plane_001"''
+[2022.03.31-06.51.37:032][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane_002.GreyBoxMap_Plane_002"''
+[2022.03.31-06.51.37:032][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_006.GreyBoxMap_Cube_006"''
+[2022.03.31-06.51.37:033][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_007.GreyBoxMap_Cube_007"''
+[2022.03.31-06.51.37:034][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_022.GreyBoxMap_Cube_022"''
+[2022.03.31-06.51.37:034][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_020.GreyBoxMap_Cube_020"''
+[2022.03.31-06.51.37:035][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_021.GreyBoxMap_Cube_021"''
+[2022.03.31-06.51.37:036][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_024.GreyBoxMap_Cube_024"''
+[2022.03.31-06.51.37:037][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_023.GreyBoxMap_Cube_023"''
+[2022.03.31-06.51.37:038][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_025.GreyBoxMap_Cube_025"''
+[2022.03.31-06.51.37:038][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_004.GreyBoxMap_Cube_004"''
+[2022.03.31-06.51.37:039][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_004.GreyBoxMap_Cube_004"''
+[2022.03.31-06.51.37:039][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_018.GreyBoxMap_Cube_018"''
+[2022.03.31-06.51.37:040][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_018.GreyBoxMap_Cube_018"''
+[2022.03.31-06.51.37:041][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_015.GreyBoxMap_Cube_015"''
+[2022.03.31-06.51.37:041][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_015.GreyBoxMap_Cube_015"''
+[2022.03.31-06.51.37:042][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_026.GreyBoxMap_Cube_026"''
+[2022.03.31-06.51.37:042][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_002.GreyBoxMap_Cube_002"''
+[2022.03.31-06.51.37:043][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_005.GreyBoxMap_Cube_005"''
+[2022.03.31-06.51.37:043][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_003.GreyBoxMap_Cube_003"''
+[2022.03.31-06.51.37:044][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_001.GreyBoxMap_Cube_001"''
+[2022.03.31-06.51.37:044][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube.GreyBoxMap_Cube"''
+[2022.03.31-06.51.37:045][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_008.GreyBoxMap_Cube_008"''
+[2022.03.31-06.51.37:045][990]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_009.GreyBoxMap_Cube_009"''
+[2022.03.31-06.51.56:434][748]Cmd: EDIT PASTE
+[2022.03.31-06.51.56:448][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane.GreyBoxMap_Plane"''
+[2022.03.31-06.51.56:448][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane_001.GreyBoxMap_Plane_001"''
+[2022.03.31-06.51.56:449][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Plane_002.GreyBoxMap_Plane_002"''
+[2022.03.31-06.51.56:449][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_006.GreyBoxMap_Cube_006"''
+[2022.03.31-06.51.56:450][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_007.GreyBoxMap_Cube_007"''
+[2022.03.31-06.51.56:450][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_022.GreyBoxMap_Cube_022"''
+[2022.03.31-06.51.56:451][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_020.GreyBoxMap_Cube_020"''
+[2022.03.31-06.51.56:452][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_021.GreyBoxMap_Cube_021"''
+[2022.03.31-06.51.56:452][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_024.GreyBoxMap_Cube_024"''
+[2022.03.31-06.51.56:452][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_023.GreyBoxMap_Cube_023"''
+[2022.03.31-06.51.56:453][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_025.GreyBoxMap_Cube_025"''
+[2022.03.31-06.51.56:453][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_004.GreyBoxMap_Cube_004"''
+[2022.03.31-06.51.56:453][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_004.GreyBoxMap_Cube_004"''
+[2022.03.31-06.51.56:454][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_018.GreyBoxMap_Cube_018"''
+[2022.03.31-06.51.56:454][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_018.GreyBoxMap_Cube_018"''
+[2022.03.31-06.51.56:455][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_015.GreyBoxMap_Cube_015"''
+[2022.03.31-06.51.56:455][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_015.GreyBoxMap_Cube_015"''
+[2022.03.31-06.51.56:456][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_026.GreyBoxMap_Cube_026"''
+[2022.03.31-06.51.56:456][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_002.GreyBoxMap_Cube_002"''
+[2022.03.31-06.51.56:457][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_005.GreyBoxMap_Cube_005"''
+[2022.03.31-06.51.56:457][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_003.GreyBoxMap_Cube_003"''
+[2022.03.31-06.51.56:458][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_001.GreyBoxMap_Cube_001"''
+[2022.03.31-06.51.56:458][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube.GreyBoxMap_Cube"''
+[2022.03.31-06.51.56:458][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_008.GreyBoxMap_Cube_008"''
+[2022.03.31-06.51.56:459][748]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FirstPersonBP/Map_Models/GreyBoxMap_Cube_009.GreyBoxMap_Cube_009"''
+[2022.03.31-06.52.16:911][454]LogEditorViewport: Clicking Background
+[2022.03.31-06.57.08:639][970]LogActorFactory: Actor Factory created GreyBoxMap_Plane
+[2022.03.31-06.57.09:766][ 36]LogActorFactory: Actor Factory created GreyBoxMap_Plane
+[2022.03.31-06.57.20:709][656]LogEditorViewport: Clicking Background
+[2022.03.31-06.57.21:645][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GreyBoxMap_Plane4)
+[2022.03.31-06.57.31:960][308]LogActorFactory: Actor Factory created Plane
+[2022.03.31-06.57.33:869][417]LogActorFactory: Actor Factory created Plane
+[2022.03.31-07.00.09:539][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GreyBoxMap_Plane4)
+[2022.03.31-07.00.12:910][641]LogActorFactory: Actor Factory created GreyBoxMap_Plane_001
+[2022.03.31-07.00.16:351][844]LogActorFactory: Actor Factory created GreyBoxMap_Plane_001
+[2022.03.31-07.00.18:117][948]Cmd: DELETE
+[2022.03.31-07.00.18:117][948]Cmd: ACTOR DELETE
+[2022.03.31-07.00.18:120][948]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-07.00.18:130][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.03.31-07.00.18:132][948]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.03.31-07.00.19:241][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.31-07.00.20:861][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GreyBoxMap_Plane4)
+[2022.03.31-07.00.22:525][208]Cmd: DELETE
+[2022.03.31-07.00.22:525][208]Cmd: ACTOR DELETE
+[2022.03.31-07.00.22:530][208]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-07.00.22:536][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.03.31-07.00.22:537][208]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.03.31-07.00.22:854][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.31-07.01.18:614][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.03.31-07.01.18:636][165]LogSavePackage: Moving '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Environment_trial_Auto1C2D0CD0945C422CE583F489BE722B74E.tmp' to '../../../../../Abe/UKP/Semester 4/Game Dev/Project/TheBigBigg/Saved/Autosaves/Game/Wind_Sim/Map/Environment_trial_Auto1.umap'
+[2022.03.31-07.01.18:637][165]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Wind_Sim/Map/Environment_trial' took 0.033
+[2022.03.31-07.01.18:637][165]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
