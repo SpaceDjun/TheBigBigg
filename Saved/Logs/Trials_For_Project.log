@@ -929,3 +929,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.01-06.53.36:786][510]AssetCheck: New page: Asset Save: multiple assets
 [2022.04.01-06.53.36:786][510]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2022.04.01-06.53.36:786][510]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.04.01-07.06.41:521][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.04.01-07.06.41:534][140]LogSavePackage: Moving '../../../../../../Users/Envy/Documents/GitHub/TheBigBigg/Saved/Minimal_Default489AB34D45BB3C8FB4C65FA8FC66B138.tmp' to '../../../../../../Users/Envy/Documents/GitHub/TheBigBigg/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.04.01-07.06.41:683][140]LogSavePackage: Moving '../../../../../../Users/Envy/Documents/GitHub/TheBigBigg/Saved/Minimal_Default_BuiltDataDD05030D4B19B2DA1EA47BA0BAF4A528.tmp' to '../../../../../../Users/Envy/Documents/GitHub/TheBigBigg/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.04.01-07.06.41:692][140]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.01-07.06.41:692][140]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.04.01-07.06.41:692][140]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
