@@ -1,0 +1,1546 @@
+﻿Log file open, 05/30/22 20:19:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=17684)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Trials_For_Project
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19764885"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.1-19764885+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" E:/GitRepos/Repos/TheBigBigg/Trials_For_Project.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="a237984843b692113e5f3ead7d5edaa2"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.331106
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-5187828441F48DA97A93C1A3E8E89120
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19764885
+LogInit: Engine Version: 5.0.1-19764885+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 15 2022 04:06:52
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Unreal 5/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.05.30-13.19.12:202][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.05.30-13.19.12:202][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.05.30-13.19.12:202][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.05.30-13.19.12:203][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.05.30-13.19.12:206][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.05.30-13.19.12:206][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.05.30-13.19.12:206][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.05.30-13.19.12:206][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.05.30-13.19.12:206][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.05.30-13.19.12:206][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.05.30-13.19.12:206][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.05.30-13.19.12:206][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.05.30-13.19.12:206][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.05.30-13.19.12:206][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.05.30-13.19.12:206][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.05.30-13.19.12:222][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.05.30-13.19.12:280][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.05.30-13.19.12:280][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.05.30-13.19.12:280][  0]LogD3D11RHI: D3D11 adapters:
+[2022.05.30-13.19.12:280][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2022.05.30-13.19.12:280][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060
+[2022.05.30-13.19.12:280][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.05.30-13.19.12:280][  0]LogD3D11RHI:     DeviceId    : 1c20
+[2022.05.30-13.19.12:280][  0]LogD3D11RHI:     SubSysId    : 118b1025
+[2022.05.30-13.19.12:280][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.05.30-13.19.12:280][  0]LogD3D11RHI:     DedicatedVideoMemory : 6345981952 bytes
+[2022.05.30-13.19.12:280][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.30-13.19.12:280][  0]LogD3D11RHI:     SharedSystemMemory : 8528906240 bytes
+[2022.05.30-13.19.12:280][  0]LogD3D11RHI:     AdapterLuid : 0 62243
+[2022.05.30-13.19.12:456][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_1)
+[2022.05.30-13.19.12:456][  0]LogD3D11RHI:       6052/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.05.30-13.19.12:456][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2022.05.30-13.19.12:456][  0]LogD3D11RHI:     Description : Intel(R) HD Graphics 630
+[2022.05.30-13.19.12:456][  0]LogD3D11RHI:     VendorId    : 8086
+[2022.05.30-13.19.12:456][  0]LogD3D11RHI:     DeviceId    : 591b
+[2022.05.30-13.19.12:456][  0]LogD3D11RHI:     SubSysId    : 118a1025
+[2022.05.30-13.19.12:456][  0]LogD3D11RHI:     Revision    : 0004
+[2022.05.30-13.19.12:456][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2022.05.30-13.19.12:456][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.30-13.19.12:456][  0]LogD3D11RHI:     SharedSystemMemory : 8528906240 bytes
+[2022.05.30-13.19.12:456][  0]LogD3D11RHI:     AdapterLuid : 0 61477
+[2022.05.30-13.19.12:492][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_1)
+[2022.05.30-13.19.12:493][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.05.30-13.19.12:493][  0]LogD3D11RHI: Testing D3D11 Adapter 2:
+[2022.05.30-13.19.12:493][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2022.05.30-13.19.12:493][  0]LogD3D11RHI:     VendorId    : 1414
+[2022.05.30-13.19.12:493][  0]LogD3D11RHI:     DeviceId    : 008c
+[2022.05.30-13.19.12:493][  0]LogD3D11RHI:     SubSysId    : 0000
+[2022.05.30-13.19.12:493][  0]LogD3D11RHI:     Revision    : 0000
+[2022.05.30-13.19.12:493][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2022.05.30-13.19.12:493][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.30-13.19.12:493][  0]LogD3D11RHI:     SharedSystemMemory : 8528906240 bytes
+[2022.05.30-13.19.12:493][  0]LogD3D11RHI:     AdapterLuid : 0 62175
+[2022.05.30-13.19.12:496][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.05.30-13.19.12:496][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.05.30-13.19.12:496][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.05.30-13.19.12:496][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060
+[2022.05.30-13.19.12:496][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.05.30-13.19.12:496][  0]LogD3D11RHI:     DeviceId    : 1c20
+[2022.05.30-13.19.12:496][  0]LogD3D11RHI:     SubSysId    : 118b1025
+[2022.05.30-13.19.12:496][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.05.30-13.19.12:496][  0]LogD3D11RHI:     DedicatedVideoMemory : 6345981952 bytes
+[2022.05.30-13.19.12:496][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.30-13.19.12:496][  0]LogD3D11RHI:     SharedSystemMemory : 8528906240 bytes
+[2022.05.30-13.19.12:496][  0]LogD3D11RHI:     AdapterLuid : 0 62243
+[2022.05.30-13.19.12:496][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.05.30-13.19.12:496][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.05.30-13.19.12:496][  0]LogHAL: Display: Platform has ~ 16 GB [17057812480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.30-13.19.12:496][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.05.30-13.19.12:496][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.05.30-13.19.12:496][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.30-13.19.12:497][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.05.30-13.19.12:497][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/GitRepos/Repos/TheBigBigg/Saved/Config/WindowsEditor/Editor.ini]
+[2022.05.30-13.19.12:497][  0]LogInit: Computer: LAPTOP-G4MPR6LO
+[2022.05.30-13.19.12:497][  0]LogInit: User: WiryawanHalim
+[2022.05.30-13.19.12:497][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.05.30-13.19.12:497][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.30-13.19.12:497][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.05.30-13.19.12:497][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.05.30-13.19.12:497][  0]LogMemory: Process Physical Memory: 254.61 MB used, 261.91 MB peak
+[2022.05.30-13.19.12:497][  0]LogMemory: Process Virtual Memory: 200.36 MB used, 200.36 MB peak
+[2022.05.30-13.19.12:497][  0]LogMemory: Physical Memory: 8967.60 MB used,  7300.00 MB free, 16267.60 MB total
+[2022.05.30-13.19.12:497][  0]LogMemory: Virtual Memory: 16775.34 MB used,  2911.57 MB free, 19686.91 MB total
+[2022.05.30-13.19.12:497][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.05.30-13.19.12:504][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.30-13.19.12:522][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.05.30-13.19.12:522][  0]LogInit: Using OS detected language (en-US).
+[2022.05.30-13.19.12:522][  0]LogInit: Using OS detected locale (en-ID).
+[2022.05.30-13.19.12:525][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.05.30-13.19.12:728][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.30-13.19.12:746][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.05.30-13.19.12:746][  0]LogWindowsTextInputMethodSystem:   - English (Indonesia) - (Keyboard).
+[2022.05.30-13.19.12:746][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.05.30-13.19.12:746][  0]LogWindowsTextInputMethodSystem:   - Chinese (Simplified, China) - Microsoft Pinyin (TSF IME).
+[2022.05.30-13.19.12:746][  0]LogWindowsTextInputMethodSystem:   - Japanese (Japan) - Microsoft IME (TSF IME).
+[2022.05.30-13.19.12:746][  0]LogWindowsTextInputMethodSystem:   - Indonesian (Indonesia) - (Keyboard).
+[2022.05.30-13.19.12:746][  0]LogWindowsTextInputMethodSystem: Activated input method: English (Indonesia) - (Keyboard).
+[2022.05.30-13.19.12:767][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.30-13.19.12:767][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.30-13.19.12:908][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.05.30-13.19.12:908][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.30-13.19.12:908][  0]LogWindows: EnumDisplayDevices:
+[2022.05.30-13.19.12:908][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2022.05.30-13.19.12:908][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2022.05.30-13.19.12:909][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2022.05.30-13.19.12:909][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2022.05.30-13.19.12:909][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.05.30-13.19.12:909][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2022.05.30-13.19.12:909][  0]LogD3D11RHI:   Driver Version: 512.59 (internal:30.0.15.1259, unified:512.59)
+[2022.05.30-13.19.12:909][  0]LogD3D11RHI:      Driver Date: 4-20-2022
+[2022.05.30-13.19.12:909][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2022.05.30-13.19.12:909][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.05.30-13.19.12:909][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060
+[2022.05.30-13.19.12:909][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.05.30-13.19.12:909][  0]LogD3D11RHI:     DeviceId    : 1c20
+[2022.05.30-13.19.12:909][  0]LogD3D11RHI:     SubSysId    : 118b1025
+[2022.05.30-13.19.12:909][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.05.30-13.19.12:909][  0]LogD3D11RHI:     DedicatedVideoMemory : 6345981952 bytes
+[2022.05.30-13.19.12:909][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.30-13.19.12:909][  0]LogD3D11RHI:     SharedSystemMemory : 8528906240 bytes
+[2022.05.30-13.19.12:909][  0]LogD3D11RHI:     AdapterLuid : 0 62243
+[2022.05.30-13.19.12:994][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.05.30-13.19.12:994][  0]LogD3D11RHI: Async texture creation enabled
+[2022.05.30-13.19.12:994][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.05.30-13.19.12:994][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.05.30-13.19.13:022][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.05.30-13.19.13:078][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.05.30-13.19.13:084][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/GitRepos/Repos/TheBigBigg/Trials_For_Project.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/GitRepos/Repos/TheBigBigg/Intermediate/TurnkeyReport_0.log" -log="E:/GitRepos/Repos/TheBigBigg/Intermediate/TurnkeyLog_0.log" -project="E:/GitRepos/Repos/TheBigBigg/Trials_For_Project.uproject"  -platform=all'
+[2022.05.30-13.19.13:084][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Unreal 5/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/GitRepos/Repos/TheBigBigg/Trials_For_Project.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/GitRepos/Repos/TheBigBigg/Intermediate/TurnkeyReport_0.log" -log="E:/GitRepos/Repos/TheBigBigg/Intermediate/TurnkeyLog_0.log" -project="E:/GitRepos/Repos/TheBigBigg/Trials_For_Project.uproject"  -platform=all" ]
+[2022.05.30-13.19.13:110][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.05.30-13.19.13:120][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.05.30-13.19.13:120][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.05.30-13.19.13:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.30-13.19.13:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.30-13.19.13:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.30-13.19.13:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.30-13.19.13:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.30-13.19.13:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.30-13.19.13:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.30-13.19.13:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.30-13.19.13:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.30-13.19.13:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.30-13.19.13:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.05.30-13.19.13:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.05.30-13.19.13:161][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.30-13.19.13:161][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.30-13.19.13:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.30-13.19.13:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.05.30-13.19.13:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.30-13.19.13:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.30-13.19.13:168][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.05.30-13.19.13:168][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.05.30-13.19.13:168][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.05.30-13.19.13:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.30-13.19.13:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.30-13.19.13:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.30-13.19.13:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.05.30-13.19.13:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.30-13.19.13:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.30-13.19.13:177][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.05.30-13.19.13:185][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.30-13.19.13:187][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.05.30-13.19.13:187][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.05.30-13.19.13:187][  0]LogTargetPlatformManager:   ADPCM
+[2022.05.30-13.19.13:187][  0]LogTargetPlatformManager:   PCM
+[2022.05.30-13.19.13:190][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.05.30-13.19.13:190][  0]LogTargetPlatformManager:   BINKA
+[2022.05.30-13.19.13:190][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.05.30-13.19.13:190][  0]LogTargetPlatformManager:   OGG
+[2022.05.30-13.19.13:190][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.05.30-13.19.13:190][  0]LogTargetPlatformManager:   OPUS
+[2022.05.30-13.19.13:235][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.05.30-13.19.13:241][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.05.30-13.19.13:241][  0]LogTargetPlatformManager:   SF_METAL
+[2022.05.30-13.19.13:241][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.05.30-13.19.13:241][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.05.30-13.19.13:241][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.05.30-13.19.13:241][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.05.30-13.19.13:241][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.05.30-13.19.13:241][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.05.30-13.19.13:241][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.05.30-13.19.13:241][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.05.30-13.19.13:241][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.05.30-13.19.13:241][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.05.30-13.19.13:241][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.05.30-13.19.13:241][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.05.30-13.19.13:241][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.05.30-13.19.13:241][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.05.30-13.19.13:244][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.05.30-13.19.13:244][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.05.30-13.19.13:244][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.05.30-13.19.13:245][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.05.30-13.19.13:245][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.05.30-13.19.13:245][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.05.30-13.19.13:245][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.05.30-13.19.13:245][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.30-13.19.13:245][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../GitRepos/Repos/TheBigBigg/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.05.30-13.19.13:245][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.05.30-13.19.13:245][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../GitRepos/Repos/TheBigBigg/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.05.30-13.19.13:245][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.05.30-13.19.13:248][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitRepos/Repos/TheBigBigg/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.30-13.19.13:248][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.05.30-13.19.13:248][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitRepos/Repos/TheBigBigg/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.30-13.19.13:248][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.05.30-13.19.13:272][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1092 MiB)
+[2022.05.30-13.19.13:272][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.30-13.19.13:272][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.05.30-13.19.13:281][  0]LogDerivedDataCache: Speed tests for C:/Users/Wiryawan Halim/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.05.30-13.19.13:281][  0]LogDerivedDataCache: Display: Performance to C:/Users/Wiryawan Halim/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=989.13MBs, RandomWriteSpeed=131.86MBs. Assigned SpeedClass 'Local'
+[2022.05.30-13.19.13:282][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Wiryawan Halim/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.30-13.19.13:282][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.30-13.19.13:282][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.05.30-13.19.13:291][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.05.30-13.19.13:291][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.05.30-13.19.13:291][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (../../../../../GitRepos/Repos/TheBigBigg/Intermediate/Shaders/WorkingDirectory/14172/).
+[2022.05.30-13.19.13:292][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Wiryawan Halim/AppData/Local/Temp/UnrealShaderWorkingDir/9DCA2FE94539DCFBF2B0318283A6C7C9/'.
+[2022.05.30-13.19.13:292][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.05.30-13.19.13:292][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.05.30-13.19.15:175][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.05.30-13.19.15:175][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.30-13.19.15:176][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.30-13.19.15:217][  0]LogAssetRegistry: FAssetRegistry took 0.0135 seconds to start up
+[2022.05.30-13.19.15:222][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.05.30-13.19.15:434][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.05.30-13.19.15:435][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.05.30-13.19.15:672][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.05.30-13.19.15:672][  0]LogDeviceProfileManager: Active device profile: [00000631133CF6C0][000006310762A000 50] WindowsEditor
+[2022.05.30-13.19.15:672][  0]LogDeviceProfileManager: Profiles: [00000631133CF180][0000063107625000 50] Windows, [00000631133CF6C0][000006310762A000 50] WindowsEditor, [00000631133CD3C0][00000631075CA000 50] WindowsServer, [00000631133CB0C0][00000631066D7800 50] WindowsClient, [00000631133CF500][0000063107627800 50] IOS, [00000631133CCE80][00000630F7725000 50] iPadAir2, [00000631133CEE00][00000631137A2800 50] IPadPro, [00000631133CCCC0][00000631137A0000 50] iPadAir3, [00000631133CEFC0][00000631137A7800 50] iPadAir4, [00000631133CB980][00000631137AA000 50] iPadMini4, [00000631133CD040][00000631137AC800 50] iPadMini5, [00000631133CF880][0000063107660000 50] iPadMini6, [0000063112992300][00000631137D5000 50] iPhone6S, [0000063112992680][00000631137D2800 50] iPhone7, [0000063112992A00][00000631137D0000 50] iPodTouch7, [0000063112991180][00000631137DA000 50] iPhone6SPlus, [0000063112991A40][00000631137DC800 50] iPhone7Plus, [0000063112990C40][00000631137A5000 50] iPhoneSE, [0000063112990FC0][00000631137F0000 50] iPhone8, [0000063112991F80][00000631137F5000 50] iPhone8Plus, [0000063112992BC0][00000631137F7800 50] iPhoneX, [0000063112993800][00000631137FA000 50] iPhoneXS, [0000063112990700][00000631137FC800 50] iPhoneXSMax, [0000063112990380][00000631137D7800 50] iPhoneXR, [00000631129924C0][00000631137B0000 50] iPhone11, [00000631129939C0][00000631137B5000 50] iPhone11Pro, [0000063112992140][00000631137B7800 50] iPhone11ProMax, [0000063112992D80][00000631137BA000 50] iPhoneSE2, [00000631129932C0][00000631137BC800 50] iPhone12Mini, [0000063112991C00][00000631137F2800 50] iPhone12, [00000631129947C0][00000631129A0000 50] iPhone12Pro, [00000631129916C0][00000631129A5000 50] iPhone12ProMax, [0000063112992840][00000631129A7800 50] iPhone13Mini, [00000631129908C0][00000631129AA000 50] iPhone13, [0000063112994980][00000631129AC800 50] iPhone13Pro, [0000063112993100][00000631137B2800 50] iPhone13ProMax, [0000063112993B80][00000631129B0000 50] iPadPro105, [0000063112994280][00000631129B5000 50] iPadPro129, [0000063112993480][00000631129B7800 50] iPadPro97, [0000063112995780][00000631129BA000 50] iPadPro2_129, [0000063112991500][00000631129BC800 50] iPad5, [0000063112993D40][00000631129A2800 50] iPad6, [0000063112993640][00000631129C0000 50] iPad7, [0000063112995940][00000631129C5000 50] iPad8, [00000631129940C0][00000631129C7800 50] iPad9, [0000063112994B40][00000631129CA000 50] iPadPro11, [0000063112995240][00000631129CC800 50] iPadPro2_11, [0000063112994440][00000631129B2800 50] iPadPro3_11, [0000063112996740][00000631129D0000 50] iPadPro3_129, [0000063112990E00][00000631129D5000 50] iPadPro4_129, [0000063112994D00][00000631129D7800 50] iPadPro5_129, [0000063112994600][00000631129DA000 50] AppleTV, [0000063112996900][00000631129DC800 50] AppleTV4K, [0000063112995080][00000631129C2800 50] TVOS, [0000063112998C00][00000631129E2800 50] Mac, [0000063112998F80][00000631129E0000 50] MacEditor, [0000063112991340][00000631129E7800 50] MacClient, [0000063112997A80][00000631129EA000 50] MacServer, [00000631129994C0][00000631129D2800 50] Linux, [0000063112992F40][00000631129EC800 50] LinuxEditor, [0000063112994EC0][0000063112A00000 50] LinuxArm64Editor, [0000063112991880][0000063112A05000 50] LinuxArm64, [0000063112997FC0][0000063112A07800 50] LinuxClient, [0000063112998500][0000063112A0A000 50] LinuxArm64Client, [0000063112995CC0][0000063112A0C800 50] LinuxServer, [00000631129986C0][00000631129E5000 50] LinuxArm64Server, [00000631129963C0][0000063113780000 50] Android, [0000063112997E00][0000063113785000 50] Android_Preview_OpenGL, [0000063112997700][0000063113787800 50] Android_Preview_Vulkan, [0000063112996580][000006311378A000 50] Android_Low, [00000631129971C0][000006311378C800 50] Android_Mid, [0000063112993F00][0000063112A02800 50] Android_High, [0000063112999BC0][0000063112A10000 50] Android_Default, [0000063112990000][0000063112A15000 50] Android_Adreno4xx, [0000063112997000][0000063112A17800 50] Android_Adreno5xx_Low, [0000063112997380][0000063112A1A000 50] Android_Adreno5xx, [0000063112990540][0000063112A1C800 50] Android_Adreno6xx, [0000063112999300][0000063113782800 50] Android_Adreno6xx_Vulkan, [0000063112998180][0000063112A20000 50] Android_Adreno7xx, [0000063112999A00][0000063112A25000 50] Android_Adreno7xx_Vulkan, [0000063112998A40][0000063112A27800 50] Android_Mali_T6xx, [0000063112990A80][0000063112A2A000 50] Android_Mali_T7xx, [000006311299A100][0000063112A2C800 50] Android_Mali_T8xx, [0000063112996040][0000063112A12800 50] Android_Mali_G71, [000006311299AB80][0000063112A30000 50] Android_Mali_G72, [00000631129901C0][0000063112A35000 50] Android_Mali_G72_Vulkan, [0000063112999F40][0000063112A37800 50] Android_Mali_G76, [0000063112998340][0000063112A3A000 50] Android_Mali_G76_Vulkan, [000006311299A480][0000063112A3C800 50] Android_Mali_G77, [0000063112999680][0000063112A22800 50] Android_Mali_G77_Vulkan, [000006311299AF00][0000063112A40000 50] Android_Mali_G78, [0000063112997C40][0000063112A45000 50] Android_Mali_G78_Vulkan, [000006311299BB40][0000063112A47800 50] Android_Mali_G710, [0000063112996C80][0000063112A4A000 50] Android_Mali_G710_Vulkan, [000006311299AD40][0000063112A4C800 50] Android_Xclipse_920, [0000063112995E80][0000063112A32800 50] Android_Xclipse_920_Vulkan, [0000063112995400][0000063112A50000 50] Android_Vulkan_SM5, [0000063112991DC0][0000063112A55000 50] Android_PowerVR_G6xxx, [000006311299BEC0][0000063112A57800 50] Android_PowerVR_GT7xxx, [0000063112999D80][0000063112A5A000 50] Android_PowerVR_GE8xxx, [000006311299CB00][0000063112A5C800 50] Android_PowerVR_GM9xxx, [0000063112996E40][0000063112A42800 50] Android_PowerVR_GM9xxx_Vulkan, [000006311299BD00][0000063112A60000 50] Android_TegraK1, [0000063112998880][0000063112A65000 50] Android_Unknown_Vulkan, [0000063112999840][0000063112A67800 50] Oculus_Quest, [00000631129978C0][0000063112A6A000 50] Oculus_Quest2, [000006311299CCC0][0000063112A6C800 50] HoloLens, 
+[2022.05.30-13.19.15:673][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.05.30-13.19.15:676][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.05.30-13.19.15:676][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.05.30-13.19.15:676][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.05.30-13.19.15:676][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.05.30-13.19.15:676][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.05.30-13.19.15:696][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.05.30-13.19.15:942][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.30-13.19.15:942][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.30-13.19.15:942][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.30-13.19.15:942][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.30-13.19.15:942][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.30-13.19.15:955][  0]LogNetVersion: Trials_For_Project 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2171547110)
+[2022.05.30-13.19.16:095][  0]LogSlate: Border
+[2022.05.30-13.19.16:095][  0]LogSlate: BreadcrumbButton
+[2022.05.30-13.19.16:095][  0]LogSlate: Default
+[2022.05.30-13.19.16:095][  0]LogSlate: Icons.Save
+[2022.05.30-13.19.16:095][  0]LogSlate: Icons.Toolbar.Settings
+[2022.05.30-13.19.16:095][  0]LogSlate: ListView
+[2022.05.30-13.19.16:095][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.05.30-13.19.16:095][  0]LogSlate: SoftwareCursor_Grab
+[2022.05.30-13.19.16:095][  0]LogSlate: TableView.DarkRow
+[2022.05.30-13.19.16:095][  0]LogSlate: TableView.Row
+[2022.05.30-13.19.16:095][  0]LogSlate: TreeView
+[2022.05.30-13.19.16:311][  0]SourceControl: Source control is disabled
+[2022.05.30-13.19.16:341][  0]SourceControl: Source control is disabled
+[2022.05.30-13.19.16:342][  0]SourceControl: Source control is disabled
+[2022.05.30-13.19.16:478][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.05.30-13.19.16:478][  0]LogUObjectAllocator: 5584240 out of 0 bytes used by permanent object pool.
+[2022.05.30-13.19.16:478][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.30-13.19.16:845][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 2BFD86624B70C1716B4258BCECA1808D | Instance: 3CBC027944DD641063E329ADF9899DD3 (LAPTOP-G4MPR6LO-14172).
+[2022.05.30-13.19.16:882][  0]LogPython: Using Python 3.9.7
+[2022.05.30-13.19.17:781][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.30-13.19.17:786][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.30-13.19.17:874][  0]SourceControl: Source control is disabled
+[2022.05.30-13.19.17:876][  0]SourceControl: Source control is disabled
+[2022.05.30-13.19.17:890][  0]SourceControl: Source control is disabled
+[2022.05.30-13.19.17:899][  0]LogUProjectInfo: Found projects:
+[2022.05.30-13.19.18:180][  0]LogOpenImageDenoise: OIDN starting up
+[2022.05.30-13.19.18:228][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.30-13.19.18:251][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.30-13.19.18:251][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.30-13.19.18:353][  0]LogCollectionManager: Loaded 0 collections in 0.000905 seconds
+[2022.05.30-13.19.18:436][  0]LogFileCache: Scanning file cache for directory 'E:/GitRepos/Repos/TheBigBigg/Saved/Collections/' took 0.00s
+[2022.05.30-13.19.18:436][  0]LogFileCache: Scanning file cache for directory 'E:/GitRepos/Repos/TheBigBigg/Content/Developers/WiryawanHalim/Collections/' took 0.00s
+[2022.05.30-13.19.18:436][  0]LogFileCache: Scanning file cache for directory 'E:/GitRepos/Repos/TheBigBigg/Content/Collections/' took 0.00s
+[2022.05.30-13.19.18:799][  0]LogEngine: Initializing Engine...
+[2022.05.30-13.19.18:815][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.30-13.19.19:192][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.30-13.19.19:193][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.30-13.19.19:209][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.30-13.19.19:245][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.30-13.19.19:246][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.30-13.19.19:273][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.05.30-13.19.19:273][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.05.30-13.19.19:273][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.05.30-13.19.19:274][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.30-13.19.19:274][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.30-13.19.19:274][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.30-13.19.19:274][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.30-13.19.19:274][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.30-13.19.19:274][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.30-13.19.19:274][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.30-13.19.19:274][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.30-13.19.19:274][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.30-13.19.19:274][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.30-13.19.19:274][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.30-13.19.19:274][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.30-13.19.19:274][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.30-13.19.19:281][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.30-13.19.19:814][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio(SST))
+[2022.05.30-13.19.19:815][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.30-13.19.19:817][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.30-13.19.19:817][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.30-13.19.19:818][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.05.30-13.19.19:818][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.05.30-13.19.19:819][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.05.30-13.19.19:819][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.05.30-13.19.19:819][  0]LogInit: FAudioDevice initialized.
+[2022.05.30-13.19.19:820][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.30-13.19.19:820][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.30-13.19.19:820][  0]LogInit: Texture streaming: Enabled
+[2022.05.30-13.19.19:860][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.1-19764885+++UE5+Release-5.0
+[2022.05.30-13.19.19:872][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.30-13.19.19:902][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.05.30-13.19.19:910][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.05.30-13.19.19:910][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.05.30-13.19.21:196][  0]LogLiveCoding: Display: First instance in process group "UE_Trials_For_Project_0x45afcf8c", spawning console
+[2022.05.30-13.19.21:196][  0]LogLiveCoding: Display: Waiting for server
+[2022.05.30-13.19.21:196][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.05.30-13.19.21:292][  0]LogInit: Transaction tracking system initialized
+[2022.05.30-13.19.21:385][  0]BlueprintLog: New page: Editor Load
+[2022.05.30-13.19.21:625][  0]LocalizationService: Localization service is disabled
+[2022.05.30-13.19.21:685][  0]TimingProfiler: Initialize
+[2022.05.30-13.19.21:685][  0]TimingProfiler: OnSessionChanged
+[2022.05.30-13.19.21:685][  0]LoadingProfiler: Initialize
+[2022.05.30-13.19.21:685][  0]LoadingProfiler: OnSessionChanged
+[2022.05.30-13.19.21:685][  0]NetworkingProfiler: Initialize
+[2022.05.30-13.19.21:686][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.30-13.19.21:686][  0]MemoryProfiler: Initialize
+[2022.05.30-13.19.21:686][  0]MemoryProfiler: OnSessionChanged
+[2022.05.30-13.19.22:512][  0]LogFileCache: Scanning file cache for directory 'E:/GitRepos/Repos/TheBigBigg/Content/' took 0.01s
+[2022.05.30-13.19.22:512][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.05.30-13.19.22:604][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.30-13.19.22:606][  0]SourceControl: Source control is disabled
+[2022.05.30-13.19.22:606][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.703
+[2022.05.30-13.19.22:606][  0]Cmd: MAP LOAD FILE="../../../../../GitRepos/Repos/TheBigBigg/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.30-13.19.22:606][  0]LightingResults: New page: Lighting Build
+[2022.05.30-13.19.22:615][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-13.19.22:615][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-13.19.22:615][  0]MapCheck: New page: Map Check
+[2022.05.30-13.19.22:615][  0]LightingResults: New page: Lighting Build
+[2022.05.30-13.19.22:624][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.30-13.19.22:627][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.30-13.19.22:790][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair should be resaved to improve async compilation performance.
+[2022.05.30-13.19.22:798][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue should be resaved to improve async compilation performance.
+[2022.05.30-13.19.22:806][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound should be resaved to improve async compilation performance.
+[2022.05.30-13.19.22:816][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.05.30-13.19.22:816][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.30-13.19.22:816][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.30-13.19.22:817][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.30-13.19.22:822][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.30-13.19.22:831][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.30-13.19.22:832][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.30-13.19.22:832][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.105ms to complete.
+[2022.05.30-13.19.22:832][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.226
+[2022.05.30-13.19.22:844][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.942
+[2022.05.30-13.19.22:844][  0]LogShaderCompilers: Display: ================================================
+[2022.05.30-13.19.22:844][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.30-13.19.22:844][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.30-13.19.22:844][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.30-13.19.22:844][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.05.30-13.19.22:844][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.30-13.19.22:844][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.05.30-13.19.22:844][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.05.30-13.19.22:844][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.05.30-13.19.22:844][  0]LogShaderCompilers: Display: ================================================
+[2022.05.30-13.19.22:961][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.30-13.19.22:968][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.30-13.19.22:974][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.30-13.19.22:980][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.30-13.19.23:033][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal 5/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.05.30-13.19.23:033][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.30-13.19.23:033][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal 5/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.05.30-13.19.23:033][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.30-13.19.23:034][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal 5/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.05.30-13.19.23:034][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.30-13.19.23:034][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal 5/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.05.30-13.19.23:034][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.30-13.19.23:035][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal 5/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.05.30-13.19.23:035][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.30-13.19.23:036][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal 5/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.05.30-13.19.23:036][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.30-13.19.23:036][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal 5/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.05.30-13.19.23:036][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.30-13.19.23:037][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal 5/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.05.30-13.19.23:037][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.30-13.19.23:037][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal 5/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.05.30-13.19.23:037][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.30-13.19.23:038][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal 5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.05.30-13.19.23:038][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.30-13.19.23:176][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.30-13.19.23:182][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.30-13.19.23:182][  0]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.30-13.19.23:612][  0]LogStall: Startup...
+[2022.05.30-13.19.23:614][  0]LogStall: Startup complete.
+[2022.05.30-13.19.23:649][  0]LogInput: Warning: Action Jump uses invalid key Daydream_Left_Select_Click.
+[2022.05.30-13.19.23:649][  0]LogInput: Warning: Action ResetVR uses invalid key Daydream_Left_Trackpad_Click.
+[2022.05.30-13.19.23:649][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.05.30-13.19.23:649][  0]LogInput: Warning: Action Jump uses invalid key MagicLeap_Left_Trigger.
+[2022.05.30-13.19.23:649][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.05.30-13.19.23:649][  0]LogInput: Warning: Action ResetVR uses invalid key MagicLeap_Left_Bumper.
+[2022.05.30-13.19.23:649][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.05.30-13.19.23:649][  0]LogLoad: (Engine Initialization) Total time: 12.75 seconds
+[2022.05.30-13.19.23:649][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.30-13.19.23:696][  0]LogAssetRegistry: Asset discovery search completed in 8.4799 seconds
+[2022.05.30-13.19.23:705][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.05.30-13.19.23:736][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.30-13.19.23:769][  0]LogSlate: Took 0.000086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.30-13.19.23:901][  1]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.30-13.19.26:106][ 94]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.30-13.19.26:111][ 94]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.30-13.19.54:746][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.05.30-13.19.55:367][437]LogTexture: Display: Building textures: /Game/Niagara/NE_Sparks.NE_Sparks:ThumbnailTexture (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.55:367][437]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Light_Flicker...
+[2022.05.30-13.19.55:368][437]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound_FX_and_Music/SW_Light_Flicker.SW_Light_Flicker will be modified from 40 to 40.
+[2022.05.30-13.19.55:407][437]LogTexture: Display: Building textures: /Game/Niagara/NS_Sparks.NS_Sparks:NE_Sparks.NE_Sparks.ThumbnailTexture (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.55:407][437]LogTexture: Display: Building textures: /Game/Niagara/NS_Sparks.NS_Sparks:NE_Sparks.Texture2D_0 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.55:407][437]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 69952 while cooking SoundWave /Game/Sound_FX_and_Music/SW_Light_Flicker.SW_Light_Flicker.
+[2022.05.30-13.19.55:409][437]LogAudio: Display: Chunk size for SoundWave /Game/Sound_FX_and_Music/SW_Light_Flicker.SW_Light_Flicker: 262144
+[2022.05.30-13.19.55:681][437]LogTexture: Display: Building textures: /Game/Assets/exal_folder/material/wall_snow_Displacement.wall_snow_Displacement (RGBA16F, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.55:681][437]LogTexture: Display: Building textures: /Game/Assets/exal_folder/material/wall_snow_AO.wall_snow_AO (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.55:681][437]LogTexture: Display: Building textures: /Game/Assets/exal_folder/material/wall_snow_Albedo.wall_snow_Albedo (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.55:681][437]LogMaterial: Display: Missing cached shadermap for Cable in PCD3D_SM5, Default, SM5 (DDC key hash: 3693EE8F553C4E95D59FC73FB4682D4A6FB99592), compiling. 
+[2022.05.30-13.19.55:900][437]LogMaterial: Display: Missing cached shadermap for LighterWood in PCD3D_SM5, Default, SM5 (DDC key hash: 1D0D08F05EBA277F20678739947666D841035244), compiling. 
+[2022.05.30-13.19.55:931][437]LogMaterial: Display: Missing cached shadermap for Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 00692E87681125BDEF54851C30D8DC5FBDAA63A2), compiling. 
+[2022.05.30-13.19.55:963][437]LogMaterial: Display: Missing cached shadermap for Wood in PCD3D_SM5, Default, SM5 (DDC key hash: BF4E2A9DE01F28B0E29D3E78B706FEEE457B91F5), compiling. 
+[2022.05.30-13.19.56:010][437]LogMaterial: Display: Missing cached shadermap for DefaultSpriteMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F4EC8B939C21EDDBF91B337606E45EFF92CFDA84), compiling. 
+[2022.05.30-13.19.56:590][437]LogStaticMesh: Display: Building static mesh SM_TelephonePole...
+[2022.05.30-13.19.56:590][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_10 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:590][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_1 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:590][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_11 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:590][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_12 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:590][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_14 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:590][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_15 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:590][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_16 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:590][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_18 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:590][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_19 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:590][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_21 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:590][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_20 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:590][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_22 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_23 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_25 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_28 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_29 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_3 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_27 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_30 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_32 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_33 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_31 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_37 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_38 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_39 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_4 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_40 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_41 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_42 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_45 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_48 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_47 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_49 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_5 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_50 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/demo_orang_stress/tesenvironment.tesenvironment:PersistentLevel.Landscape_0.Texture2D_6 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogStaticMesh: Built static mesh [0.06s] /Game/GreyBox/Models/SM_TelephonePole.SM_TelephonePole
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/Assets/exal_folder/material/wall_snow_Metalness.wall_snow_Metalness (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogTexture: Display: Building textures: /Game/Assets/exal_folder/material/wall_snow_Normal.wall_snow_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:591][437]LogMaterial: Display: Missing cached shadermap for M_Metal_Steel in PCD3D_SM5, Default, SM5 (DDC key hash: 84DF7D3571F36E7DD0454C4DFE380B29DF2EA79C), compiling. 
+[2022.05.30-13.19.56:720][437]LogTexture: Display: Building textures: /Game/Assets/exal_folder/material/wall_snow_Roughness.wall_snow_Roughness (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.56:720][437]LogMaterial: Display: Missing cached shadermap for aircon_top_008 in PCD3D_SM5, Default, SM5 (DDC key hash: 04A0B493EC585AD60AF74135706D836B20B9BA89), compiling. 
+[2022.05.30-13.19.56:766][437]LogMaterial: Display: Missing cached shadermap for JENDELA in PCD3D_SM5, Default, SM5 (DDC key hash: BF81CC92C6D428201D7B7A0D24603E8069AE077E), compiling. 
+[2022.05.30-13.19.56:820][437]LogMaterial: Display: Missing cached shadermap for snowy_wall in PCD3D_SM5, Default, SM5 (DDC key hash: C75660C25D6366EE5E7F17831F847A3DAB61F5C3), compiling. 
+[2022.05.30-13.19.56:908][437]LogMaterial: Display: Missing cached shadermap for aiStandardSurface1 in PCD3D_SM5, Default, SM5 (DDC key hash: E7FB22A72BB173D3572F2E121C9D1C7497D3A89E), compiling. 
+[2022.05.30-13.19.56:960][437]LogMaterial: Display: Missing cached shadermap for aiStandardSurface2 in PCD3D_SM5, Default, SM5 (DDC key hash: 34605BB2E780266BCB72A082E8FA9420E8DCD717), compiling. 
+[2022.05.30-13.19.57:010][437]LogMaterial: Display: Missing cached shadermap for aiStandardSurface5 in PCD3D_SM5, Default, SM5 (DDC key hash: 2C267D62E47703988BECA29203343E11FBD2C10F), compiling. 
+[2022.05.30-13.19.57:059][437]LogStaticMesh: Display: Building static mesh SM_LightPole...
+[2022.05.30-13.19.57:059][437]LogMaterial: Display: Missing cached shadermap for listrik in PCD3D_SM5, Default, SM5 (DDC key hash: 3AE962D1192389BFF3D3588FAE6FDE3FE06DE97E), compiling. 
+[2022.05.30-13.19.57:106][437]LogMaterial: Display: Missing cached shadermap for Merah in PCD3D_SM5, Default, SM5 (DDC key hash: 526A2E02906BEE87F3217B6E5A1A8621876607A2), compiling. 
+[2022.05.30-13.19.57:158][437]LogStaticMesh: Built static mesh [0.05s] /Game/GreyBox/Models/SM_LightPole.SM_LightPole
+[2022.05.30-13.19.57:158][437]LogMaterial: Display: Missing cached shadermap for M_Landscape in PCD3D_SM5, Default, SM5 (DDC key hash: 51258E9665225FFF075E2C3CBBEAD5E0A7A18970), compiling. 
+[2022.05.30-13.19.57:223][437]LogMaterial: Display: Missing cached shadermap for M_Water_Ocean in PCD3D_SM5, Default, SM5 (DDC key hash: BA74B60A084552DE2971EA14986632C2DD7F44C0), compiling. 
+[2022.05.30-13.19.57:303][437]LogTexture: Display: Building textures: /Game/Assets/exal_folder/electronic_shop/building_2_Albedo.building_2_Albedo (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.57:303][437]LogMaterial: Display: Missing cached shadermap for M_Frame in PCD3D_SM5, Default, SM5 (DDC key hash: FC8EABC66D3A48725BA05D482643C7DF0765A4B9), compiling. 
+[2022.05.30-13.19.57:499][437]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: AC06B5A25A7F0987DD89144D20B3C09FEC2F4199), compiling. 
+[2022.05.30-13.19.57:551][437]LogTexture: Display: Building textures: /Game/Assets/exal_folder/electronic_shop/building_2_AO.building_2_AO (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.30-13.19.57:551][437]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: 58D4BE00F5DE417363B6F3BF32F98BA8948F21C7), compiling. 
+[2022.05.30-13.19.57:603][437]LogMaterial: Display: Missing cached shadermap for _aircon in PCD3D_SM5, Default, SM5 (DDC key hash: 253C24CFF5A60572FF370D22979AB728E41BF05F), compiling. 
+[2022.05.30-13.19.57:653][437]LogMaterial: Display: Missing cached shadermap for kulkas_2_ointu in PCD3D_SM5, Default, SM5 (DDC key hash: 0ED72F61E1DEF532A4A7EB41932EAC2192E2F022), compiling. 
+[2022.05.30-13.19.57:706][437]LogMaterial: Display: Missing cached shadermap for LANTAI_KREAM in PCD3D_SM5, Default, SM5 (DDC key hash: F02E480BBEEFF019599CCB36566D8DCE50893566), compiling. 
+[2022.05.30-13.19.57:756][437]LogStaticMesh: Display: Building static mesh arcade_buildingNEW_BezierCurve...
+[2022.05.30-13.19.57:756][437]LogMaterial: Display: Missing cached shadermap for tembok_kiri in PCD3D_SM5, Default, SM5 (DDC key hash: F93135ADE87554E535C51B029164E226C3659B84), compiling. 
+[2022.05.30-13.19.57:808][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_BezierCurve.arcade_buildingNEW_BezierCurve
+[2022.05.30-13.19.57:808][437]LogStaticMesh: Display: Building static mesh arcade_buildingNEW_Cube...
+[2022.05.30-13.19.57:808][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cube.arcade_buildingNEW_Cube
+[2022.05.30-13.19.57:808][437]LogMaterial: Display: Missing cached shadermap for pintu_atas in PCD3D_SM5, Default, SM5 (DDC key hash: EED15CCA305D0D877121B5113E706D3D584550B2), compiling. 
+[2022.05.30-13.19.57:861][437]LogMaterial: Display: Missing cached shadermap for texture_mask in PCD3D_SM5, Default, SM5 (DDC key hash: D900913E1C4E75B9C9BF18CB150B4FA1CD6519FC), compiling. 
+[2022.05.30-13.19.57:912][437]LogMaterial: Display: Missing cached shadermap for Material_006 in PCD3D_SM5, Default, SM5 (DDC key hash: FD2A6AF12AEB305179008FFE33315F3E6D49D67A), compiling. 
+[2022.05.30-13.19.57:961][437]LogMaterial: Display: Missing cached shadermap for atas2 in PCD3D_SM5, Default, SM5 (DDC key hash: 317CB4E07526F6A892F67AFE595B49D144AA9F66), compiling. 
+[2022.05.30-13.19.58:008][437]LogMaterial: Display: Missing cached shadermap for tangga_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 6B3AB70D179C4F8AF1824FB377F95F6772DE23DE), compiling. 
+[2022.05.30-13.19.58:057][437]LogStaticMesh: Display: Building static mesh arcade_buildingNEW_Cube_001...
+[2022.05.30-13.19.58:057][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cube_001.arcade_buildingNEW_Cube_001
+[2022.05.30-13.19.58:057][437]LogMaterial: Display: Missing cached shadermap for tangga in PCD3D_SM5, Default, SM5 (DDC key hash: 83AB21460FAC7116678BFA9ACBC61FBFDC16AD93), compiling. 
+[2022.05.30-13.19.58:126][437]LogStaticMesh: Display: Building static mesh arcade_buildingNEW_Cube_002...
+[2022.05.30-13.19.58:126][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cube_002.arcade_buildingNEW_Cube_002
+[2022.05.30-13.19.58:126][437]LogStaticMesh: Display: Building static mesh arcade_buildingNEW_Cube_003...
+[2022.05.30-13.19.58:126][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cube_003.arcade_buildingNEW_Cube_003
+[2022.05.30-13.19.58:126][437]LogStaticMesh: Display: Building static mesh arcade_buildingNEW_Cube_004...
+[2022.05.30-13.19.58:126][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cube_004.arcade_buildingNEW_Cube_004
+[2022.05.30-13.19.58:126][437]LogStaticMesh: Display: Building static mesh arcade_buildingNEW_Cylinder...
+[2022.05.30-13.19.58:126][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cylinder.arcade_buildingNEW_Cylinder
+[2022.05.30-13.19.58:126][437]LogStaticMesh: Display: Building static mesh arcade_buildingNEW_Cylinder_001...
+[2022.05.30-13.19.58:126][437]LogMaterial: Display: Missing cached shadermap for KACA_LUAR in PCD3D_SM5, Default, SM5 (DDC key hash: B6768E40CE7DFE66FF687F65C29ECE675EF69CAE), compiling. 
+[2022.05.30-13.19.58:176][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cylinder_001.arcade_buildingNEW_Cylinder_001
+[2022.05.30-13.19.58:176][437]LogStaticMesh: Display: Building static mesh arcade_buildingNEW_Cylinder_002...
+[2022.05.30-13.19.58:176][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cylinder_002.arcade_buildingNEW_Cylinder_002
+[2022.05.30-13.19.58:176][437]LogStaticMesh: Display: Building static mesh arcade_buildingNEW_glass_door_left...
+[2022.05.30-13.19.58:176][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_glass_door_left.arcade_buildingNEW_glass_door_left
+[2022.05.30-13.19.58:176][437]LogStaticMesh: Display: Building static mesh arcade_buildingNEW_glass_door_right...
+[2022.05.30-13.19.58:176][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_glass_door_right.arcade_buildingNEW_glass_door_right
+[2022.05.30-13.19.58:176][437]LogStaticMesh: Display: Building static mesh arcade_buildingNEW_kaca...
+[2022.05.30-13.19.58:176][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_kaca.arcade_buildingNEW_kaca
+[2022.05.30-13.19.58:176][437]LogStaticMesh: Display: Building static mesh arcade_buildingNEW_lampu_003...
+[2022.05.30-13.19.58:176][437]LogMaterial: Display: Missing cached shadermap for atas1 in PCD3D_SM5, Default, SM5 (DDC key hash: B43D3B5F0FA0793EF825CC8C96FFCC9BB4831DD5), compiling. 
+[2022.05.30-13.19.58:223][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_lampu_003.arcade_buildingNEW_lampu_003
+[2022.05.30-13.19.58:223][437]LogStaticMesh: Display: Building static mesh arcade_buildingNEW_lampu_004...
+[2022.05.30-13.19.58:223][437]LogMaterial: Display: Missing cached shadermap for KACA_ATAS in PCD3D_SM5, Default, SM5 (DDC key hash: 1129EFDDB1585D970A530781C740009996EB3E5C), compiling. 
+[2022.05.30-13.19.58:274][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_lampu_004.arcade_buildingNEW_lampu_004
+[2022.05.30-13.19.58:274][437]LogStaticMesh: Display: Building static mesh arcade_buildingNEW_lampu_005...
+[2022.05.30-13.19.58:274][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_lampu_005.arcade_buildingNEW_lampu_005
+[2022.05.30-13.19.58:274][437]LogStaticMesh: Display: Building static mesh arcade_buildingNEW_LIFT...
+[2022.05.30-13.19.58:274][437]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 762D5934F3504BB14D9E1B7ACF30421EAA7C263E), compiling. 
+[2022.05.30-13.19.58:323][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_LIFT.arcade_buildingNEW_LIFT
+[2022.05.30-13.19.58:323][437]LogStaticMesh: Display: Building static mesh arcade_buildingNEW_plane_003...
+[2022.05.30-13.19.58:323][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_plane_003.arcade_buildingNEW_plane_003
+[2022.05.30-13.19.58:323][437]LogStaticMesh: Display: Building static mesh arcade_buildingNEW_plane_004...
+[2022.05.30-13.19.58:323][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_plane_004.arcade_buildingNEW_plane_004
+[2022.05.30-13.19.58:323][437]LogStaticMesh: Display: Building static mesh arcade_buildingNEW_plane_005...
+[2022.05.30-13.19.58:323][437]LogMaterial: Display: Missing cached shadermap for Material_004 in PCD3D_SM5, Default, SM5 (DDC key hash: 15AC6E8477AE1378D6810160404F44649F95D00D), compiling. 
+[2022.05.30-13.19.58:370][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_plane_005.arcade_buildingNEW_plane_005
+[2022.05.30-13.19.58:370][437]LogStaticMesh: Display: Building static mesh arcade_buildingNEW_tangki_air_kaki...
+[2022.05.30-13.19.58:370][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_tangki_air_kaki.arcade_buildingNEW_tangki_air_kaki
+[2022.05.30-13.19.58:370][437]LogStaticMesh: Display: Building static mesh arcade_buildingNEW_Text...
+[2022.05.30-13.19.58:370][437]LogMaterial: Display: Missing cached shadermap for sampah2 in PCD3D_SM5, Default, SM5 (DDC key hash: C0E8F0D72BCB75BAFF3F5114797C1723B668CAAC), compiling. 
+[2022.05.30-13.19.58:421][437]LogMaterial: Display: Missing cached shadermap for sampah3 in PCD3D_SM5, Default, SM5 (DDC key hash: 333BFA1F2B404DCDF4782C38ABCF1D1EE70046FC), compiling. 
+[2022.05.30-13.19.58:469][437]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Text.arcade_buildingNEW_Text
+[2022.05.30-13.19.58:469][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube...
+[2022.05.30-13.19.58:469][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube.rackno_texture_Cube
+[2022.05.30-13.19.58:469][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_001...
+[2022.05.30-13.19.58:469][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_001.rackno_texture_Cube_001
+[2022.05.30-13.19.58:469][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_002...
+[2022.05.30-13.19.58:469][437]LogMaterial: Display: Missing cached shadermap for sampah_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1B19FA6895CAEF7BE51450DEE6B9F429DCB5B1E0), compiling. 
+[2022.05.30-13.19.58:523][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_002.rackno_texture_Cube_002
+[2022.05.30-13.19.58:523][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_003...
+[2022.05.30-13.19.58:523][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_003.rackno_texture_Cube_003
+[2022.05.30-13.19.58:523][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_004...
+[2022.05.30-13.19.58:523][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_004.rackno_texture_Cube_004
+[2022.05.30-13.19.58:523][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_005...
+[2022.05.30-13.19.58:523][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_005.rackno_texture_Cube_005
+[2022.05.30-13.19.58:523][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_006...
+[2022.05.30-13.19.58:523][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_006.rackno_texture_Cube_006
+[2022.05.30-13.19.58:523][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_007...
+[2022.05.30-13.19.58:523][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_007.rackno_texture_Cube_007
+[2022.05.30-13.19.58:523][437]LogMaterial: Display: Missing cached shadermap for Material_005 in PCD3D_SM5, Default, SM5 (DDC key hash: EB361B2680EC078FADFC0B5CD853566506E9E029), compiling. 
+[2022.05.30-13.19.58:575][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_008...
+[2022.05.30-13.19.58:575][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_008.rackno_texture_Cube_008
+[2022.05.30-13.19.58:575][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_009...
+[2022.05.30-13.19.58:575][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_009.rackno_texture_Cube_009
+[2022.05.30-13.19.58:575][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_010...
+[2022.05.30-13.19.58:575][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_010.rackno_texture_Cube_010
+[2022.05.30-13.19.58:575][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_011...
+[2022.05.30-13.19.58:575][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_011.rackno_texture_Cube_011
+[2022.05.30-13.19.58:575][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_012...
+[2022.05.30-13.19.58:575][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_012.rackno_texture_Cube_012
+[2022.05.30-13.19.58:575][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_013...
+[2022.05.30-13.19.58:575][437]LogMaterial: Display: Missing cached shadermap for Material_007 in PCD3D_SM5, Default, SM5 (DDC key hash: FC392D6410052FB565562025CB41FBF1B4541B5B), compiling. 
+[2022.05.30-13.19.58:631][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_013.rackno_texture_Cube_013
+[2022.05.30-13.19.58:631][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_014...
+[2022.05.30-13.19.58:631][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_014.rackno_texture_Cube_014
+[2022.05.30-13.19.58:631][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_015...
+[2022.05.30-13.19.58:631][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_015.rackno_texture_Cube_015
+[2022.05.30-13.19.58:631][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_016...
+[2022.05.30-13.19.58:631][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_016.rackno_texture_Cube_016
+[2022.05.30-13.19.58:631][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_017...
+[2022.05.30-13.19.58:631][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_017.rackno_texture_Cube_017
+[2022.05.30-13.19.58:631][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_018...
+[2022.05.30-13.19.58:631][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_018.rackno_texture_Cube_018
+[2022.05.30-13.19.58:631][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_019...
+[2022.05.30-13.19.58:631][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_019.rackno_texture_Cube_019
+[2022.05.30-13.19.58:631][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_020...
+[2022.05.30-13.19.58:631][437]LogMaterial: Display: Missing cached shadermap for vencing_machine in PCD3D_SM5, Default, SM5 (DDC key hash: D09B39996264E07A31A2071677495F26FD042001), compiling. 
+[2022.05.30-13.19.58:684][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_020.rackno_texture_Cube_020
+[2022.05.30-13.19.58:684][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_021...
+[2022.05.30-13.19.58:684][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_021.rackno_texture_Cube_021
+[2022.05.30-13.19.58:685][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_022...
+[2022.05.30-13.19.58:685][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_022.rackno_texture_Cube_022
+[2022.05.30-13.19.58:685][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_023...
+[2022.05.30-13.19.58:685][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_023.rackno_texture_Cube_023
+[2022.05.30-13.19.58:685][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_024...
+[2022.05.30-13.19.58:685][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_024.rackno_texture_Cube_024
+[2022.05.30-13.19.58:685][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_025...
+[2022.05.30-13.19.58:685][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_025.rackno_texture_Cube_025
+[2022.05.30-13.19.58:685][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_026...
+[2022.05.30-13.19.58:685][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_026.rackno_texture_Cube_026
+[2022.05.30-13.19.58:685][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_027...
+[2022.05.30-13.19.58:685][437]LogMaterial: Display: Missing cached shadermap for vM1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0CFB5D12595F6210AE7DDF72D02449DA951C00FF), compiling. 
+[2022.05.30-13.19.58:783][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_027.rackno_texture_Cube_027
+[2022.05.30-13.19.58:783][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_028...
+[2022.05.30-13.19.58:783][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_028.rackno_texture_Cube_028
+[2022.05.30-13.19.58:783][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_029...
+[2022.05.30-13.19.58:783][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_030...
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_030.rackno_texture_Cube_030
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_029.rackno_texture_Cube_029
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_031...
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_032...
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_031.rackno_texture_Cube_031
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_032.rackno_texture_Cube_032
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_033...
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_034...
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_033.rackno_texture_Cube_033
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_034.rackno_texture_Cube_034
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_035...
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_036...
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_035.rackno_texture_Cube_035
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_036.rackno_texture_Cube_036
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_037...
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_038...
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_039...
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_038.rackno_texture_Cube_038
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_039.rackno_texture_Cube_039
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_040...
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_041...
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_040.rackno_texture_Cube_040
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_042...
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_041.rackno_texture_Cube_041
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_043...
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_037.rackno_texture_Cube_037
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_043.rackno_texture_Cube_043
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_044...
+[2022.05.30-13.19.58:784][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_045...
+[2022.05.30-13.19.58:784][437]LogMaterial: Display: Missing cached shadermap for kulkas_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 050AD4CD5ACC455B637A463EA8DE15B0CDF8E3D3), compiling. 
+[2022.05.30-13.19.58:841][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_044.rackno_texture_Cube_044
+[2022.05.30-13.19.58:841][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_045.rackno_texture_Cube_045
+[2022.05.30-13.19.58:841][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_046...
+[2022.05.30-13.19.58:841][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_047...
+[2022.05.30-13.19.58:841][437]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_042.rackno_texture_Cube_042
+[2022.05.30-13.19.58:841][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_046.rackno_texture_Cube_046
+[2022.05.30-13.19.58:841][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_047.rackno_texture_Cube_047
+[2022.05.30-13.19.58:841][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_048...
+[2022.05.30-13.19.58:841][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_049...
+[2022.05.30-13.19.58:842][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_050...
+[2022.05.30-13.19.58:842][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_048.rackno_texture_Cube_048
+[2022.05.30-13.19.58:842][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_049.rackno_texture_Cube_049
+[2022.05.30-13.19.58:842][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_051...
+[2022.05.30-13.19.58:842][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_052...
+[2022.05.30-13.19.58:842][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_050.rackno_texture_Cube_050
+[2022.05.30-13.19.58:842][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_051.rackno_texture_Cube_051
+[2022.05.30-13.19.58:842][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_052.rackno_texture_Cube_052
+[2022.05.30-13.19.58:842][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_053...
+[2022.05.30-13.19.58:842][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_055...
+[2022.05.30-13.19.58:842][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_053.rackno_texture_Cube_053
+[2022.05.30-13.19.58:842][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_056...
+[2022.05.30-13.19.58:842][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_054...
+[2022.05.30-13.19.58:842][437]LogMaterial: Display: Missing cached shadermap for lampu in PCD3D_SM5, Default, SM5 (DDC key hash: FC1A84B9D26F246221978D27D07A9D7EAA69D2EA), compiling. 
+[2022.05.30-13.19.58:913][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_055.rackno_texture_Cube_055
+[2022.05.30-13.19.58:913][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_056.rackno_texture_Cube_056
+[2022.05.30-13.19.58:913][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_057...
+[2022.05.30-13.19.58:913][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_058...
+[2022.05.30-13.19.58:913][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_058.rackno_texture_Cube_058
+[2022.05.30-13.19.58:913][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_057.rackno_texture_Cube_057
+[2022.05.30-13.19.58:913][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_059...
+[2022.05.30-13.19.58:913][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_060...
+[2022.05.30-13.19.58:913][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_059.rackno_texture_Cube_059
+[2022.05.30-13.19.58:913][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_060.rackno_texture_Cube_060
+[2022.05.30-13.19.58:913][437]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_054.rackno_texture_Cube_054
+[2022.05.30-13.19.58:913][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_061...
+[2022.05.30-13.19.58:913][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_062...
+[2022.05.30-13.19.58:913][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_063...
+[2022.05.30-13.19.58:913][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_061.rackno_texture_Cube_061
+[2022.05.30-13.19.58:913][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_064...
+[2022.05.30-13.19.58:913][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_062.rackno_texture_Cube_062
+[2022.05.30-13.19.58:914][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_065...
+[2022.05.30-13.19.58:914][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_064.rackno_texture_Cube_064
+[2022.05.30-13.19.58:914][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_066...
+[2022.05.30-13.19.58:914][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_065.rackno_texture_Cube_065
+[2022.05.30-13.19.58:914][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_063.rackno_texture_Cube_063
+[2022.05.30-13.19.58:914][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_067...
+[2022.05.30-13.19.58:914][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_067.rackno_texture_Cube_067
+[2022.05.30-13.19.58:914][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_068...
+[2022.05.30-13.19.58:914][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_069...
+[2022.05.30-13.19.58:914][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_068.rackno_texture_Cube_068
+[2022.05.30-13.19.58:914][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_069.rackno_texture_Cube_069
+[2022.05.30-13.19.58:914][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_066.rackno_texture_Cube_066
+[2022.05.30-13.19.58:914][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_070...
+[2022.05.30-13.19.58:914][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_071...
+[2022.05.30-13.19.58:914][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_072...
+[2022.05.30-13.19.58:914][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_071.rackno_texture_Cube_071
+[2022.05.30-13.19.58:914][437]LogMaterial: Display: Missing cached shadermap for lampu_ in PCD3D_SM5, Default, SM5 (DDC key hash: 78F50F4F63B1F5AC3BADECF6E93519E936B1EDBA), compiling. 
+[2022.05.30-13.19.58:966][437]LogStaticMesh: Display: Building static mesh rackno_texture_Cube_073...
+[2022.05.30-13.19.58:966][437]LogMaterial: Display: Missing cached shadermap for minuman in PCD3D_SM5, Default, SM5 (DDC key hash: F387DC8FAC5B63DD4082748EAF383FCBBACC0FFA), compiling. 
+[2022.05.30-13.19.59:020][437]LogMaterial: Display: Missing cached shadermap for Material_019 in PCD3D_SM5, Default, SM5 (DDC key hash: 7F7BF419FEBEFE6B4B21F0007D60D625C5099181), compiling. 
+[2022.05.30-13.19.59:095][437]LogStaticMesh: Built static mesh [0.12s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_072.rackno_texture_Cube_072
+[2022.05.30-13.19.59:095][437]LogStaticMesh: Built static mesh [0.13s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_070.rackno_texture_Cube_070
+[2022.05.30-13.19.59:095][437]LogStaticMesh: Built static mesh [0.12s] /Game/Assets/aurel_folder/funiture/rack1/rackno_texture_Cube_073.rackno_texture_Cube_073
+[2022.05.30-13.19.59:095][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_aircon...
+[2022.05.30-13.19.59:095][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_aircon_001...
+[2022.05.30-13.19.59:095][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_aircon_plane...
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_aircon.prog_supermarket_building_aircon
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_aircon_plane_001...
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_aircon_001.prog_supermarket_building_aircon_001
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_BezierCurve...
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_aircon_plane.prog_supermarket_building_aircon_plane
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_BezierCurve.prog_supermarket_building_BezierCurve
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_aircon_plane_001.prog_supermarket_building_aircon_plane_001
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube...
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_219...
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_221...
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube.prog_supermarket_building_Cube
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_222...
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_221.prog_supermarket_building_Cube_221
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_223...
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_222.prog_supermarket_building_Cube_222
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_219.prog_supermarket_building_Cube_219
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_224...
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_254...
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_223.prog_supermarket_building_Cube_223
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_255...
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_224.prog_supermarket_building_Cube_224
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_255.prog_supermarket_building_Cube_255
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_269...
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_270...
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_254.prog_supermarket_building_Cube_254
+[2022.05.30-13.19.59:096][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_271...
+[2022.05.30-13.19.59:096][437]LogMaterial: Display: Missing cached shadermap for soda_blue in PCD3D_SM5, Default, SM5 (DDC key hash: BB3C6F0BE64A8B99E38E39A90AED61CE8F68AE48), compiling. 
+[2022.05.30-13.19.59:170][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_270.prog_supermarket_building_Cube_270
+[2022.05.30-13.19.59:170][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_272...
+[2022.05.30-13.19.59:170][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_271.prog_supermarket_building_Cube_271
+[2022.05.30-13.19.59:170][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_272.prog_supermarket_building_Cube_272
+[2022.05.30-13.19.59:170][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_273...
+[2022.05.30-13.19.59:170][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_274...
+[2022.05.30-13.19.59:170][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_274.prog_supermarket_building_Cube_274
+[2022.05.30-13.19.59:170][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_275...
+[2022.05.30-13.19.59:170][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_273.prog_supermarket_building_Cube_273
+[2022.05.30-13.19.59:170][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_275.prog_supermarket_building_Cube_275
+[2022.05.30-13.19.59:170][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_276...
+[2022.05.30-13.19.59:170][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_277...
+[2022.05.30-13.19.59:170][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_277.prog_supermarket_building_Cube_277
+[2022.05.30-13.19.59:170][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_276.prog_supermarket_building_Cube_276
+[2022.05.30-13.19.59:170][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_278...
+[2022.05.30-13.19.59:170][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_279...
+[2022.05.30-13.19.59:170][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_278.prog_supermarket_building_Cube_278
+[2022.05.30-13.19.59:170][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_280...
+[2022.05.30-13.19.59:170][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_280.prog_supermarket_building_Cube_280
+[2022.05.30-13.19.59:170][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_281...
+[2022.05.30-13.19.59:170][437]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_269.prog_supermarket_building_Cube_269
+[2022.05.30-13.19.59:171][437]LogMaterial: Display: Missing cached shadermap for minuman_pink in PCD3D_SM5, Default, SM5 (DDC key hash: 37870C384050D24E3466E24409A1B702AD03EDBB), compiling. 
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_279.prog_supermarket_building_Cube_279
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_297...
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_298...
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_297.prog_supermarket_building_Cube_297
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_298.prog_supermarket_building_Cube_298
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_299...
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_339...
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_281.prog_supermarket_building_Cube_281
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_299.prog_supermarket_building_Cube_299
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_340...
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_341...
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_339.prog_supermarket_building_Cube_339
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_340.prog_supermarket_building_Cube_340
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_341.prog_supermarket_building_Cube_341
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_342...
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_343...
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cube_344...
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_342.prog_supermarket_building_Cube_342
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_344.prog_supermarket_building_Cube_344
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_001...
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_002...
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cube_343.prog_supermarket_building_Cube_343
+[2022.05.30-13.19.59:244][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_003...
+[2022.05.30-13.19.59:244][437]LogMaterial: Display: Missing cached shadermap for tutup_galon in PCD3D_SM5, Default, SM5 (DDC key hash: AB5D395F08F4FBEBF8D661249909D5B863D60FD0), compiling. 
+[2022.05.30-13.19.59:298][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_002.prog_supermarket_building_Cylinder_002
+[2022.05.30-13.19.59:298][437]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_001.prog_supermarket_building_Cylinder_001
+[2022.05.30-13.19.59:298][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_003.prog_supermarket_building_Cylinder_003
+[2022.05.30-13.19.59:298][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_004...
+[2022.05.30-13.19.59:299][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_006...
+[2022.05.30-13.19.59:299][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_005...
+[2022.05.30-13.19.59:299][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_004.prog_supermarket_building_Cylinder_004
+[2022.05.30-13.19.59:299][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_007...
+[2022.05.30-13.19.59:299][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_007.prog_supermarket_building_Cylinder_007
+[2022.05.30-13.19.59:299][437]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_005.prog_supermarket_building_Cylinder_005
+[2022.05.30-13.19.59:299][437]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_006.prog_supermarket_building_Cylinder_006
+[2022.05.30-13.19.59:299][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_008...
+[2022.05.30-13.19.59:299][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_009...
+[2022.05.30-13.19.59:299][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_012...
+[2022.05.30-13.19.59:299][437]LogMaterial: Display: Missing cached shadermap for soda_pink in PCD3D_SM5, Default, SM5 (DDC key hash: F74AF2D62AC23696524FCD05A1C94F25D7450B42), compiling. 
+[2022.05.30-13.19.59:348][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_008.prog_supermarket_building_Cylinder_008
+[2022.05.30-13.19.59:348][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_009.prog_supermarket_building_Cylinder_009
+[2022.05.30-13.19.59:348][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_012.prog_supermarket_building_Cylinder_012
+[2022.05.30-13.19.59:348][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_013...
+[2022.05.30-13.19.59:348][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_014...
+[2022.05.30-13.19.59:348][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_015...
+[2022.05.30-13.19.59:348][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_013.prog_supermarket_building_Cylinder_013
+[2022.05.30-13.19.59:349][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_016...
+[2022.05.30-13.19.59:349][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_014.prog_supermarket_building_Cylinder_014
+[2022.05.30-13.19.59:349][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_015.prog_supermarket_building_Cylinder_015
+[2022.05.30-13.19.59:349][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_017...
+[2022.05.30-13.19.59:349][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_018...
+[2022.05.30-13.19.59:349][437]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_016.prog_supermarket_building_Cylinder_016
+[2022.05.30-13.19.59:349][437]LogMaterial: Display: Missing cached shadermap for pintu_super_market in PCD3D_SM5, Default, SM5 (DDC key hash: 893A6969A80263E3363BB20FF8E139F49764F606), compiling. 
+[2022.05.30-13.19.59:405][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_019...
+[2022.05.30-13.19.59:405][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_019.prog_supermarket_building_Cylinder_019
+[2022.05.30-13.19.59:405][437]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_018.prog_supermarket_building_Cylinder_018
+[2022.05.30-13.19.59:405][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_029...
+[2022.05.30-13.19.59:405][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_044...
+[2022.05.30-13.19.59:405][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_044.prog_supermarket_building_Cylinder_044
+[2022.05.30-13.19.59:405][437]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_017.prog_supermarket_building_Cylinder_017
+[2022.05.30-13.19.59:405][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_029.prog_supermarket_building_Cylinder_029
+[2022.05.30-13.19.59:405][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_045...
+[2022.05.30-13.19.59:405][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_046...
+[2022.05.30-13.19.59:405][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_047...
+[2022.05.30-13.19.59:405][437]LogMaterial: Display: Missing cached shadermap for kaca_dalam in PCD3D_SM5, Default, SM5 (DDC key hash: A199F6C3BE5EC37147F85F64EC7B12165EFBE1B6), compiling. 
+[2022.05.30-13.19.59:455][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_046.prog_supermarket_building_Cylinder_046
+[2022.05.30-13.19.59:455][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_047.prog_supermarket_building_Cylinder_047
+[2022.05.30-13.19.59:455][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_045.prog_supermarket_building_Cylinder_045
+[2022.05.30-13.19.59:455][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_156...
+[2022.05.30-13.19.59:455][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_157...
+[2022.05.30-13.19.59:455][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_158...
+[2022.05.30-13.19.59:455][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_158.prog_supermarket_building_Cylinder_158
+[2022.05.30-13.19.59:455][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_157.prog_supermarket_building_Cylinder_157
+[2022.05.30-13.19.59:455][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_159...
+[2022.05.30-13.19.59:455][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_160...
+[2022.05.30-13.19.59:455][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_160.prog_supermarket_building_Cylinder_160
+[2022.05.30-13.19.59:455][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Cylinder_161...
+[2022.05.30-13.19.59:455][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_161.prog_supermarket_building_Cylinder_161
+[2022.05.30-13.19.59:455][437]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: F2966F03B2B87809E4CDC9D4BA2EDFDA649CCC81), compiling. 
+[2022.05.30-13.19.59:505][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_JENDELA_ATAS...
+[2022.05.30-13.19.59:505][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_JENDELA_ATAS.prog_supermarket_building_JENDELA_ATAS
+[2022.05.30-13.19.59:505][437]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_159.prog_supermarket_building_Cylinder_159
+[2022.05.30-13.19.59:505][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_JENDELA_ATAS_001...
+[2022.05.30-13.19.59:505][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_JENDELA_ATAS_001.prog_supermarket_building_JENDELA_ATAS_001
+[2022.05.30-13.19.59:505][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_JENDELA_ATAS_002...
+[2022.05.30-13.19.59:505][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_JENDELA_ATAS_003...
+[2022.05.30-13.19.59:505][437]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Cylinder_156.prog_supermarket_building_Cylinder_156
+[2022.05.30-13.19.59:505][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_JENDELA_ATAS_003.prog_supermarket_building_JENDELA_ATAS_003
+[2022.05.30-13.19.59:505][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_JENDELA_ATAS_002.prog_supermarket_building_JENDELA_ATAS_002
+[2022.05.30-13.19.59:505][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Line...
+[2022.05.30-13.19.59:505][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Line_001...
+[2022.05.30-13.19.59:506][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Line_002...
+[2022.05.30-13.19.59:506][437]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: 062E0C84BFC398B00A29B9F7D20988409A742316), compiling. 
+[2022.05.30-13.19.59:573][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Line_001.prog_supermarket_building_Line_001
+[2022.05.30-13.19.59:574][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_pintu_bawa...
+[2022.05.30-13.19.59:574][437]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Line.prog_supermarket_building_Line
+[2022.05.30-13.19.59:574][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_pintu_bawa.prog_supermarket_building_pintu_bawa
+[2022.05.30-13.19.59:574][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_pintu_bawa_001...
+[2022.05.30-13.19.59:574][437]LogStaticMesh: Display: Building static mesh prog_supermarket_building_Sphere...
+[2022.05.30-13.19.59:574][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_pintu_bawa_001.prog_supermarket_building_pintu_bawa_001
+[2022.05.30-13.19.59:574][437]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Line_002.prog_supermarket_building_Line_002
+[2022.05.30-13.19.59:574][437]LogStaticMesh: Display: Building static mesh candy_shop_bangunan_001...
+[2022.05.30-13.19.59:574][437]LogStaticMesh: Display: Building static mesh candy_shop_bawa_stick...
+[2022.05.30-13.19.59:574][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/shopcandy/candy_shop_bangunan_001.candy_shop_bangunan_001
+[2022.05.30-13.19.59:574][437]LogStaticMesh: Display: Building static mesh candy_shop_bawah_bolakaca...
+[2022.05.30-13.19.59:574][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/minimart/prog_supermarket_building_Sphere.prog_supermarket_building_Sphere
+[2022.05.30-13.19.59:574][437]LogMaterial: Display: Missing cached shadermap for Material_006 in PCD3D_SM5, Default, SM5 (DDC key hash: C70AA62B60F74B6E77A66B7FFF911C1E598C281B), compiling. 
+[2022.05.30-13.19.59:635][437]LogStaticMesh: Display: Building static mesh candy_shop_bawah_stick...
+[2022.05.30-13.19.59:635][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/shopcandy/candy_shop_bawa_stick.candy_shop_bawa_stick
+[2022.05.30-13.19.59:635][437]LogStaticMesh: Display: Building static mesh candy_shop_bola_kaca_atas...
+[2022.05.30-13.19.59:635][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/shopcandy/candy_shop_bawah_stick.candy_shop_bawah_stick
+[2022.05.30-13.19.59:635][437]LogStaticMesh: Display: Building static mesh candy_shop_CAPIT...
+[2022.05.30-13.19.59:635][437]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/aurel_folder/shopcandy/candy_shop_bawah_bolakaca.candy_shop_bawah_bolakaca
+[2022.05.30-13.19.59:635][437]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/aurel_folder/shopcandy/candy_shop_bola_kaca_atas.candy_shop_bola_kaca_atas
+[2022.05.30-13.19.59:635][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/shopcandy/candy_shop_CAPIT.candy_shop_CAPIT
+[2022.05.30-13.19.59:635][437]LogStaticMesh: Display: Building static mesh candy_shop_cAPIT1...
+[2022.05.30-13.19.59:635][437]LogStaticMesh: Display: Building static mesh candy_shop_capit_atas...
+[2022.05.30-13.19.59:635][437]LogStaticMesh: Display: Building static mesh candy_shop_capit_boneka...
+[2022.05.30-13.19.59:635][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/shopcandy/candy_shop_capit_atas.candy_shop_capit_atas
+[2022.05.30-13.19.59:635][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/shopcandy/candy_shop_cAPIT1.candy_shop_cAPIT1
+[2022.05.30-13.19.59:635][437]LogMaterial: Display: Missing cached shadermap for building_001 in PCD3D_SM5, Default, SM5 (DDC key hash: ECA7D4EFC5718586700DAEDBF3F9593B07EC6980), compiling. 
+[2022.05.30-13.19.59:704][437]LogStaticMesh: Display: Building static mesh candy_shop_CAPITTT...
+[2022.05.30-13.19.59:704][437]LogStaticMesh: Display: Building static mesh candy_shop_CAPITT...
+[2022.05.30-13.19.59:704][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/shopcandy/candy_shop_capit_boneka.candy_shop_capit_boneka
+[2022.05.30-13.19.59:704][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/shopcandy/candy_shop_CAPITTT.candy_shop_CAPITTT
+[2022.05.30-13.19.59:704][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/shopcandy/candy_shop_CAPITT.candy_shop_CAPITT
+[2022.05.30-13.19.59:704][437]LogStaticMesh: Display: Building static mesh candy_shop_jendela_atas...
+[2022.05.30-13.19.59:704][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/shopcandy/candy_shop_jendela_atas.candy_shop_jendela_atas
+[2022.05.30-13.19.59:704][437]LogStaticMesh: Display: Building static mesh candy_shop_jendela_bawah...
+[2022.05.30-13.19.59:704][437]LogStaticMesh: Display: Building static mesh candy_shop_jendela_bawah_001...
+[2022.05.30-13.19.59:704][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/shopcandy/candy_shop_jendela_bawah.candy_shop_jendela_bawah
+[2022.05.30-13.19.59:704][437]LogStaticMesh: Display: Building static mesh candy_shop_kaca...
+[2022.05.30-13.19.59:704][437]LogStaticMesh: Display: Building static mesh candy_shop_kaca_1...
+[2022.05.30-13.19.59:704][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/shopcandy/candy_shop_jendela_bawah_001.candy_shop_jendela_bawah_001
+[2022.05.30-13.19.59:705][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/shopcandy/candy_shop_kaca_1.candy_shop_kaca_1
+[2022.05.30-13.19.59:705][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/shopcandy/candy_shop_kaca.candy_shop_kaca
+[2022.05.30-13.19.59:705][437]LogStaticMesh: Display: Building static mesh candy_shop_kaca_bawah...
+[2022.05.30-13.19.59:705][437]LogStaticMesh: Display: Building static mesh candy_shop_kaca_2...
+[2022.05.30-13.19.59:705][437]LogStaticMesh: Display: Building static mesh candy_shop_kaca_capit...
+[2022.05.30-13.19.59:705][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/shopcandy/candy_shop_kaca_bawah.candy_shop_kaca_bawah
+[2022.05.30-13.19.59:705][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/shopcandy/candy_shop_kaca_capit.candy_shop_kaca_capit
+[2022.05.30-13.19.59:705][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/shopcandy/candy_shop_kaca_2.candy_shop_kaca_2
+[2022.05.30-13.19.59:705][437]LogStaticMesh: Display: Building static mesh candy_shop_kaca_capit_001...
+[2022.05.30-13.19.59:705][437]LogStaticMesh: Display: Building static mesh candy_shop_LT1...
+[2022.05.30-13.19.59:705][437]LogStaticMesh: Display: Building static mesh candy_shop_LT2...
+[2022.05.30-13.19.59:705][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/shopcandy/candy_shop_LT1.candy_shop_LT1
+[2022.05.30-13.19.59:705][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/shopcandy/candy_shop_kaca_capit_001.candy_shop_kaca_capit_001
+[2022.05.30-13.19.59:705][437]LogMaterial: Display: Missing cached shadermap for snowy_wood in PCD3D_SM5, Default, SM5 (DDC key hash: B8F97F5829BD467E10629AB23C4EC53F708CE017), compiling. 
+[2022.05.30-13.19.59:767][437]LogStaticMesh: Display: Building static mesh candy_shop_LT2_001...
+[2022.05.30-13.19.59:767][437]LogStaticMesh: Display: Building static mesh candy_shop_Man...
+[2022.05.30-13.19.59:767][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/shopcandy/candy_shop_LT2.candy_shop_LT2
+[2022.05.30-13.19.59:767][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/shopcandy/candy_shop_LT2_001.candy_shop_LT2_001
+[2022.05.30-13.19.59:767][437]LogStaticMesh: Display: Building static mesh candy_shop_mesin_capit_boneka...
+[2022.05.30-13.19.59:767][437]LogStaticMesh: Display: Building static mesh candy_shop_MID...
+[2022.05.30-13.19.59:767][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/shopcandy/candy_shop_mesin_capit_boneka.candy_shop_mesin_capit_boneka
+[2022.05.30-13.19.59:767][437]LogStaticMesh: Display: Building static mesh candy_shop_payung_pintu_masuk...
+[2022.05.30-13.19.59:767][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/shopcandy/candy_shop_MID.candy_shop_MID
+[2022.05.30-13.19.59:767][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/shopcandy/candy_shop_payung_pintu_masuk.candy_shop_payung_pintu_masuk
+[2022.05.30-13.19.59:768][437]LogStaticMesh: Display: Building static mesh candy_shop_pintu...
+[2022.05.30-13.19.59:768][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/shopcandy/candy_shop_pintu.candy_shop_pintu
+[2022.05.30-13.19.59:768][437]LogStaticMesh: Display: Building static mesh candy_shop_stick...
+[2022.05.30-13.19.59:768][437]LogStaticMesh: Display: Building static mesh candy_shop_stick_001...
+[2022.05.30-13.19.59:768][437]LogMaterial: Display: Missing cached shadermap for normal_wood in PCD3D_SM5, Default, SM5 (DDC key hash: 1A0768247BF96CFD8A85DC8E021619848DC9A690), compiling. 
+[2022.05.30-13.19.59:826][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/shopcandy/candy_shop_stick.candy_shop_stick
+[2022.05.30-13.19.59:826][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/shopcandy/candy_shop_stick_001.candy_shop_stick_001
+[2022.05.30-13.19.59:826][437]LogStaticMesh: Display: Building static mesh candy_shop_tombol_1...
+[2022.05.30-13.19.59:826][437]LogStaticMesh: Display: Building static mesh candy_shop_tombol_1_001...
+[2022.05.30-13.19.59:826][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/shopcandy/candy_shop_tombol_1.candy_shop_tombol_1
+[2022.05.30-13.19.59:826][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/shopcandy/candy_shop_tombol_1_001.candy_shop_tombol_1_001
+[2022.05.30-13.19.59:826][437]LogStaticMesh: Display: Building static mesh candy_shop_tombol_1_002...
+[2022.05.30-13.19.59:826][437]LogStaticMesh: Display: Building static mesh candy_shop_tombol_1_003...
+[2022.05.30-13.19.59:826][437]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 917798BD35A0979D1DE712A04EC4DDF3DEDC794A), compiling. 
+[2022.05.30-13.19.59:876][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/shopcandy/candy_shop_tombol_1_002.candy_shop_tombol_1_002
+[2022.05.30-13.19.59:876][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/shopcandy/candy_shop_tombol_1_003.candy_shop_tombol_1_003
+[2022.05.30-13.19.59:876][437]LogStaticMesh: Display: Building static mesh candy_shop_tombol_2...
+[2022.05.30-13.19.59:876][437]LogStaticMesh: Display: Building static mesh candy_shop_tombol_2_001...
+[2022.05.30-13.19.59:876][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/shopcandy/candy_shop_tombol_2_001.candy_shop_tombol_2_001
+[2022.05.30-13.19.59:876][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/shopcandy/candy_shop_tombol_2.candy_shop_tombol_2
+[2022.05.30-13.19.59:876][437]LogStaticMesh: Display: Building static mesh candy_shop_tombol_2_002...
+[2022.05.30-13.19.59:876][437]LogMaterial: Display: Missing cached shadermap for typeBlinn in PCD3D_SM5, Default, SM5 (DDC key hash: BD2462FC22CCB1B83C02DD110779E92ADED5B197), compiling. 
+[2022.05.30-13.19.59:927][437]LogStaticMesh: Display: Building static mesh candy_shop_tombol_2_003...
+[2022.05.30-13.19.59:927][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/shopcandy/candy_shop_tombol_2_002.candy_shop_tombol_2_002
+[2022.05.30-13.19.59:927][437]LogStaticMesh: Display: Building static mesh candy_shop_top_bola...
+[2022.05.30-13.19.59:927][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/shopcandy/candy_shop_tombol_2_003.candy_shop_tombol_2_003
+[2022.05.30-13.19.59:927][437]LogStaticMesh: Display: Building static mesh candy_shop_top_capit...
+[2022.05.30-13.19.59:927][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/shopcandy/candy_shop_top_capit.candy_shop_top_capit
+[2022.05.30-13.19.59:927][437]LogStaticMesh: Display: Building static mesh toko_jam_BULETAN_ATAS...
+[2022.05.30-13.19.59:927][437]LogMaterial: Display: Missing cached shadermap for aiStandardSurface12 in PCD3D_SM5, Default, SM5 (DDC key hash: 4773BC2571F0DD3905DDA49728566E72A09EA6B3), compiling. 
+[2022.05.30-13.19.59:978][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/tokojam/toko_jam_BULETAN_ATAS.toko_jam_BULETAN_ATAS
+[2022.05.30-13.19.59:978][437]LogStaticMesh: Display: Building static mesh toko_jam_BULETAN_BAWAH...
+[2022.05.30-13.19.59:978][437]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/aurel_folder/shopcandy/candy_shop_top_bola.candy_shop_top_bola
+[2022.05.30-13.19.59:978][437]LogStaticMesh: Display: Building static mesh toko_jam_GENTENG...
+[2022.05.30-13.19.59:978][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/tokojam/toko_jam_BULETAN_BAWAH.toko_jam_BULETAN_BAWAH
+[2022.05.30-13.19.59:978][437]LogStaticMesh: Display: Building static mesh toko_jam_ISI_JENDELA...
+[2022.05.30-13.19.59:978][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/tokojam/toko_jam_GENTENG.toko_jam_GENTENG
+[2022.05.30-13.19.59:978][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/tokojam/toko_jam_ISI_JENDELA.toko_jam_ISI_JENDELA
+[2022.05.30-13.19.59:978][437]LogStaticMesh: Display: Building static mesh toko_jam_ISI_JENDELA_001...
+[2022.05.30-13.19.59:978][437]LogStaticMesh: Display: Building static mesh toko_jam_JAM_ATAS...
+[2022.05.30-13.19.59:978][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/tokojam/toko_jam_ISI_JENDELA_001.toko_jam_ISI_JENDELA_001
+[2022.05.30-13.19.59:978][437]LogMaterial: Display: Missing cached shadermap for aiStandardSurface13 in PCD3D_SM5, Default, SM5 (DDC key hash: 1EE88D7D609A9601499B5EE2399B998A4BC18940), compiling. 
+[2022.05.30-13.20.00:032][437]LogStaticMesh: Display: Building static mesh toko_jam_JAM_BAWAH...
+[2022.05.30-13.20.00:032][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/tokojam/toko_jam_JAM_ATAS.toko_jam_JAM_ATAS
+[2022.05.30-13.20.00:032][437]LogStaticMesh: Display: Building static mesh toko_jam_JARUM_JAM_ATAS...
+[2022.05.30-13.20.00:032][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/tokojam/toko_jam_JARUM_JAM_ATAS.toko_jam_JARUM_JAM_ATAS
+[2022.05.30-13.20.00:032][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/tokojam/toko_jam_JAM_BAWAH.toko_jam_JAM_BAWAH
+[2022.05.30-13.20.00:032][437]LogStaticMesh: Display: Building static mesh toko_jam_JARUM_JAM_ATAS_001...
+[2022.05.30-13.20.00:032][437]LogStaticMesh: Display: Building static mesh toko_jam_JARUM_JAM_BAWAH...
+[2022.05.30-13.20.00:032][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/tokojam/toko_jam_JARUM_JAM_ATAS_001.toko_jam_JARUM_JAM_ATAS_001
+[2022.05.30-13.20.00:032][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/tokojam/toko_jam_JARUM_JAM_BAWAH.toko_jam_JARUM_JAM_BAWAH
+[2022.05.30-13.20.00:033][437]LogStaticMesh: Display: Building static mesh toko_jam_JARUM_JAM_BAWAH_001...
+[2022.05.30-13.20.00:033][437]LogStaticMesh: Built static mesh [0.32s] /Game/Assets/aurel_folder/shopcandy/candy_shop_Man.candy_shop_Man
+[2022.05.30-13.20.00:033][437]LogStaticMesh: Display: Building static mesh toko_jam_JENDELA_ATAS...
+[2022.05.30-13.20.00:033][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/tokojam/toko_jam_JARUM_JAM_BAWAH_001.toko_jam_JARUM_JAM_BAWAH_001
+[2022.05.30-13.20.00:033][437]LogStaticMesh: Display: Building static mesh toko_jam_JENDELA_BAWAH...
+[2022.05.30-13.20.00:033][437]LogMaterial: Display: Missing cached shadermap for aiStandardSurface3 in PCD3D_SM5, Default, SM5 (DDC key hash: 7BD92B01092EFFA23C79287D9143400C4224AE0D), compiling. 
+[2022.05.30-13.20.00:105][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/tokojam/toko_jam_JENDELA_ATAS.toko_jam_JENDELA_ATAS
+[2022.05.30-13.20.00:105][437]LogStaticMesh: Display: Building static mesh toko_jam_JENDELA_BAWAH_001...
+[2022.05.30-13.20.00:105][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/tokojam/toko_jam_JENDELA_BAWAH.toko_jam_JENDELA_BAWAH
+[2022.05.30-13.20.00:105][437]LogStaticMesh: Display: Building static mesh toko_jam_KACA_ATAS...
+[2022.05.30-13.20.00:106][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/tokojam/toko_jam_KACA_ATAS.toko_jam_KACA_ATAS
+[2022.05.30-13.20.00:106][437]LogStaticMesh: Display: Building static mesh toko_jam_KACA_BAWA...
+[2022.05.30-13.20.00:106][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/tokojam/toko_jam_KACA_BAWA.toko_jam_KACA_BAWA
+[2022.05.30-13.20.00:106][437]LogStaticMesh: Display: Building static mesh toko_jam_KACA_JENDELA_BAWA...
+[2022.05.30-13.20.00:106][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/tokojam/toko_jam_KACA_JENDELA_BAWA.toko_jam_KACA_JENDELA_BAWA
+[2022.05.30-13.20.00:106][437]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/aurel_folder/tokojam/toko_jam_JENDELA_BAWAH_001.toko_jam_JENDELA_BAWAH_001
+[2022.05.30-13.20.00:106][437]LogStaticMesh: Display: Building static mesh toko_jam_KACA_JENDELA_BAWA_001...
+[2022.05.30-13.20.00:106][437]LogStaticMesh: Display: Building static mesh toko_jam_kursi...
+[2022.05.30-13.20.00:106][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/aurel_folder/tokojam/toko_jam_KACA_JENDELA_BAWA_001.toko_jam_KACA_JENDELA_BAWA_001
+[2022.05.30-13.20.00:106][437]LogStaticMesh: Display: Building static mesh toko_jam_LT1...
+[2022.05.30-13.20.00:106][437]LogStaticMesh: Display: Building static mesh toko_jam_LT2...
+[2022.05.30-13.20.00:106][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/tokojam/toko_jam_kursi.toko_jam_kursi
+[2022.05.30-13.20.00:106][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/tokojam/toko_jam_LT2.toko_jam_LT2
+[2022.05.30-13.20.00:106][437]LogStaticMesh: Display: Building static mesh toko_jam_PALANG...
+[2022.05.30-13.20.00:106][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/tokojam/toko_jam_LT1.toko_jam_LT1
+[2022.05.30-13.20.00:106][437]LogStaticMesh: Display: Building static mesh toko_jam_PINTU...
+[2022.05.30-13.20.00:106][437]LogStaticMesh: Display: Building static mesh toko_jam_PLANG...
+[2022.05.30-13.20.00:106][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/tokojam/toko_jam_PINTU.toko_jam_PINTU
+[2022.05.30-13.20.00:106][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/tokojam/toko_jam_PALANG.toko_jam_PALANG
+[2022.05.30-13.20.00:106][437]LogStaticMesh: Display: Building static mesh toko_jam_tutupan...
+[2022.05.30-13.20.00:106][437]LogStaticMesh: Display: Building static mesh barber_shop__building_008...
+[2022.05.30-13.20.00:106][437]LogMaterial: Display: Missing cached shadermap for aiStandardSurface4 in PCD3D_SM5, Default, SM5 (DDC key hash: 25D997E85B9F65DF72BCA13BFA0CBC2A998B410F), compiling. 
+[2022.05.30-13.20.00:195][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/aurel_folder/tokojam/toko_jam_tutupan.toko_jam_tutupan
+[2022.05.30-13.20.00:195][437]LogStaticMesh: Display: Building static mesh barber_shop__Cylinder_006...
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/aurel_folder/tokojam/toko_jam_PLANG.toko_jam_PLANG
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Display: Building static mesh barber_shop__door_071...
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/BarberShop/barber_shop__door_071.barber_shop__door_071
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/BarberShop/barber_shop__Cylinder_006.barber_shop__Cylinder_006
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Display: Building static mesh barber_shop__door_072...
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Display: Building static mesh barber_shop__neon_place_3_001...
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/BarberShop/barber_shop__neon_place_3_001.barber_shop__neon_place_3_001
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Display: Building static mesh barber_shop__window_blank_058...
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/BarberShop/barber_shop__building_008.barber_shop__building_008
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/BarberShop/barber_shop__window_blank_058.barber_shop__window_blank_058
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Display: Building static mesh barber_shop__window_blank_059...
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/BarberShop/barber_shop__window_blank_059.barber_shop__window_blank_059
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Display: Building static mesh door_Cube_004...
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Display: Building static mesh door_Cube_005...
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/door/door_1/door_Cube_004.door_Cube_004
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/door/door_1/door_Cube_005.door_Cube_005
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/BarberShop/barber_shop__door_072.barber_shop__door_072
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Display: Building static mesh door_Cube_006...
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Display: Building static mesh door_Cube_011...
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Display: Building static mesh door_Cylinder_004...
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/exal_folder/door/door_1/door_Cube_006.door_Cube_006
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Display: Building static mesh door_Sphere...
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/door/door_1/door_Cube_011.door_Cube_011
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Display: Building static mesh door_Sphere_001...
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/door/door_1/door_Cylinder_004.door_Cylinder_004
+[2022.05.30-13.20.00:196][437]LogStaticMesh: Display: Building static mesh barber_shop__building_008...
+[2022.05.30-13.20.00:196][437]LogMaterial: Display: Missing cached shadermap for aiStandardSurface6 in PCD3D_SM5, Default, SM5 (DDC key hash: 305E55CC44F8BECE6A9A11CDBBB289A8AAB6C615), compiling. 
+[2022.05.30-13.20.00:249][437]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/exal_folder/door/door_1/door_Sphere_001.door_Sphere_001
+[2022.05.30-13.20.00:249][437]LogStaticMesh: Display: Building static mesh flower_shop_project_back_007...
+[2022.05.30-13.20.00:249][437]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/exal_folder/door/door_1/door_Sphere.door_Sphere
+[2022.05.30-13.20.00:249][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/exal_folder/flowershop/flower_shop_project_back_007.flower_shop_project_back_007
+[2022.05.30-13.20.00:249][437]LogStaticMesh: Display: Building static mesh flower_shop_project_Cube...
+[2022.05.30-13.20.00:249][437]LogStaticMesh: Display: Building static mesh flower_shop_project_Cube_001...
+[2022.05.30-13.20.00:249][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/exal_folder/flowershop/flower_shop_project_Cube_001.flower_shop_project_Cube_001
+[2022.05.30-13.20.00:249][437]LogStaticMesh: Display: Building static mesh flower_shop_project_Cube_003...
+[2022.05.30-13.20.00:249][437]LogMaterial: Display: Missing cached shadermap for aiStandardSurface7 in PCD3D_SM5, Default, SM5 (DDC key hash: C04F5299CA4D381C21E97FDC872A7761DB7445D2), compiling. 
+[2022.05.30-13.20.00:354][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/exal_folder/flowershop/flower_shop_project_Cube_003.flower_shop_project_Cube_003
+[2022.05.30-13.20.00:354][437]LogStaticMesh: Display: Building static mesh flower_shop_project_Cube_004...
+[2022.05.30-13.20.00:354][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/exal_folder/flowershop/flower_shop_project_Cube_004.flower_shop_project_Cube_004
+[2022.05.30-13.20.00:354][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/exal_folder/flowershop/flower_shop_project_Cube.flower_shop_project_Cube
+[2022.05.30-13.20.00:354][437]LogStaticMesh: Display: Building static mesh flower_shop_project_front_007...
+[2022.05.30-13.20.00:354][437]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/exal_folder/electronic_shop/barber_shop__building_008.barber_shop__building_008
+[2022.05.30-13.20.00:354][437]LogStaticMesh: Display: Building static mesh flower_shop_project_left_007...
+[2022.05.30-13.20.00:354][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/flowershop/flower_shop_project_front_007.flower_shop_project_front_007
+[2022.05.30-13.20.00:354][437]LogStaticMesh: Display: Building static mesh flower_shop_project_top_007...
+[2022.05.30-13.20.00:354][437]LogStaticMesh: Display: Building static mesh flower_shop_project_right_007...
+[2022.05.30-13.20.00:354][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/exal_folder/flowershop/flower_shop_project_left_007.flower_shop_project_left_007
+[2022.05.30-13.20.00:354][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/exal_folder/flowershop/flower_shop_project_top_007.flower_shop_project_top_007
+[2022.05.30-13.20.00:354][437]LogStaticMesh: Display: Building static mesh flower_shop_project_top_008...
+[2022.05.30-13.20.00:354][437]LogStaticMesh: Display: Building static mesh flower_shop_project_top_009...
+[2022.05.30-13.20.00:354][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/flowershop/flower_shop_project_top_008.flower_shop_project_top_008
+[2022.05.30-13.20.00:354][437]LogStaticMesh: Display: Building static mesh flower_shop_project_top_011...
+[2022.05.30-13.20.00:354][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/flowershop/flower_shop_project_top_011.flower_shop_project_top_011
+[2022.05.30-13.20.00:354][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/flowershop/flower_shop_project_top_009.flower_shop_project_top_009
+[2022.05.30-13.20.00:354][437]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/exal_folder/flowershop/flower_shop_project_right_007.flower_shop_project_right_007
+[2022.05.30-13.20.00:355][437]LogStaticMesh: Display: Building static mesh flower_shop_project_top_012...
+[2022.05.30-13.20.00:355][437]LogStaticMesh: Display: Building static mesh flower_shop_project_top_013...
+[2022.05.30-13.20.00:355][437]LogStaticMesh: Display: Building static mesh flower_shop_project_top_014...
+[2022.05.30-13.20.00:355][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/exal_folder/flowershop/flower_shop_project_top_013.flower_shop_project_top_013
+[2022.05.30-13.20.00:355][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/flowershop/flower_shop_project_top_014.flower_shop_project_top_014
+[2022.05.30-13.20.00:355][437]LogStaticMesh: Display: Building static mesh flower_shop_project_top_016...
+[2022.05.30-13.20.00:355][437]LogStaticMesh: Display: Building static mesh ruko__back...
+[2022.05.30-13.20.00:355][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/flowershop/flower_shop_project_top_016.flower_shop_project_top_016
+[2022.05.30-13.20.00:355][437]LogStaticMesh: Display: Building static mesh ruko__back_001...
+[2022.05.30-13.20.00:355][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/ruko/ruko__back.ruko__back
+[2022.05.30-13.20.00:355][437]LogStaticMesh: Display: Building static mesh ruko__back_002...
+[2022.05.30-13.20.00:355][437]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/exal_folder/flowershop/flower_shop_project_top_012.flower_shop_project_top_012
+[2022.05.30-13.20.00:355][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/ruko/ruko__back_001.ruko__back_001
+[2022.05.30-13.20.00:355][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/ruko/ruko__back_002.ruko__back_002
+[2022.05.30-13.20.00:355][437]LogStaticMesh: Display: Building static mesh ruko__floor1...
+[2022.05.30-13.20.00:355][437]LogMaterial: Display: Missing cached shadermap for aiStandardSurface8 in PCD3D_SM5, Default, SM5 (DDC key hash: BC08FEABCCF435B4B67B8AF154CE6EE7A8D6F996), compiling. 
+[2022.05.30-13.20.00:406][437]LogStaticMesh: Display: Building static mesh ruko__front...
+[2022.05.30-13.20.00:406][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/exal_folder/ruko/ruko__floor1.ruko__floor1
+[2022.05.30-13.20.00:406][437]LogStaticMesh: Display: Building static mesh ruko__front_001...
+[2022.05.30-13.20.00:406][437]LogStaticMesh: Display: Building static mesh ruko__front_002...
+[2022.05.30-13.20.00:406][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/ruko/ruko__front_001.ruko__front_001
+[2022.05.30-13.20.00:406][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/exal_folder/ruko/ruko__front.ruko__front
+[2022.05.30-13.20.00:406][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/ruko/ruko__front_002.ruko__front_002
+[2022.05.30-13.20.00:406][437]LogStaticMesh: Display: Building static mesh ruko__left...
+[2022.05.30-13.20.00:406][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/ruko/ruko__left.ruko__left
+[2022.05.30-13.20.00:406][437]LogStaticMesh: Display: Building static mesh ruko__left_001...
+[2022.05.30-13.20.00:406][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/ruko/ruko__left_001.ruko__left_001
+[2022.05.30-13.20.00:406][437]LogStaticMesh: Display: Building static mesh ruko__left_002...
+[2022.05.30-13.20.00:406][437]LogStaticMesh: Display: Building static mesh ruko__right...
+[2022.05.30-13.20.00:406][437]LogStaticMesh: Display: Building static mesh ruko__right_001...
+[2022.05.30-13.20.00:406][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/ruko/ruko__left_002.ruko__left_002
+[2022.05.30-13.20.00:406][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/ruko/ruko__right_001.ruko__right_001
+[2022.05.30-13.20.00:406][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/ruko/ruko__right.ruko__right
+[2022.05.30-13.20.00:407][437]LogMaterial: Display: Missing cached shadermap for bantal in PCD3D_SM5, Default, SM5 (DDC key hash: E6C4D5315F21CB2F482A106266A9613923A663FA), compiling. 
+[2022.05.30-13.20.00:482][437]LogStaticMesh: Display: Building static mesh ruko__right_002...
+[2022.05.30-13.20.00:482][437]LogStaticMesh: Display: Building static mesh ruko__top...
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Display: Building static mesh ruko__top_001...
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/ruko/ruko__right_002.ruko__right_002
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/exal_folder/ruko/ruko__top.ruko__top
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Display: Building static mesh ruko__top_002...
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/ruko/ruko__top_001.ruko__top_001
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Display: Building static mesh toko_listrtik__back_004...
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Display: Building static mesh toko_listrtik__back_003...
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/ruko/ruko__top_002.ruko__top_002
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__back_003.toko_listrtik__back_003
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__back_004.toko_listrtik__back_004
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Display: Building static mesh toko_listrtik__back_005...
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Display: Building static mesh toko_listrtik__back_006...
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Display: Building static mesh toko_listrtik__floor1_001...
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__floor1_001.toko_listrtik__floor1_001
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__back_005.toko_listrtik__back_005
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Display: Building static mesh toko_listrtik__floor1_002...
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__back_006.toko_listrtik__back_006
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Display: Building static mesh toko_listrtik__front_003...
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Display: Building static mesh toko_listrtik__front_004...
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__floor1_002.toko_listrtik__floor1_002
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Display: Building static mesh toko_listrtik__front_005...
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__front_004.toko_listrtik__front_004
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__front_005.toko_listrtik__front_005
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__front_003.toko_listrtik__front_003
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Display: Building static mesh toko_listrtik__left_003...
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Display: Building static mesh toko_listrtik__front_006...
+[2022.05.30-13.20.00:483][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__left_003.toko_listrtik__left_003
+[2022.05.30-13.20.00:484][437]LogMaterial: Display: Missing cached shadermap for bingkai_kaca in PCD3D_SM5, Default, SM5 (DDC key hash: 603C1CAB121B388322C14C3295247668BBB9C318), compiling. 
+[2022.05.30-13.20.00:546][437]LogStaticMesh: Display: Building static mesh toko_listrtik__left_004...
+[2022.05.30-13.20.00:546][437]LogStaticMesh: Display: Building static mesh toko_listrtik__left_005...
+[2022.05.30-13.20.00:546][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__left_004.toko_listrtik__left_004
+[2022.05.30-13.20.00:546][437]LogStaticMesh: Display: Building static mesh toko_listrtik__left_006...
+[2022.05.30-13.20.00:546][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__left_006.toko_listrtik__left_006
+[2022.05.30-13.20.00:546][437]LogStaticMesh: Display: Building static mesh toko_listrtik__pillar...
+[2022.05.30-13.20.00:546][437]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__left_005.toko_listrtik__left_005
+[2022.05.30-13.20.00:546][437]LogStaticMesh: Display: Building static mesh toko_listrtik__right_003...
+[2022.05.30-13.20.00:546][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__right_003.toko_listrtik__right_003
+[2022.05.30-13.20.00:546][437]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__front_006.toko_listrtik__front_006
+[2022.05.30-13.20.00:546][437]LogStaticMesh: Display: Building static mesh toko_listrtik__right_004...
+[2022.05.30-13.20.00:546][437]LogStaticMesh: Display: Building static mesh toko_listrtik__right_005...
+[2022.05.30-13.20.00:546][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__right_005.toko_listrtik__right_005
+[2022.05.30-13.20.00:546][437]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__pillar.toko_listrtik__pillar
+[2022.05.30-13.20.00:546][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__right_004.toko_listrtik__right_004
+[2022.05.30-13.20.00:546][437]LogStaticMesh: Display: Building static mesh toko_listrtik__right_006...
+[2022.05.30-13.20.00:546][437]LogStaticMesh: Display: Building static mesh toko_listrtik__top_003...
+[2022.05.30-13.20.00:546][437]LogMaterial: Display: Missing cached shadermap for kacaaa in PCD3D_SM5, Default, SM5 (DDC key hash: 2E04E982FF0B897D06855C0CD562BC4087B05C6A), compiling. 
+[2022.05.30-13.20.00:617][437]LogStaticMesh: Display: Building static mesh toko_listrtik__top_004...
+[2022.05.30-13.20.00:617][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__top_003.toko_listrtik__top_003
+[2022.05.30-13.20.00:617][437]LogStaticMesh: Display: Building static mesh toko_listrtik__top_005...
+[2022.05.30-13.20.00:617][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__right_006.toko_listrtik__right_006
+[2022.05.30-13.20.00:617][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__top_004.toko_listrtik__top_004
+[2022.05.30-13.20.00:617][437]LogStaticMesh: Display: Building static mesh toko_listrtik__top_006...
+[2022.05.30-13.20.00:617][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__top_005.toko_listrtik__top_005
+[2022.05.30-13.20.00:617][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/exal_folder/rumah_pasangan/toko_listrtik__top_006.toko_listrtik__top_006
+[2022.05.30-13.20.00:617][437]LogStaticMesh: Display: Building static mesh truck_acc_001...
+[2022.05.30-13.20.00:617][437]LogStaticMesh: Display: Building static mesh truck_acc_truck_1...
+[2022.05.30-13.20.00:617][437]LogStaticMesh: Display: Building static mesh truck_acc...
+[2022.05.30-13.20.00:617][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/truck/truck_acc_001.truck_acc_001
+[2022.05.30-13.20.00:617][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/truck/truck_acc.truck_acc
+[2022.05.30-13.20.00:617][437]LogStaticMesh: Display: Building static mesh truck_acc_truck_2...
+[2022.05.30-13.20.00:617][437]LogStaticMesh: Display: Building static mesh truck_back...
+[2022.05.30-13.20.00:617][437]LogMaterial: Display: Missing cached shadermap for Lampu1 in PCD3D_SM5, Default, SM5 (DDC key hash: D7A5BC5BE87A231A05169AEAA40B716C024B9320), compiling. 
+[2022.05.30-13.20.00:678][437]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/exal_folder/truck/truck_back.truck_back
+[2022.05.30-13.20.00:678][437]LogStaticMesh: Display: Building static mesh truck_back_2...
+[2022.05.30-13.20.00:678][437]LogMaterial: Display: Missing cached shadermap for PanelHitam in PCD3D_SM5, Default, SM5 (DDC key hash: 61C84AA8F794DC741294BB992FD9D01B82D60893), compiling. 
+[2022.05.30-13.20.00:732][437]LogStaticMesh: Built static mesh [0.11s] /Game/Assets/exal_folder/truck/truck_acc_truck_2.truck_acc_truck_2
+[2022.05.30-13.20.00:732][437]LogStaticMesh: Display: Building static mesh truck_back_plate...
+[2022.05.30-13.20.00:732][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/exal_folder/truck/truck_back_plate.truck_back_plate
+[2022.05.30-13.20.00:732][437]LogStaticMesh: Display: Building static mesh truck_back_truck...
+[2022.05.30-13.20.00:732][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/exal_folder/truck/truck_back_truck.truck_back_truck
+[2022.05.30-13.20.00:732][437]LogStaticMesh: Display: Building static mesh truck_back_truck_2...
+[2022.05.30-13.20.00:732][437]LogMaterial: Display: Missing cached shadermap for standardSurface2 in PCD3D_SM5, Default, SM5 (DDC key hash: FF9F6C2B5F5D7ECC2BDA7033F1FA2F25C24FD6D7), compiling. 
+[2022.05.30-13.20.00:780][437]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/exal_folder/truck/truck_back_truck_2.truck_back_truck_2
+[2022.05.30-13.20.00:780][437]LogStaticMesh: Display: Building static mesh truck_bantal...
+[2022.05.30-13.20.00:780][437]LogMaterial: Display: Missing cached shadermap for standardSurface3 in PCD3D_SM5, Default, SM5 (DDC key hash: B045E46872A3E465CDBF60336BDFF4A55F1460E0), compiling. 
+[2022.05.30-13.20.00:831][437]LogMaterial: Display: Missing cached shadermap for typeBlinn4 in PCD3D_SM5, Default, SM5 (DDC key hash: EBEFACD649F67712125DB69E984F61AF11D455BC), compiling. 
+[2022.05.30-13.20.00:882][437]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0E8BEC233ED9E610C8B7BF0579EC04ECD33AD342), compiling. 
+[2022.05.30-13.20.00:935][437]LogStaticMesh: Built static mesh [0.23s] /Game/Assets/exal_folder/truck/truck_back_2.truck_back_2
+[2022.05.30-13.20.00:935][437]LogStaticMesh: Display: Building static mesh truck_bantal_001...
+[2022.05.30-13.20.00:935][437]LogMaterial: Display: Missing cached shadermap for anunya_listrik in PCD3D_SM5, Default, SM5 (DDC key hash: E1571A89269F5EFCE416CBEEF479DCAAA191250E), compiling. 
+[2022.05.30-13.20.00:985][437]LogStaticMesh: Built static mesh [0.22s] /Game/Assets/exal_folder/truck/truck_bantal.truck_bantal
+[2022.05.30-13.20.00:985][437]LogStaticMesh: Display: Building static mesh truck_bottom_truck...
+[2022.05.30-13.20.00:985][437]LogMaterial: Display: Missing cached shadermap for surfaceShader1 in PCD3D_SM5, Default, SM5 (DDC key hash: C069D550B8D30FE353E55588D229ECB973A88A3C), compiling. 
+[2022.05.30-13.20.01:035][437]LogMaterial: Display: Missing cached shadermap for tiang_lampu in PCD3D_SM5, Default, SM5 (DDC key hash: 5753B4BB2210A61E3C890C08E48A97C65A5F4DF1), compiling. 
+[2022.05.30-13.20.01:107][437]LogStaticMesh: Built static mesh [0.16s] /Game/Assets/exal_folder/truck/truck_bantal_001.truck_bantal_001
+[2022.05.30-13.20.01:107][437]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_64 in PCD3D_SM5, Default, SM5 (DDC key hash: 20F706D4A3A3405EBB5094992BF03B0DA1CA526C), compiling. 
+[2022.05.30-13.20.01:242][437]LogStaticMesh: Display: Building static mesh truck_bottom_truck_001...
+[2022.05.30-13.20.01:242][437]LogStaticMesh: Built static mesh [0.56s] /Game/Assets/exal_folder/truck/truck_acc_truck_1.truck_acc_truck_1
+[2022.05.30-13.20.01:242][437]LogStaticMesh: Display: Building static mesh truck_cloth...
+[2022.05.30-13.20.01:993][437]LogStaticMesh: Built static mesh [0.66s] /Game/Assets/exal_folder/truck/truck_bottom_truck_001.truck_bottom_truck_001
+[2022.05.30-13.20.01:993][437]LogStaticMesh: Display: Building static mesh truck_Cube...
+[2022.05.30-13.20.01:993][437]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/exal_folder/truck/truck_Cube.truck_Cube
+[2022.05.30-13.20.01:993][437]LogStaticMesh: Display: Building static mesh truck_Cylinder_006...
+[2022.05.30-13.20.02:062][437]LogAssetEditorSubsystem: Opening Asset editor for World /Game/demo_orang_stress/tesenvironment.tesenvironment
+[2022.05.30-13.20.02:062][437]Cmd: MAP LOAD FILE="../../../../../GitRepos/Repos/TheBigBigg/Content/demo_orang_stress/tesenvironment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.30-13.20.02:062][437]LightingResults: New page: Lighting Build
+[2022.05.30-13.20.02:062][437]LoadErrors: New page: Loading map: tesenvironment.umap
+[2022.05.30-13.20.02:065][437]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-13.20.02:066][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-13.20.02:066][437]MapCheck: New page: Map Check
+[2022.05.30-13.20.02:066][437]LightingResults: New page: Lighting Build
+[2022.05.30-13.20.02:085][437]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.30-13.20.02:094][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.05.30-13.20.02:115][437]LogTexture: Display: Waiting for textures to be ready 3/14 (/Game/Assets/exal_folder/electronic_shop/building_2_Roughness) ...
+[2022.05.30-13.20.03:234][437]LogStaticMesh: Built static mesh [2.18s] /Game/Assets/exal_folder/truck/truck_bottom_truck.truck_bottom_truck
+[2022.05.30-13.20.03:449][437]LogTexture: Display: Building textures: /Game/Assets/exal_folder/electronic_shop/building_2_Roughness.building_2_Roughness (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.30-13.20.06:997][437]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.05.30-13.20.06:997][437]LogTexture: Display: Building textures: /Game/Assets/exal_folder/material/wooden_snow_2_Normal.wooden_snow_2_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.30-13.20.06:997][437]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.040283s
+[2022.05.30-13.20.07:016][437]LogTexture: Display: Waiting for textures to be ready 4/14 (/Game/Assets/exal_folder/material/wooden_snow_2_Normal) ...
+[2022.05.30-13.20.07:286][437]LogTexture: Display: Waiting for textures to be ready 5/14 (/Game/Assets/exal_folder/material/wooden_snow_2_Roughness) ...
+[2022.05.30-13.20.07:636][437]LogTexture: Display: Building textures: /Game/Assets/exal_folder/material/wooden_snow_2_Roughness.wooden_snow_2_Roughness (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.30-13.20.07:923][437]LogTexture: Display: Waiting for textures to be ready 6/14 (/Game/Assets/exal_folder/material/wooden_snow_Albedo) ...
+[2022.05.30-13.20.08:272][437]LogTexture: Display: Building textures: /Game/Assets/exal_folder/material/wooden_snow_Albedo.wooden_snow_Albedo (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.30-13.20.08:651][437]LogTexture: Display: Waiting for textures to be ready 7/14 (/Game/Assets/exal_folder/material/wooden_snow_AO) ...
+[2022.05.30-13.20.08:895][437]LogStaticMesh: Built static mesh [6.91s] /Game/Assets/exal_folder/truck/truck_Cylinder_006.truck_Cylinder_006
+[2022.05.30-13.20.08:895][437]LogTexture: Display: Building textures: /Game/Assets/exal_folder/material/wooden_snow_AO.wooden_snow_AO (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.30-13.20.09:106][437]LogTexture: Display: Building textures: /Game/Assets/exal_folder/material/wood_Albedo.wood_Albedo (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.30-13.20.09:126][437]LogTexture: Display: Waiting for textures to be ready 8/14 (/Game/Assets/exal_folder/material/wood_Albedo) ...
+[2022.05.30-13.20.09:319][437]LogTexture: Display: Building textures: /Game/Assets/exal_folder/material/wood_AO.wood_AO (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.30-13.20.09:859][437]LogTexture: Display: Waiting for textures to be ready 9/14 (/Game/Assets/exal_folder/material/wood_AO) ...
+[2022.05.30-13.20.09:937][437]LogTexture: Display: Waiting for textures to be ready 10/14 (/Game/Assets/exal_folder/material/wood_Normal) ...
+[2022.05.30-13.20.10:166][437]LogTexture: Display: Building textures: /Game/Assets/exal_folder/material/wood_Normal.wood_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.30-13.20.10:166][437]LogTexture: Display: Building textures: /Game/Assets/exal_folder/material/wood_Roughness.wood_Roughness (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.30-13.20.10:539][437]LogTexture: Display: Waiting for textures to be ready 11/14 (/Game/Assets/exal_folder/material/wood_Roughness) ...
+[2022.05.30-13.20.10:591][437]LogTexture: Display: Building textures: /Engine/Transient.NE_Sparks:ThumbnailTexture (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.05.30-13.20.10:793][437]LogStaticMesh: Display: Building static mesh truck_Cylinder_007...
+[2022.05.30-13.20.10:793][437]LogStaticMesh: Display: Building static mesh truck_Cylinder_008...
