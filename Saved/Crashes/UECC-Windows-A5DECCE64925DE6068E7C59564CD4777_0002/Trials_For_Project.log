@@ -1,0 +1,1155 @@
+﻿Log file open, 06/26/22 22:40:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=25472)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Trials_For_Project
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19505902"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.0-19505902+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Trials_For_Project.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="7d909c6b4902895890abb98f0d28a2df"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.239758
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-A5DECCE64925DE6068E7C59564CD4777
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19505902
+LogInit: Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) (), CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Mar 25 2022 04:05:33
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.06.26-15.40.36:819][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.06.26-15.40.36:819][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.06.26-15.40.36:819][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.06.26-15.40.36:822][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.06.26-15.40.36:822][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.06.26-15.40.36:822][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.06.26-15.40.36:822][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.06.26-15.40.36:822][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.06.26-15.40.36:822][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.06.26-15.40.36:822][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.06.26-15.40.36:822][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.06.26-15.40.36:822][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.06.26-15.40.36:822][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.06.26-15.40.36:822][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.06.26-15.40.36:838][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.06.26-15.40.36:868][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.06.26-15.40.36:868][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.06.26-15.40.36:868][  0]LogD3D11RHI: D3D11 adapters:
+[2022.06.26-15.40.36:868][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2022.06.26-15.40.36:868][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070 Laptop GPU
+[2022.06.26-15.40.36:868][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.06.26-15.40.36:868][  0]LogD3D11RHI:     DeviceId    : 24dd
+[2022.06.26-15.40.36:868][  0]LogD3D11RHI:     SubSysId    : 88fd103c
+[2022.06.26-15.40.36:868][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.06.26-15.40.36:868][  0]LogD3D11RHI:     DedicatedVideoMemory : 8434745344 bytes
+[2022.06.26-15.40.36:868][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.26-15.40.36:868][  0]LogD3D11RHI:     SharedSystemMemory : 16989927424 bytes
+[2022.06.26-15.40.36:868][  0]LogD3D11RHI:     AdapterLuid : 0 95455
+[2022.06.26-15.40.36:952][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070 Laptop GPU' (Feature Level 11_1)
+[2022.06.26-15.40.36:952][  0]LogD3D11RHI:       8044/0/16202 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.06.26-15.40.36:953][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2022.06.26-15.40.36:953][  0]LogD3D11RHI:     Description : Intel(R) UHD Graphics
+[2022.06.26-15.40.36:953][  0]LogD3D11RHI:     VendorId    : 8086
+[2022.06.26-15.40.36:953][  0]LogD3D11RHI:     DeviceId    : 9a60
+[2022.06.26-15.40.36:953][  0]LogD3D11RHI:     SubSysId    : 88fd103c
+[2022.06.26-15.40.36:953][  0]LogD3D11RHI:     Revision    : 0001
+[2022.06.26-15.40.36:953][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2022.06.26-15.40.36:953][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.26-15.40.36:953][  0]LogD3D11RHI:     SharedSystemMemory : 16989927424 bytes
+[2022.06.26-15.40.36:953][  0]LogD3D11RHI:     AdapterLuid : 0 94660
+[2022.06.26-15.40.36:979][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_1)
+[2022.06.26-15.40.36:979][  0]LogD3D11RHI:       128/0/16202 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.06.26-15.40.36:979][  0]LogD3D11RHI: Testing D3D11 Adapter 2:
+[2022.06.26-15.40.36:979][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2022.06.26-15.40.36:979][  0]LogD3D11RHI:     VendorId    : 1414
+[2022.06.26-15.40.36:979][  0]LogD3D11RHI:     DeviceId    : 008c
+[2022.06.26-15.40.36:979][  0]LogD3D11RHI:     SubSysId    : 0000
+[2022.06.26-15.40.36:979][  0]LogD3D11RHI:     Revision    : 0000
+[2022.06.26-15.40.36:979][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2022.06.26-15.40.36:979][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.26-15.40.36:979][  0]LogD3D11RHI:     SharedSystemMemory : 16989927424 bytes
+[2022.06.26-15.40.36:979][  0]LogD3D11RHI:     AdapterLuid : 0 95326
+[2022.06.26-15.40.36:982][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.06.26-15.40.36:982][  0]LogD3D11RHI:       0/0/16202 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.06.26-15.40.36:982][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.06.26-15.40.36:982][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070 Laptop GPU
+[2022.06.26-15.40.36:982][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.06.26-15.40.36:982][  0]LogD3D11RHI:     DeviceId    : 24dd
+[2022.06.26-15.40.36:982][  0]LogD3D11RHI:     SubSysId    : 88fd103c
+[2022.06.26-15.40.36:982][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.06.26-15.40.36:982][  0]LogD3D11RHI:     DedicatedVideoMemory : 8434745344 bytes
+[2022.06.26-15.40.36:982][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.26-15.40.36:982][  0]LogD3D11RHI:     SharedSystemMemory : 16989927424 bytes
+[2022.06.26-15.40.36:982][  0]LogD3D11RHI:     AdapterLuid : 0 95455
+[2022.06.26-15.40.36:982][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.26-15.40.36:982][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.06.26-15.40.36:982][  0]LogHAL: Display: Platform has ~ 32 GB [33979854848 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.26-15.40.36:982][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.06.26-15.40.36:982][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.06.26-15.40.36:982][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.26-15.40.36:982][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.06.26-15.40.36:982][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Saved/Config/WindowsEditor/Editor.ini]
+[2022.06.26-15.40.36:982][  0]LogInit: Computer: LAPTOP-VGM7F06R
+[2022.06.26-15.40.36:982][  0]LogInit: User: exalt
+[2022.06.26-15.40.36:982][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.06.26-15.40.36:982][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.26-15.40.36:982][  0]LogMemory: Memory total: Physical=31.6GB (32GB approx)
+[2022.06.26-15.40.36:982][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.06.26-15.40.36:982][  0]LogMemory: Process Physical Memory: 272.75 MB used, 289.68 MB peak
+[2022.06.26-15.40.36:982][  0]LogMemory: Process Virtual Memory: 244.59 MB used, 244.59 MB peak
+[2022.06.26-15.40.36:982][  0]LogMemory: Physical Memory: 12095.09 MB used,  20310.62 MB free, 32405.71 MB total
+[2022.06.26-15.40.36:982][  0]LogMemory: Virtual Memory: 18257.70 MB used,  19012.01 MB free, 37269.71 MB total
+[2022.06.26-15.40.36:982][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.06.26-15.40.36:988][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.26-15.40.37:006][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.06.26-15.40.37:007][  0]LogInit: Using OS detected language (en-US).
+[2022.06.26-15.40.37:007][  0]LogInit: Using OS detected locale (en-ID).
+[2022.06.26-15.40.37:011][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.06.26-15.40.37:151][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.26-15.40.37:162][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.06.26-15.40.37:162][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.06.26-15.40.37:162][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.06.26-15.40.37:175][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.26-15.40.37:175][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.26-15.40.37:268][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.06.26-15.40.37:268][  0]LogD3D11RHI:     GPU DeviceId: 0x24dd (for the marketing name, search the web for "GPU Device Id")
+[2022.06.26-15.40.37:268][  0]LogWindows: EnumDisplayDevices:
+[2022.06.26-15.40.37:268][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.06.26-15.40.37:268][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.06.26-15.40.37:268][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.06.26-15.40.37:268][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.06.26-15.40.37:269][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2022.06.26-15.40.37:269][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2022.06.26-15.40.37:269][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2022.06.26-15.40.37:269][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2022.06.26-15.40.37:270][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.06.26-15.40.37:270][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Laptop GPU
+[2022.06.26-15.40.37:270][  0]LogD3D11RHI:   Driver Version: 511.79 (internal:30.0.15.1179, unified:511.79)
+[2022.06.26-15.40.37:270][  0]LogD3D11RHI:      Driver Date: 2-10-2022
+[2022.06.26-15.40.37:270][  0]LogRHI: Texture pool is 5630 MB (70% of 8044 MB)
+[2022.06.26-15.40.37:270][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.06.26-15.40.37:270][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070 Laptop GPU
+[2022.06.26-15.40.37:270][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.06.26-15.40.37:270][  0]LogD3D11RHI:     DeviceId    : 24dd
+[2022.06.26-15.40.37:270][  0]LogD3D11RHI:     SubSysId    : 88fd103c
+[2022.06.26-15.40.37:270][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.06.26-15.40.37:270][  0]LogD3D11RHI:     DedicatedVideoMemory : 8434745344 bytes
+[2022.06.26-15.40.37:270][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.26-15.40.37:270][  0]LogD3D11RHI:     SharedSystemMemory : 16989927424 bytes
+[2022.06.26-15.40.37:270][  0]LogD3D11RHI:     AdapterLuid : 0 95455
+[2022.06.26-15.40.37:326][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.06.26-15.40.37:326][  0]LogD3D11RHI: Async texture creation enabled
+[2022.06.26-15.40.37:326][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.06.26-15.40.37:326][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.06.26-15.40.37:352][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.06.26-15.40.37:384][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.06.26-15.40.37:392][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Trials_For_Project.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Intermediate/TurnkeyReport_0.log" -log="C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Intermediate/TurnkeyLog_0.log" -project="C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Trials_For_Project.uproject"  -platform=all'
+[2022.06.26-15.40.37:392][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Trials_For_Project.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Intermediate/TurnkeyReport_0.log" -log="C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Intermediate/TurnkeyLog_0.log" -project="C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Trials_For_Project.uproject"  -platform=all" ]
+[2022.06.26-15.40.37:415][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.06.26-15.40.37:424][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.06.26-15.40.37:425][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.06.26-15.40.37:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.26-15.40.37:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.26-15.40.37:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.26-15.40.37:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.26-15.40.37:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.26-15.40.37:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.26-15.40.37:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.26-15.40.37:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.26-15.40.37:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.26-15.40.37:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.26-15.40.37:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.06.26-15.40.37:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.06.26-15.40.37:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.26-15.40.37:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.26-15.40.37:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.26-15.40.37:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.06.26-15.40.37:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.26-15.40.37:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.26-15.40.37:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.06.26-15.40.37:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.06.26-15.40.37:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.06.26-15.40.37:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.26-15.40.37:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.26-15.40.37:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.26-15.40.37:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.06.26-15.40.37:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.26-15.40.37:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.26-15.40.37:468][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.06.26-15.40.37:477][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.26-15.40.37:480][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.06.26-15.40.37:480][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.06.26-15.40.37:480][  0]LogTargetPlatformManager:   ADPCM
+[2022.06.26-15.40.37:480][  0]LogTargetPlatformManager:   PCM
+[2022.06.26-15.40.37:484][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.06.26-15.40.37:484][  0]LogTargetPlatformManager:   BINKA
+[2022.06.26-15.40.37:484][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.06.26-15.40.37:484][  0]LogTargetPlatformManager:   OGG
+[2022.06.26-15.40.37:484][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.06.26-15.40.37:484][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.06.26-15.40.37:484][  0]LogTargetPlatformManager:   OPUS
+[2022.06.26-15.40.37:527][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.06.26-15.40.37:534][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.06.26-15.40.37:534][  0]LogTargetPlatformManager:   SF_METAL
+[2022.06.26-15.40.37:534][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.06.26-15.40.37:534][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.06.26-15.40.37:534][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.06.26-15.40.37:534][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.06.26-15.40.37:534][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.06.26-15.40.37:534][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.06.26-15.40.37:534][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.06.26-15.40.37:534][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.06.26-15.40.37:534][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.06.26-15.40.37:534][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.06.26-15.40.37:534][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.06.26-15.40.37:534][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.06.26-15.40.37:534][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.06.26-15.40.37:534][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.06.26-15.40.37:537][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.06.26-15.40.37:537][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.06.26-15.40.37:537][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.06.26-15.40.37:537][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.06.26-15.40.37:537][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.06.26-15.40.37:537][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.06.26-15.40.37:537][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.06.26-15.40.37:537][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.26-15.40.37:537][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.06.26-15.40.37:537][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.06.26-15.40.37:538][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.06.26-15.40.37:538][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.06.26-15.40.37:540][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.26-15.40.37:540][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.06.26-15.40.37:540][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.26-15.40.37:540][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.06.26-15.40.37:555][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1091 MiB)
+[2022.06.26-15.40.37:555][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.26-15.40.37:555][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.06.26-15.40.37:560][  0]LogDerivedDataCache: Speed tests for C:/Users/exalt/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2022.06.26-15.40.37:560][  0]LogDerivedDataCache: Display: Performance to C:/Users/exalt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1483.94MBs, RandomWriteSpeed=252.91MBs. Assigned SpeedClass 'Local'
+[2022.06.26-15.40.37:561][  0]LogDerivedDataCache: Using Local data cache path C:/Users/exalt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.26-15.40.37:561][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.26-15.40.37:561][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.06.26-15.40.37:565][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.06.26-15.40.37:565][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.06.26-15.40.37:565][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Intermediate/Shaders/WorkingDirectory/15068/).
+[2022.06.26-15.40.37:565][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/exalt/AppData/Local/Temp/UnrealShaderWorkingDir/7A4BD0F741A6864ABB9A37A32B89577B/'.
+[2022.06.26-15.40.37:566][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.26-15.40.37:566][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.06.26-15.40.38:857][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.26-15.40.38:858][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.26-15.40.38:887][  0]LogAssetRegistry: FAssetRegistry took 0.0115 seconds to start up
+[2022.06.26-15.40.38:892][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.06.26-15.40.39:131][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.06.26-15.40.39:131][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.06.26-15.40.39:392][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.26-15.40.39:392][  0]LogDeviceProfileManager: Active device profile: [0000057D691B1C00][0000057D5AEA7800 50] WindowsEditor
+[2022.06.26-15.40.39:392][  0]LogDeviceProfileManager: Profiles: [0000057D691B16C0][0000057D5AEA5000 50] Windows, [0000057D691B1C00][0000057D5AEA7800 50] WindowsEditor, [0000057D691B2680][0000057D5AEA0000 50] WindowsServer, [0000057D691B24C0][0000057D5AE17800 50] WindowsClient, [0000057D691B2300][0000057D4BA07800 50] IOS, [0000057D691B2140][0000057D5ADBC800 50] iPadAir2, [0000057D691B4EC0][0000057D5F60C800 50] IPadPro, [0000057D691B5240][0000057D57792800 50] iPadAir3, [0000057D691B4980][0000057D691A0000 50] iPadAir4, [0000057D691B0700][0000057D691A5000 50] iPadMini4, [0000057D691B0FC0][0000057D691A7800 50] iPadMini5, [0000057D691B5400][0000057D691AA000 50] iPadMini6, [0000057D691B8340][0000057D691F0000 50] iPhone6S, [0000057D691B86C0][0000057D691F2800 50] iPhone7, [0000057D691B8A40][0000057D691F5000 50] iPodTouch7, [0000057D691B3D40][0000057D691FA000 50] iPhone6SPlus, [0000057D691B7E00][0000057D691FC800 50] iPhone7Plus, [0000057D691B2840][0000057D5AEA2800 50] iPhoneSE, [0000057D691B1DC0][0000057D691AC800 50] iPhone8, [0000057D691B6580][0000057D691F7800 50] iPhone8Plus, [0000057D691B1180][0000057D667B0000 50] iPhoneX, [0000057D691B8C00][0000057D667B5000 50] iPhoneXS, [0000057D691B7380][0000057D667B7800 50] iPhoneXSMax, [0000057D691B5080][0000057D667BA000 50] iPhoneXR, [0000057D691B1500][0000057D667BC800 50] iPhone11, [0000057D691B6200][0000057D691A2800 50] iPhone11Pro, [0000057D691B55C0][0000057D667C0000 50] iPhone11ProMax, [0000057D691B1340][0000057D667C5000 50] iPhoneSE2, [0000057D691B8880][0000057D667C7800 50] iPhone12Mini, [0000057D691B4B40][0000057D667CA000 50] iPhone12, [0000057D691B7FC0][0000057D667CC800 50] iPhone12Pro, [0000057D691B2F40][0000057D667B2800 50] iPhone12ProMax, [0000057D691B7700][0000057D691C0000 50] iPhone13Mini, [0000057D691B4280][0000057D691C5000 50] iPhone13, [0000057D691B71C0][0000057D691C7800 50] iPhone13Pro, [0000057D691B47C0][0000057D691CA000 50] iPhone13ProMax, [0000057D691B5E80][0000057D691CC800 50] iPadPro105, [0000057D691B4440][0000057D667C2800 50] iPadPro129, [0000057D691B8180][0000057D691D0000 50] iPadPro97, [0000057D691B3F00][0000057D691D5000 50] iPadPro2_129, [0000057D691B6C80][0000057D691D7800 50] iPad5, [0000057D691B3480][0000057D691DA000 50] iPad6, [0000057D691B5780][0000057D691DC800 50] iPad7, [0000057D691B3800][0000057D691C2800 50] iPad8, [0000057D691B3B80][0000057D691E0000 50] iPad9, [0000057D691B32C0][0000057D691E5000 50] iPadPro11, [0000057D691B4D00][0000057D691E7800 50] iPadPro2_11, [0000057D691B39C0][0000057D691EA000 50] iPadPro3_11, [0000057D691B08C0][0000057D691EC800 50] iPadPro3_129, [0000057D691B78C0][0000057D691D2800 50] iPadPro4_129, [0000057D691B3100][0000057D69200000 50] iPadPro5_129, [0000057D691B4600][0000057D69205000 50] AppleTV, [0000057D691B0C40][0000057D69207800 50] AppleTV4K, [0000057D691B40C0][0000057D6920A000 50] TVOS, [0000057D691BA2C0][0000057D691E2800 50] Mac, [0000057D691BA640][0000057D6920C800 50] MacEditor, [0000057D691B9300][0000057D69210000 50] MacClient, [0000057D691B0000][0000057D69215000 50] MacServer, [0000057D691BA800][0000057D6921A000 50] Linux, [0000057D691BA100][0000057D69217800 50] LinuxEditor, [0000057D691B6740][0000057D6921C800 50] LinuxArm64Editor, [0000057D691B9A00][0000057D69202800 50] LinuxArm64, [0000057D691B2BC0][0000057D69220000 50] LinuxClient, [0000057D691B7A80][0000057D69225000 50] LinuxArm64Client, [0000057D691B7000][0000057D69227800 50] LinuxServer, [0000057D691B94C0][0000057D6922A000 50] LinuxArm64Server, [0000057D691B5940][0000057D6922C800 50] Android, [0000057D691B9140][0000057D69212800 50] Android_Preview_OpenGL, [0000057D691B8DC0][0000057D69230000 50] Android_Preview_Vulkan, [0000057D691B0E00][0000057D69235000 50] Android_Low, [0000057D691B63C0][0000057D69237800 50] Android_Mid, [0000057D691B9840][0000057D6923A000 50] Android_High, [0000057D691B0540][0000057D6923C800 50] Android_Default, [0000057D691B5CC0][0000057D69222800 50] Android_Adreno4xx, [0000057D691BAB80][0000057D69240000 50] Android_Adreno5xx_Low, [0000057D691B9680][0000057D69245000 50] Android_Adreno5xx, [0000057D691B7540][0000057D69247800 50] Android_Adreno6xx, [0000057D691B3640][0000057D6924A000 50] Android_Adreno6xx_Vulkan, [0000057D691B6900][0000057D6924C800 50] Android_Adreno7xx, [0000057D691B2A00][0000057D69232800 50] Android_Adreno7xx_Vulkan, [0000057D691B2D80][0000057D69250000 50] Android_Mali_T6xx, [0000057D691B9F40][0000057D69255000 50] Android_Mali_T7xx, [0000057D691B9D80][0000057D69257800 50] Android_Mali_T8xx, [0000057D691B01C0][0000057D6925A000 50] Android_Mali_G71, [0000057D691B8F80][0000057D6925C800 50] Android_Mali_G72, [0000057D691B7C40][0000057D69242800 50] Android_Mali_G72_Vulkan, [0000057D691B1F80][0000057D66790000 50] Android_Mali_G76, [0000057D691BB440][0000057D66795000 50] Android_Mali_G76_Vulkan, [0000057D691B0380][0000057D66797800 50] Android_Mali_G77, [0000057D691BAF00][0000057D6679A000 50] Android_Mali_G77_Vulkan, [0000057D691BAD40][0000057D6679C800 50] Android_Mali_G78, [0000057D691BA9C0][0000057D69252800 50] Android_Mali_G78_Vulkan, [0000057D691BB280][0000057D69260000 50] Android_Mali_G710, [0000057D691B8500][0000057D69265000 50] Android_Mali_G710_Vulkan, [0000057D691B1A40][0000057D69267800 50] Android_Xclipse_920, [0000057D691B9BC0][0000057D6926A000 50] Android_Xclipse_920_Vulkan, [0000057D691BC400][0000057D6926C800 50] Android_Vulkan_SM5, [0000057D691BC5C0][0000057D66792800 50] Android_PowerVR_G6xxx, [0000057D691BB600][0000057D69270000 50] Android_PowerVR_GT7xxx, [0000057D691BBEC0][0000057D69275000 50] Android_PowerVR_GE8xxx, [0000057D691BBD00][0000057D69277800 50] Android_PowerVR_GM9xxx, [0000057D691BA480][0000057D6927A000 50] Android_PowerVR_GM9xxx_Vulkan, [0000057D691B0A80][0000057D6927C800 50] Android_TegraK1, [0000057D691B6E40][0000057D69262800 50] Android_Unknown_Vulkan, [0000057D691BD3C0][0000057D69280000 50] Oculus_Quest, [0000057D691BBB40][0000057D69285000 50] Oculus_Quest2, [0000057D691BC780][0000057D69287800 50] HoloLens, 
+[2022.06.26-15.40.39:392][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.06.26-15.40.39:409][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.06.26-15.40.39:589][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.26-15.40.39:589][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.26-15.40.39:589][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.26-15.40.39:589][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.26-15.40.39:589][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.26-15.40.39:603][  0]LogNetVersion: Trials_For_Project 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2171547110)
+[2022.06.26-15.40.39:710][  0]LogSlate: Border
+[2022.06.26-15.40.39:710][  0]LogSlate: BreadcrumbButton
+[2022.06.26-15.40.39:710][  0]LogSlate: Default
+[2022.06.26-15.40.39:710][  0]LogSlate: Icons.Save
+[2022.06.26-15.40.39:710][  0]LogSlate: Icons.Toolbar.Settings
+[2022.06.26-15.40.39:710][  0]LogSlate: ListView
+[2022.06.26-15.40.39:710][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.06.26-15.40.39:710][  0]LogSlate: SoftwareCursor_Grab
+[2022.06.26-15.40.39:710][  0]LogSlate: TableView.DarkRow
+[2022.06.26-15.40.39:710][  0]LogSlate: TableView.Row
+[2022.06.26-15.40.39:710][  0]LogSlate: TreeView
+[2022.06.26-15.40.39:857][  0]SourceControl: Source control is disabled
+[2022.06.26-15.40.39:880][  0]SourceControl: Source control is disabled
+[2022.06.26-15.40.39:880][  0]SourceControl: Source control is disabled
+[2022.06.26-15.40.39:982][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.06.26-15.40.39:982][  0]LogUObjectAllocator: 5584240 out of 0 bytes used by permanent object pool.
+[2022.06.26-15.40.39:982][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.26-15.40.40:328][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: D428AFA64AB9600725B9DDAB39D0A444 | Instance: 54337AB141E84C804F3D778A975A687E (LAPTOP-VGM7F06R-15068).
+[2022.06.26-15.40.40:385][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.26-15.40.40:392][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.26-15.40.40:411][  0]LogPython: Using Python 3.9.7
+[2022.06.26-15.40.44:670][  0]LogUProjectInfo: Found projects:
+[2022.06.26-15.40.44:671][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.26-15.40.44:671][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.26-15.40.44:672][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.26-15.40.44:826][  0]LogOpenImageDenoise: OIDN starting up
+[2022.06.26-15.40.44:877][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.26-15.40.44:893][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.26-15.40.44:893][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.26-15.40.45:018][  0]LogCollectionManager: Loaded 0 collections in 0.000864 seconds
+[2022.06.26-15.40.45:100][  0]LogFileCache: Scanning file cache for directory 'C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Saved/Collections/' took 0.00s
+[2022.06.26-15.40.45:100][  0]LogFileCache: Scanning file cache for directory 'C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Content/Developers/exalt/Collections/' took 0.00s
+[2022.06.26-15.40.45:100][  0]LogFileCache: Scanning file cache for directory 'C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Content/Collections/' took 0.00s
+[2022.06.26-15.40.45:330][  0]LogEngine: Initializing Engine...
+[2022.06.26-15.40.45:341][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.26-15.40.45:576][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.26-15.40.45:576][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.26-15.40.45:587][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.26-15.40.45:614][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.26-15.40.45:614][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.26-15.40.45:637][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.06.26-15.40.45:637][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.06.26-15.40.45:637][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.06.26-15.40.45:638][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.26-15.40.45:638][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.26-15.40.45:638][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.26-15.40.45:638][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.26-15.40.45:638][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.26-15.40.45:638][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.26-15.40.45:638][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.26-15.40.45:638][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.26-15.40.45:638][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.26-15.40.45:638][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.26-15.40.45:638][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.26-15.40.45:638][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.26-15.40.45:638][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.26-15.40.45:645][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.26-15.40.45:736][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphone (Realtek(R) Audio)
+[2022.06.26-15.40.45:736][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.26-15.40.45:738][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.26-15.40.45:738][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.26-15.40.45:739][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.06.26-15.40.45:739][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.06.26-15.40.45:740][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.06.26-15.40.45:740][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.06.26-15.40.45:740][  0]LogInit: FAudioDevice initialized.
+[2022.06.26-15.40.45:740][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.26-15.40.45:740][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.26-15.40.45:740][  0]LogInit: Texture streaming: Enabled
+[2022.06.26-15.40.45:772][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.0-19505902+++UE5+Release-5.0
+[2022.06.26-15.40.45:780][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.26-15.40.45:814][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.06.26-15.40.45:822][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.06.26-15.40.45:822][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.06.26-15.40.46:945][  0]LogLiveCoding: Display: First instance in process group "UE_Trials_For_Project_0x2f81d140", spawning console
+[2022.06.26-15.40.46:945][  0]LogLiveCoding: Display: Waiting for server
+[2022.06.26-15.40.46:945][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.06.26-15.40.46:969][  0]LogInit: Transaction tracking system initialized
+[2022.06.26-15.40.47:039][  0]BlueprintLog: New page: Editor Load
+[2022.06.26-15.40.47:217][  0]LocalizationService: Localization service is disabled
+[2022.06.26-15.40.47:263][  0]TimingProfiler: Initialize
+[2022.06.26-15.40.47:263][  0]TimingProfiler: OnSessionChanged
+[2022.06.26-15.40.47:263][  0]LoadingProfiler: Initialize
+[2022.06.26-15.40.47:263][  0]LoadingProfiler: OnSessionChanged
+[2022.06.26-15.40.47:263][  0]NetworkingProfiler: Initialize
+[2022.06.26-15.40.47:263][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.26-15.40.47:263][  0]MemoryProfiler: Initialize
+[2022.06.26-15.40.47:263][  0]MemoryProfiler: OnSessionChanged
+[2022.06.26-15.40.47:438][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.26-15.40.47:438][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.26-15.40.47:439][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.26-15.40.47:881][  0]LogFileCache: Scanning file cache for directory 'C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Content/' took 0.01s
+[2022.06.26-15.40.47:881][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.06.26-15.40.47:949][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.26-15.40.47:951][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.131
+[2022.06.26-15.40.47:951][  0]Cmd: MAP LOAD FILE="../../../../../../Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.26-15.40.47:951][  0]LightingResults: New page: Lighting Build
+[2022.06.26-15.40.47:957][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.26-15.40.47:957][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.26-15.40.47:957][  0]MapCheck: New page: Map Check
+[2022.06.26-15.40.47:957][  0]LightingResults: New page: Lighting Build
+[2022.06.26-15.40.47:963][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.26-15.40.47:965][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.06.26-15.40.48:111][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair should be resaved to improve async compilation performance.
+[2022.06.26-15.40.48:117][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue should be resaved to improve async compilation performance.
+[2022.06.26-15.40.48:123][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound should be resaved to improve async compilation performance.
+[2022.06.26-15.40.48:133][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.06.26-15.40.48:133][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.26-15.40.48:134][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.26-15.40.48:134][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.06.26-15.40.48:138][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.26-15.40.48:144][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.06.26-15.40.48:144][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.26-15.40.48:145][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.162ms to complete.
+[2022.06.26-15.40.48:145][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.194
+[2022.06.26-15.40.48:154][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.334
+[2022.06.26-15.40.48:154][  0]LogShaderCompilers: Display: ================================================
+[2022.06.26-15.40.48:154][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.26-15.40.48:154][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.06.26-15.40.48:154][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.06.26-15.40.48:154][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.06.26-15.40.48:154][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.26-15.40.48:154][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.06.26-15.40.48:154][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.06.26-15.40.48:154][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.06.26-15.40.48:154][  0]LogShaderCompilers: Display: ================================================
+[2022.06.26-15.40.48:260][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.26-15.40.48:265][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.26-15.40.48:269][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.26-15.40.48:273][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.26-15.40.48:338][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.06.26-15.40.48:339][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.26-15.40.48:340][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.06.26-15.40.48:340][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.26-15.40.48:341][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.06.26-15.40.48:341][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.26-15.40.48:342][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.06.26-15.40.48:342][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.26-15.40.48:344][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.06.26-15.40.48:344][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.26-15.40.48:344][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.06.26-15.40.48:344][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.26-15.40.48:345][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.06.26-15.40.48:345][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.26-15.40.48:346][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.06.26-15.40.48:346][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.26-15.40.48:347][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.06.26-15.40.48:347][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.26-15.40.48:348][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.06.26-15.40.48:348][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.26-15.40.48:469][  0]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.26-15.40.48:473][  0]LogSlate: Took 0.000408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.26-15.40.48:474][  0]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.26-15.40.48:757][  0]LogStall: Startup...
+[2022.06.26-15.40.48:759][  0]LogStall: Startup complete.
+[2022.06.26-15.40.48:769][  0]LogInput: Warning: Action Jump uses invalid key Daydream_Left_Select_Click.
+[2022.06.26-15.40.48:769][  0]LogInput: Warning: Action ResetVR uses invalid key Daydream_Left_Trackpad_Click.
+[2022.06.26-15.40.48:769][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.06.26-15.40.48:769][  0]LogInput: Warning: Action Jump uses invalid key MagicLeap_Left_Trigger.
+[2022.06.26-15.40.48:769][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.06.26-15.40.48:769][  0]LogInput: Warning: Action ResetVR uses invalid key MagicLeap_Left_Bumper.
+[2022.06.26-15.40.48:769][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.06.26-15.40.48:769][  0]LogLoad: (Engine Initialization) Total time: 12.95 seconds
+[2022.06.26-15.40.48:769][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.26-15.40.48:815][  0]LogAssetRegistry: Asset discovery search completed in 9.9294 seconds
+[2022.06.26-15.40.48:825][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.06.26-15.40.48:867][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.26-15.40.51:506][154]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.26-15.40.51:508][154]LogSlate: Took 0.000343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.26-15.40.51:514][154]LogSlate: Took 0.000328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.26-15.40.53:961][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.06.26-15.40.54:163][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/AutomotiveWinterScene/Material/01_Master/M_Snow_Chunks_Master': Can't find file.
+[2022.06.26-15.40.54:163][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/AutomotiveWinterScene/Material/01_Master/M_Snow_Chunks_Master'
+[2022.06.26-15.40.54:204][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/AutomotiveWinterScene/Megascans/3D_Assets/Guardrail_01/SM_Guardrail_01': Can't find file.
+[2022.06.26-15.40.54:204][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/AutomotiveWinterScene/Megascans/3D_Assets/Guardrail_01/SM_Guardrail_01'
+[2022.06.26-15.40.54:204][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/AutomotiveWinterScene/Megascans/3D_Assets/Road_01/SM_Road_01': Can't find file.
+[2022.06.26-15.40.54:204][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/AutomotiveWinterScene/Megascans/3D_Assets/Road_01/SM_Road_01'
+[2022.06.26-15.40.54:204][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/AutomotiveWinterScene/Megascans/3D_Assets/Roadside_02/SM_Roadside_02': Can't find file.
+[2022.06.26-15.40.54:204][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/AutomotiveWinterScene/Megascans/3D_Assets/Roadside_02/SM_Roadside_02'
+[2022.06.26-15.40.54:204][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/AutomotiveWinterScene/Megascans/3D_Assets/Rock_Assembly_01/SM_Rock_Assembly_01': Can't find file.
+[2022.06.26-15.40.54:204][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/AutomotiveWinterScene/Megascans/3D_Assets/Rock_Assembly_01/SM_Rock_Assembly_01'
+[2022.06.26-15.40.54:204][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/AutomotiveWinterScene/Megascans/3D_Assets/Rock_Assembly_02/SM_Rock_Assembly_02': Can't find file.
+[2022.06.26-15.40.54:204][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/AutomotiveWinterScene/Megascans/3D_Assets/Rock_Assembly_02/SM_Rock_Assembly_02'
+[2022.06.26-15.40.54:234][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/LowpolyStyle/Asia/Meshes/Buildings/SM_AsianHouse_2': Can't find file.
+[2022.06.26-15.40.54:234][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LowpolyStyle/Asia/Meshes/Buildings/SM_AsianHouse_2'
+[2022.06.26-15.40.54:234][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/LowpolyStyle/Asia/Meshes/Buildings/SM_Roof_2': Can't find file.
+[2022.06.26-15.40.54:234][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LowpolyStyle/Asia/Meshes/Buildings/SM_Roof_2'
+[2022.06.26-15.40.54:234][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/LowpolyStyle/Asia/Meshes/SM_BuddhaStatue': Can't find file.
+[2022.06.26-15.40.54:234][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LowpolyStyle/Asia/Meshes/SM_BuddhaStatue'
+[2022.06.26-15.40.54:234][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/LowpolyStyle/Asia/Meshes/SM_Torii_Basic': Can't find file.
+[2022.06.26-15.40.54:234][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LowpolyStyle/Asia/Meshes/SM_Torii_Basic'
+[2022.06.26-15.40.54:390][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/terowongan_Cylinder': Can't find file.
+[2022.06.26-15.40.54:390][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/terowongan_Cylinder'
+[2022.06.26-15.40.54:390][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_acc_001_Cylinder_None': Can't find file.
+[2022.06.26-15.40.54:390][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_acc_001_Cylinder_None'
+[2022.06.26-15.40.54:390][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_acc_Cylinder_003_None': Can't find file.
+[2022.06.26-15.40.54:390][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_acc_Cylinder_003_None'
+[2022.06.26-15.40.54:390][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_acc_truck_1_Mesh_None': Can't find file.
+[2022.06.26-15.40.54:390][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_acc_truck_1_Mesh_None'
+[2022.06.26-15.40.54:391][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_acc_truck_2_Mesh_001_None': Can't find file.
+[2022.06.26-15.40.54:391][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_acc_truck_2_Mesh_001_None'
+[2022.06.26-15.40.54:391][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_back_2_Cube_029_None': Can't find file.
+[2022.06.26-15.40.54:391][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_back_2_Cube_029_None'
+[2022.06.26-15.40.54:391][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_back_Mesh_008_None': Can't find file.
+[2022.06.26-15.40.54:391][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_back_Mesh_008_None'
+[2022.06.26-15.40.54:391][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_back_plate_Cube_056_None': Can't find file.
+[2022.06.26-15.40.54:391][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_back_plate_Cube_056_None'
+[2022.06.26-15.40.54:391][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_back_truck_2_Cube_031_None': Can't find file.
+[2022.06.26-15.40.54:391][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_back_truck_2_Cube_031_None'
+[2022.06.26-15.40.54:392][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_back_truck_Cube_032_None': Can't find file.
+[2022.06.26-15.40.54:392][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_back_truck_Cube_032_None'
+[2022.06.26-15.40.54:392][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_bantal_001_Cube_083_None': Can't find file.
+[2022.06.26-15.40.54:392][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_bantal_001_Cube_083_None'
+[2022.06.26-15.40.54:392][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_bantal_Cube_109_None': Can't find file.
+[2022.06.26-15.40.54:392][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_bantal_Cube_109_None'
+[2022.06.26-15.40.54:392][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_bottom_truck_001_Mesh_003_None': Can't find file.
+[2022.06.26-15.40.54:392][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_bottom_truck_001_Mesh_003_None'
+[2022.06.26-15.40.54:392][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_bottom_truck_Cube_048_None': Can't find file.
+[2022.06.26-15.40.54:392][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_bottom_truck_Cube_048_None'
+[2022.06.26-15.40.54:392][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_cloth_Cube_030_None': Can't find file.
+[2022.06.26-15.40.54:392][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_cloth_Cube_030_None'
+[2022.06.26-15.40.54:392][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_Cube_Cube_116_None': Can't find file.
+[2022.06.26-15.40.54:393][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_Cube_Cube_116_None'
+[2022.06.26-15.40.54:393][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_Cylinder_006_Mesh_015_None': Can't find file.
+[2022.06.26-15.40.54:393][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_Cylinder_006_Mesh_015_None'
+[2022.06.26-15.40.54:393][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_Cylinder_007_Mesh_010_None': Can't find file.
+[2022.06.26-15.40.54:393][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_Cylinder_007_Mesh_010_None'
+[2022.06.26-15.40.54:393][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_Cylinder_008_Mesh_016_None': Can't find file.
+[2022.06.26-15.40.54:393][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_Cylinder_008_Mesh_016_None'
+[2022.06.26-15.40.54:393][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_Cylinder_009_Mesh_019_None': Can't find file.
+[2022.06.26-15.40.54:393][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_Cylinder_009_Mesh_019_None'
+[2022.06.26-15.40.54:393][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_Cylinder_010_Mesh_012_None': Can't find file.
+[2022.06.26-15.40.54:393][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_Cylinder_010_Mesh_012_None'
+[2022.06.26-15.40.54:393][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_Cylinder_011_Mesh_020_None': Can't find file.
+[2022.06.26-15.40.54:393][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_Cylinder_011_Mesh_020_None'
+[2022.06.26-15.40.54:394][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_Cylinder_012_Cylinder_039_None': Can't find file.
+[2022.06.26-15.40.54:394][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_Cylinder_012_Cylinder_039_None'
+[2022.06.26-15.40.54:394][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_Cylinder_013_Mesh_035_None': Can't find file.
+[2022.06.26-15.40.54:394][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_Cylinder_013_Mesh_035_None'
+[2022.06.26-15.40.54:394][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_dash_board_Cube_110_None': Can't find file.
+[2022.06.26-15.40.54:394][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_dash_board_Cube_110_None'
+[2022.06.26-15.40.54:394][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_dashboard_001_Mesh_036_None': Can't find file.
+[2022.06.26-15.40.54:394][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_dashboard_001_Mesh_036_None'
+[2022.06.26-15.40.54:394][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_dashboard_002_Cube_111_None': Can't find file.
+[2022.06.26-15.40.54:394][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_dashboard_002_Cube_111_None'
+[2022.06.26-15.40.54:394][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_dashboard_Mesh_034_None': Can't find file.
+[2022.06.26-15.40.54:394][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_dashboard_Mesh_034_None'
+[2022.06.26-15.40.54:395][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_front_light_001_Mesh_031_None': Can't find file.
+[2022.06.26-15.40.54:395][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_front_light_001_Mesh_031_None'
+[2022.06.26-15.40.54:395][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_front_light_Mesh_030_None': Can't find file.
+[2022.06.26-15.40.54:395][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_front_light_Mesh_030_None'
+[2022.06.26-15.40.54:395][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_front_Mesh_032_None': Can't find file.
+[2022.06.26-15.40.54:395][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_front_Mesh_032_None'
+[2022.06.26-15.40.54:395][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_front_truck_001_Mesh_025_None': Can't find file.
+[2022.06.26-15.40.54:396][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_front_truck_001_Mesh_025_None'
+[2022.06.26-15.40.54:396][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_front_truck_002_Mesh_026_None': Can't find file.
+[2022.06.26-15.40.54:396][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_front_truck_002_Mesh_026_None'
+[2022.06.26-15.40.54:396][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_front_truck_Mesh_002_None': Can't find file.
+[2022.06.26-15.40.54:396][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_front_truck_Mesh_002_None'
+[2022.06.26-15.40.54:397][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_gas_001_Cylinder_015_None': Can't find file.
+[2022.06.26-15.40.54:397][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_gas_001_Cylinder_015_None'
+[2022.06.26-15.40.54:397][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_gas_002_Cylinder_017_None': Can't find file.
+[2022.06.26-15.40.54:397][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_gas_002_Cylinder_017_None'
+[2022.06.26-15.40.54:397][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_gas_003_Cube_113_None': Can't find file.
+[2022.06.26-15.40.54:397][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_gas_003_Cube_113_None'
+[2022.06.26-15.40.54:397][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_gas_004_Cube_114_None': Can't find file.
+[2022.06.26-15.40.54:397][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_gas_004_Cube_114_None'
+[2022.06.26-15.40.54:398][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_gas_005_Cylinder_019_None': Can't find file.
+[2022.06.26-15.40.54:398][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_gas_005_Cylinder_019_None'
+[2022.06.26-15.40.54:398][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_gas_Cube_112_None': Can't find file.
+[2022.06.26-15.40.54:398][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_gas_Cube_112_None'
+[2022.06.26-15.40.54:398][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_gear_001_Mesh_037_None': Can't find file.
+[2022.06.26-15.40.54:398][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_gear_001_Mesh_037_None'
+[2022.06.26-15.40.54:398][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_gear_002_Cylinder_038_None': Can't find file.
+[2022.06.26-15.40.54:398][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_gear_002_Cylinder_038_None'
+[2022.06.26-15.40.54:398][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_gear_003_Cube_115_None': Can't find file.
+[2022.06.26-15.40.54:398][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_gear_003_Cube_115_None'
+[2022.06.26-15.40.54:398][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_gear_Sphere_017_None': Can't find file.
+[2022.06.26-15.40.54:398][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_gear_Sphere_017_None'
+[2022.06.26-15.40.54:399][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_hand_brake_001_Cylinder_012_None': Can't find file.
+[2022.06.26-15.40.54:399][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_hand_brake_001_Cylinder_012_None'
+[2022.06.26-15.40.54:399][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_hand_brake_002_Cylinder_013_None': Can't find file.
+[2022.06.26-15.40.54:399][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_hand_brake_002_Cylinder_013_None'
+[2022.06.26-15.40.54:399][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_hand_brake_003_Cylinder_014_None': Can't find file.
+[2022.06.26-15.40.54:399][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_hand_brake_003_Cylinder_014_None'
+[2022.06.26-15.40.54:399][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_hand_brake_Cylinder_011_None': Can't find file.
+[2022.06.26-15.40.54:399][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_hand_brake_Cylinder_011_None'
+[2022.06.26-15.40.54:400][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_kaca_dewpan_Cube_058_None': Can't find file.
+[2022.06.26-15.40.54:400][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_kaca_dewpan_Cube_058_None'
+[2022.06.26-15.40.54:400][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_key_001_Cylinder_028_None': Can't find file.
+[2022.06.26-15.40.54:400][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_key_001_Cylinder_028_None'
+[2022.06.26-15.40.54:400][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_key_Cylinder_030_None': Can't find file.
+[2022.06.26-15.40.54:400][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_key_Cylinder_030_None'
+[2022.06.26-15.40.54:400][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_kursi_001_Cube_081_None': Can't find file.
+[2022.06.26-15.40.54:400][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_kursi_001_Cube_081_None'
+[2022.06.26-15.40.54:401][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_kursi_Mesh_033_None': Can't find file.
+[2022.06.26-15.40.54:401][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_kursi_Mesh_033_None'
+[2022.06.26-15.40.54:401][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_light_back_001_Cube_041_None': Can't find file.
+[2022.06.26-15.40.54:401][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_light_back_001_Cube_041_None'
+[2022.06.26-15.40.54:401][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_light_back_002_Cube_043_None': Can't find file.
+[2022.06.26-15.40.54:401][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_light_back_002_Cube_043_None'
+[2022.06.26-15.40.54:401][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_light_back_004_Cube_044_None': Can't find file.
+[2022.06.26-15.40.54:401][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_light_back_004_Cube_044_None'
+[2022.06.26-15.40.54:401][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_light_back_005_Cube_046_None': Can't find file.
+[2022.06.26-15.40.54:401][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_light_back_005_Cube_046_None'
+[2022.06.26-15.40.54:401][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_light_back_Cube_042_None': Can't find file.
+[2022.06.26-15.40.54:401][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_light_back_Cube_042_None'
+[2022.06.26-15.40.54:401][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_main_truck_Cube_045_None': Can't find file.
+[2022.06.26-15.40.54:401][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_main_truck_Cube_045_None'
+[2022.06.26-15.40.54:402][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_mid_truck_001_Mesh_004_None': Can't find file.
+[2022.06.26-15.40.54:402][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_mid_truck_001_Mesh_004_None'
+[2022.06.26-15.40.54:402][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_mid_truck_002_Mesh_005_None': Can't find file.
+[2022.06.26-15.40.54:402][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_mid_truck_002_Mesh_005_None'
+[2022.06.26-15.40.54:402][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_mid_truck_003_Mesh_006_None': Can't find file.
+[2022.06.26-15.40.54:402][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_mid_truck_003_Mesh_006_None'
+[2022.06.26-15.40.54:402][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_mid_truck_004_Mesh_007_None': Can't find file.
+[2022.06.26-15.40.54:402][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_mid_truck_004_Mesh_007_None'
+[2022.06.26-15.40.54:403][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_mid_truck_Cube_028_None': Can't find file.
+[2022.06.26-15.40.54:403][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_mid_truck_Cube_028_None'
+[2022.06.26-15.40.54:403][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_number_plate_Cube_047_None': Can't find file.
+[2022.06.26-15.40.54:403][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_number_plate_Cube_047_None'
+[2022.06.26-15.40.54:403][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_side_001_Cube_033_None': Can't find file.
+[2022.06.26-15.40.54:403][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_side_001_Cube_033_None'
+[2022.06.26-15.40.54:403][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_side_002_Cube_034_None': Can't find file.
+[2022.06.26-15.40.54:403][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_side_002_Cube_034_None'
+[2022.06.26-15.40.54:403][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_side_003_Cube_038_None': Can't find file.
+[2022.06.26-15.40.54:403][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_side_003_Cube_038_None'
+[2022.06.26-15.40.54:403][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_side_004_Cube_039_None': Can't find file.
+[2022.06.26-15.40.54:403][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_side_004_Cube_039_None'
+[2022.06.26-15.40.54:404][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_side_005_Cube_040_None': Can't find file.
+[2022.06.26-15.40.54:404][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_side_005_Cube_040_None'
+[2022.06.26-15.40.54:404][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_Sphere_001_Sphere_005_None': Can't find file.
+[2022.06.26-15.40.54:404][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_Sphere_001_Sphere_005_None'
+[2022.06.26-15.40.54:404][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_Sphere_002_Sphere_006_None': Can't find file.
+[2022.06.26-15.40.54:404][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_Sphere_002_Sphere_006_None'
+[2022.06.26-15.40.54:404][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_Sphere_003_Sphere_007_None': Can't find file.
+[2022.06.26-15.40.54:404][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_Sphere_003_Sphere_007_None'
+[2022.06.26-15.40.54:404][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_Sphere_004_Sphere_014_None': Can't find file.
+[2022.06.26-15.40.54:404][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_Sphere_004_Sphere_014_None'
+[2022.06.26-15.40.54:404][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_Sphere_005_Sphere_015_None': Can't find file.
+[2022.06.26-15.40.54:404][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_Sphere_005_Sphere_015_None'
+[2022.06.26-15.40.54:404][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_Sphere_006_Sphere_016_None': Can't find file.
+[2022.06.26-15.40.54:405][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_Sphere_006_Sphere_016_None'
+[2022.06.26-15.40.54:405][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_Sphere_Sphere_004_None': Can't find file.
+[2022.06.26-15.40.54:405][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_Sphere_Sphere_004_None'
+[2022.06.26-15.40.54:405][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_steer_wheel_001_Cylinder_034_None': Can't find file.
+[2022.06.26-15.40.54:405][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_steer_wheel_001_Cylinder_034_None'
+[2022.06.26-15.40.54:405][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_steer_wheel_Cylinder_032_None': Can't find file.
+[2022.06.26-15.40.54:405][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_steer_wheel_Cylinder_032_None'
+[2022.06.26-15.40.54:405][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_tank_001_Mesh_022_None': Can't find file.
+[2022.06.26-15.40.54:405][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_tank_001_Mesh_022_None'
+[2022.06.26-15.40.54:405][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_tank_002_Mesh_023_None': Can't find file.
+[2022.06.26-15.40.54:405][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_tank_002_Mesh_023_None'
+[2022.06.26-15.40.54:405][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_tank_003_Mesh_024_None': Can't find file.
+[2022.06.26-15.40.54:405][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_tank_003_Mesh_024_None'
+[2022.06.26-15.40.54:406][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_tank_004_Mesh_027_None': Can't find file.
+[2022.06.26-15.40.54:406][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_tank_004_Mesh_027_None'
+[2022.06.26-15.40.54:406][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_tank_005_Mesh_028_None': Can't find file.
+[2022.06.26-15.40.54:406][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_tank_005_Mesh_028_None'
+[2022.06.26-15.40.54:406][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_tank_006_Mesh_029_None': Can't find file.
+[2022.06.26-15.40.54:406][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_tank_006_Mesh_029_None'
+[2022.06.26-15.40.54:406][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_tank_Mesh_021_None': Can't find file.
+[2022.06.26-15.40.54:406][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_tank_Mesh_021_None'
+[2022.06.26-15.40.54:406][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_tiang_002_Cylinder_004_None': Can't find file.
+[2022.06.26-15.40.54:406][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_tiang_002_Cylinder_004_None'
+[2022.06.26-15.40.54:406][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_tiang_003_Cylinder_008_None': Can't find file.
+[2022.06.26-15.40.54:406][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_tiang_003_Cylinder_008_None'
+[2022.06.26-15.40.54:407][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_tire_001_Mesh_013_None': Can't find file.
+[2022.06.26-15.40.54:407][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_tire_001_Mesh_013_None'
+[2022.06.26-15.40.54:407][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_tire_002_Mesh_014_None': Can't find file.
+[2022.06.26-15.40.54:407][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_tire_002_Mesh_014_None'
+[2022.06.26-15.40.54:407][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_tire_003_Mesh_017_None': Can't find file.
+[2022.06.26-15.40.54:407][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_tire_003_Mesh_017_None'
+[2022.06.26-15.40.54:407][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_tire_004_Mesh_018_None': Can't find file.
+[2022.06.26-15.40.54:407][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_tire_004_Mesh_018_None'
+[2022.06.26-15.40.54:407][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_tire_005_Mesh_011_None': Can't find file.
+[2022.06.26-15.40.54:407][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_tire_005_Mesh_011_None'
+[2022.06.26-15.40.54:407][298]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\MAPFIX.umap: Failed to load '/Game/Migrated/terowongan+truck/truck_tire_Mesh_009_None': Can't find file.
+[2022.06.26-15.40.54:407][298]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Migrated/terowongan+truck/truck_tire_Mesh_009_None'
+[2022.06.26-15.40.54:772][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Placeholder_01_M.T_Placeholder_01_M (TFO_AutoDXT VT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2022.06.26-15.40.54:772][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Placeholder_01_C.T_Placeholder_01_C (TFO_AutoDXT VT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2022.06.26-15.40.54:772][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Placeholder_01_N.T_Placeholder_01_N (TFO_BC5 VT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2022.06.26-15.40.54:772][298]LogTexture: Display: Building textures: /Game/q/dd.dd (TFO_AutoDXT, 2000X2000 X1X1) (Required Memory Estimate: 76.293945 MB), EncodeSpeed: Fast
+[2022.06.26-15.40.54:772][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Placeholder_02_M.T_Placeholder_02_M (TFO_AutoDXT VT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2022.06.26-15.40.55:280][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Freeway/Textures/T_BLDG_Prop_Lamp_Wall_A01_E.T_BLDG_Prop_Lamp_Wall_A01_E (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.40.55:280][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_FreewaySign_Green_01_A_01_N.T_FreewaySign_Green_01_A_01_N (TFO_BC5 VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.40.55:280][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_FreewaySign_Green_01_A_01_M.T_FreewaySign_Green_01_A_01_M (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.40.55:280][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Grunge_Dust_01_AORM.T_Grunge_Dust_01_AORM (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.40.55:280][298]LogMaterial: Display: Missing cached shadermap for concrete in PCD3D_SM5, Default, SM5 (DDC key hash: BF72BC92394F87F0EA99DB3F1430E8EFE6216E65), compiling. 
+[2022.06.26-15.40.55:845][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Metal_Galvanized_01_AORM.T_Metal_Galvanized_01_AORM (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.40.55:845][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Grunge_Dust_01_C.T_Grunge_Dust_01_C (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.40.55:845][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Grunge_Dust_01_N.T_Grunge_Dust_01_N (TFO_BC5 VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.40.55:845][298]LogMaterial: Display: Missing cached shadermap for MM_Master_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 93835285B704304E7CC945EE9FC95904862641CE), compiling. 
+[2022.06.26-15.40.55:920][298]LogMaterial: Display: Missing cached shadermap for aiStandardSurface1 in PCD3D_SM5, Default, SM5 (DDC key hash: AAF1D843D7DEEBF7FBFB968AFD39D8E4530E6F0A), compiling. 
+[2022.06.26-15.40.55:956][298]LogMaterial: Display: Missing cached shadermap for aircon_top_008 in PCD3D_SM5, Default, SM5 (DDC key hash: B89E61D493383240C8310AC34389648EBDF72D87), compiling. 
+[2022.06.26-15.40.55:985][298]LogMaterial: Display: Missing cached shadermap for atas2_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7A3A27E0FF1A37049A7E59575B8A5692728E7D40), compiling. 
+[2022.06.26-15.40.56:020][298]LogMaterial: Display: Missing cached shadermap for orange in PCD3D_SM5, Default, SM5 (DDC key hash: 1A5977C2D5A2FCB4C6649EE0E9D6EF93B54DA638), compiling. 
+[2022.06.26-15.40.56:060][298]LogMaterial: Display: Missing cached shadermap for red_paint_001 in PCD3D_SM5, Default, SM5 (DDC key hash: D81D9CFF834EC54EC88900B38731D5E70C69758C), compiling. 
+[2022.06.26-15.40.56:089][298]LogMaterial: Display: Missing cached shadermap for scafolding2colr_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C1A9C9E083FBBE8C914B29E7ECC885D5D3F703B7), compiling. 
+[2022.06.26-15.40.56:122][298]LogMaterial: Display: Missing cached shadermap for dd_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: EE0246D09FE5BD214423D262F7CA594DF85777CE), compiling. 
+[2022.06.26-15.40.56:483][298]LogMaterial: Display: Missing cached shadermap for M_MatLayer_Prop_Master_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 26628CE326084E085FEB4E37DCBEDBC03543D2DD), compiling. 
+[2022.06.26-15.40.56:653][298]LogMaterial: Display: Missing cached shadermap for MI_Billboard_Sign_A01 in PCD3D_SM5, Default, SM5 (DDC key hash: 39FFD02EEDA671D7A3877347122BBC6463C0AEE7), compiling. 
+[2022.06.26-15.40.56:773][298]LogMaterial: Display: Missing cached shadermap for MI_Billboard_Sign_B01 in PCD3D_SM5, Default, SM5 (DDC key hash: 6DCA13429F83A9DA02391384D4F29067071A9BCF), compiling. 
+[2022.06.26-15.40.56:881][298]LogMaterial: Display: Missing cached shadermap for MI_Billboard_Sign_C01 in PCD3D_SM5, Default, SM5 (DDC key hash: FCFC11534F0134C248A90E2E406E79C873F2B1C0), compiling. 
+[2022.06.26-15.40.57:006][298]LogMaterial: Display: Missing cached shadermap for MI_Billboard_Sign_D01 in PCD3D_SM5, Default, SM5 (DDC key hash: EC974AB561EAC0B1D86B1022F8046F4D1E14E1E4), compiling. 
+[2022.06.26-15.40.57:113][298]LogMaterial: Display: Missing cached shadermap for MI_FWYBarrier_TempBarrier_A01 in PCD3D_SM5, Default, SM5 (DDC key hash: 801456E7D9A0D1EF2AA19FEB67C60741A638D466), compiling. 
+[2022.06.26-15.40.57:220][298]LogMaterial: Display: Missing cached shadermap for aiStandardSurface11 in PCD3D_SM5, Default, SM5 (DDC key hash: 343B56342C98BD9CCA0A52ACDF1DB62A7FA93C1A), compiling. 
+[2022.06.26-15.40.57:251][298]LogMaterial: Display: Missing cached shadermap for aiStandardSurface12 in PCD3D_SM5, Default, SM5 (DDC key hash: 592FBA493D00B92D41C02E430E5B0A31350B8DDE), compiling. 
+[2022.06.26-15.40.57:284][298]LogMaterial: Display: Missing cached shadermap for Dinding in PCD3D_SM5, Default, SM5 (DDC key hash: 8125466284E7B84F02F38424953B61C9A285C657), compiling. 
+[2022.06.26-15.40.57:316][298]LogMaterial: Display: Missing cached shadermap for kayu in PCD3D_SM5, Default, SM5 (DDC key hash: C47870748F97A9FF387B141CB45C96CF5E9CF9FD), compiling. 
+[2022.06.26-15.40.57:345][298]LogMaterial: Display: Missing cached shadermap for lampu_kuning in PCD3D_SM5, Default, SM5 (DDC key hash: 16449B9F633FB9EC1482B7856CDC3D3B755FEB61), compiling. 
+[2022.06.26-15.40.57:377][298]LogMaterial: Display: Missing cached shadermap for lampu_sign in PCD3D_SM5, Default, SM5 (DDC key hash: 3B1898E99DFDECEB5F39B32FE650E475979DA966), compiling. 
+[2022.06.26-15.40.57:408][298]LogMaterial: Display: Missing cached shadermap for papan in PCD3D_SM5, Default, SM5 (DDC key hash: 29D75C240DC7C34974081C47DB9E7F218564B8C1), compiling. 
+[2022.06.26-15.40.57:437][298]LogMaterial: Display: Missing cached shadermap for pipa_abu2 in PCD3D_SM5, Default, SM5 (DDC key hash: A75FEED00C560B9C61AF7347D012DCEB93736C5E), compiling. 
+[2022.06.26-15.40.57:466][298]LogMaterial: Display: Missing cached shadermap for pupa_hijau in PCD3D_SM5, Default, SM5 (DDC key hash: C1F210367ACE73ED5349339A664928BBD6EE3743), compiling. 
+[2022.06.26-15.40.57:498][298]LogMaterial: Display: Missing cached shadermap for putih_ac in PCD3D_SM5, Default, SM5 (DDC key hash: 0162C820081F97FA62C9CDB67FDDFCEB50E7E89D), compiling. 
+[2022.06.26-15.40.57:527][298]LogMaterial: Display: Missing cached shadermap for sign_merah in PCD3D_SM5, Default, SM5 (DDC key hash: 62BC660F65C8B2C8D59CE0B2B92DF97221274046), compiling. 
+[2022.06.26-15.40.57:556][298]LogMaterial: Display: Missing cached shadermap for WHITE_JAPAN_LANGUAGE in PCD3D_SM5, Default, SM5 (DDC key hash: FD8CC34B4C6C1E269F7DD2766DBCF2BFA39DC57F), compiling. 
+[2022.06.26-15.40.57:585][298]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: BDE66FB87EB542D8C37F66C2E231F8FE31F2FE72), compiling. 
+[2022.06.26-15.40.57:614][298]LogMaterial: Display: Missing cached shadermap for sampahaa in PCD3D_SM5, Default, SM5 (DDC key hash: 273C0CF468DAC3003EA4ACEE3B2D46778E8D1740), compiling. 
+[2022.06.26-15.40.57:643][298]LogMaterial: Display: Missing cached shadermap for KACA_LUAR_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E5E4584C4EAC02E0B54CBDCCA787114AECA95EBF), compiling. 
+[2022.06.26-15.40.57:679][298]LogMaterial: Display: Missing cached shadermap for sampah_sebelah_bg in PCD3D_SM5, Default, SM5 (DDC key hash: B95BE091EBE495441736C83360711D7ACE132F0C), compiling. 
+[2022.06.26-15.40.57:711][298]LogMaterial: Display: Missing cached shadermap for head_chara in PCD3D_SM5, Default, SM5 (DDC key hash: AA6F33A64C266CAB1AD31DD3053A4F27C747EA08), compiling. 
+[2022.06.26-15.40.57:741][298]LogMaterial: Display: Missing cached shadermap for badan in PCD3D_SM5, Default, SM5 (DDC key hash: 9C805C53E5024FCF848EF4A05A258A854AA3FF3F), compiling. 
+[2022.06.26-15.40.57:771][298]LogMaterial: Display: Missing cached shadermap for kaki in PCD3D_SM5, Default, SM5 (DDC key hash: 17E1A73D8161A8029E1239BD7AEC58BEB99405CE), compiling. 
+[2022.06.26-15.40.57:800][298]LogMaterial: Display: Missing cached shadermap for hand in PCD3D_SM5, Default, SM5 (DDC key hash: D8F8175E11AE12D84312805A191A8A1EF5C9C10C), compiling. 
+[2022.06.26-15.40.57:830][298]LogMaterial: Display: Missing cached shadermap for genteng_bg2 in PCD3D_SM5, Default, SM5 (DDC key hash: BA5A4B515529B7ED29C5AE8CA0CBE4B6E010FF24), compiling. 
+[2022.06.26-15.40.57:860][298]LogMaterial: Display: Missing cached shadermap for MENU__AAAA in PCD3D_SM5, Default, SM5 (DDC key hash: D21D7CF91AA794DB350AC11F6249781524B914A3), compiling. 
+[2022.06.26-15.40.57:889][298]LogMaterial: Display: Missing cached shadermap for kursi in PCD3D_SM5, Default, SM5 (DDC key hash: B8AE004414EE96C0C5AA791B5125B04A7D4DBD62), compiling. 
+[2022.06.26-15.40.57:923][298]LogMaterial: Display: Missing cached shadermap for kaki_kursi in PCD3D_SM5, Default, SM5 (DDC key hash: C92F70235223250CB66ACA3F5A858A27D6B9AE79), compiling. 
+[2022.06.26-15.40.57:959][298]LogStaticMesh: Display: Building static mesh SM_Billboard_A01_N1...
+[2022.06.26-15.40.57:959][298]LogStaticMesh: Display: Building static mesh SM_FWYBarrier_Sidewall_A01_N1...
+[2022.06.26-15.40.57:959][298]LogMaterial: Display: Missing cached shadermap for NAMA_TOKO in PCD3D_SM5, Default, SM5 (DDC key hash: 8B7116F22110923F264BD806BF11490B0B7232F6), compiling. 
+[2022.06.26-15.40.57:986][298]LogStaticMesh: Display: Building static mesh dumyxxxwarna...
+[2022.06.26-15.40.57:986][298]LogStaticMesh: Display: Building static mesh rumahgembel...
+[2022.06.26-15.40.57:986][298]LogMaterial: Display: Missing cached shadermap for chesse in PCD3D_SM5, Default, SM5 (DDC key hash: FC34AF5AC5691AAE03E2179EE2CD8962A9811071), compiling. 
+[2022.06.26-15.40.58:013][298]LogMaterial: Display: Missing cached shadermap for SAYUR in PCD3D_SM5, Default, SM5 (DDC key hash: 671936D0E44E3E45765F1371C44C37A6D1A6E17A), compiling. 
+[2022.06.26-15.40.58:040][298]LogMaterial: Display: Missing cached shadermap for EAR in PCD3D_SM5, Default, SM5 (DDC key hash: 42521CD8AB349ECA046A5E3D9E07A7C0FFD6E53D), compiling. 
+[2022.06.26-15.40.58:072][298]LogMaterial: Display: Missing cached shadermap for EAR_001 in PCD3D_SM5, Default, SM5 (DDC key hash: D2967C0D4FFB669CF5DD3A529CC8485DDF89CF95), compiling. 
+[2022.06.26-15.40.58:099][298]LogStaticMesh: Built static mesh [0.12s] /Game/dummynew/rumahgembel.rumahgembel
+[2022.06.26-15.40.58:099][298]LogMaterial: Display: Missing cached shadermap for hidung in PCD3D_SM5, Default, SM5 (DDC key hash: 716C02B23E41003BA908CFF9AB03C87084B65F91), compiling. 
+[2022.06.26-15.40.58:128][298]LogMaterial: Display: Missing cached shadermap for Material_010 in PCD3D_SM5, Default, SM5 (DDC key hash: 70245F612A165EEC5770E988AF829AB262099E67), compiling. 
+[2022.06.26-15.40.58:156][298]LogMaterial: Display: Missing cached shadermap for lampu_sp in PCD3D_SM5, Default, SM5 (DDC key hash: 5AA9DAE0B9B829C229C040F5673020D83AB83BE8), compiling. 
+[2022.06.26-15.40.58:183][298]LogMaterial: Display: Missing cached shadermap for burger_008 in PCD3D_SM5, Default, SM5 (DDC key hash: DD3D7C30D1C9E15B2B0AE89FBB349B43CE0666F0), compiling. 
+[2022.06.26-15.40.58:211][298]LogMaterial: Display: Missing cached shadermap for Material_016 in PCD3D_SM5, Default, SM5 (DDC key hash: A2F600C507B5774F574349764B0C20359D93B9C1), compiling. 
+[2022.06.26-15.40.58:237][298]LogMaterial: Display: Missing cached shadermap for Material_017 in PCD3D_SM5, Default, SM5 (DDC key hash: EC8DB22BF399912DCD0EA32E429EA33DFECB21AE), compiling. 
+[2022.06.26-15.40.58:265][298]LogMaterial: Display: Missing cached shadermap for Material_018 in PCD3D_SM5, Default, SM5 (DDC key hash: E4E131EE46B3730866B3FB847F79CAB17F34B5F4), compiling. 
+[2022.06.26-15.40.58:292][298]LogMaterial: Display: Missing cached shadermap for lampu_ in PCD3D_SM5, Default, SM5 (DDC key hash: CC9ABD1138A32E97485182F1A4B91EF7E4230C7A), compiling. 
+[2022.06.26-15.40.58:319][298]LogMaterial: Display: Missing cached shadermap for eye in PCD3D_SM5, Default, SM5 (DDC key hash: 9C5ACE9909A8E5B80203DE40419C8F96184F520E), compiling. 
+[2022.06.26-15.40.58:348][298]LogStaticMesh: Adjacency [0.01s], tris: 44628, UVs 3
+[2022.06.26-15.40.58:348][298]LogMaterial: Display: Missing cached shadermap for Material_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 537722F4E7EA841486F303D1394AF98F2B290F01), compiling. 
+[2022.06.26-15.40.58:378][298]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: DB30F89DBA1486097C8A8B62AE40A43B6A7B3C04), compiling. 
+[2022.06.26-15.40.58:412][298]LogStaticMesh: Clustering [0.06s]. Ratio: 1.014327
+[2022.06.26-15.40.58:412][298]LogStaticMesh: Leaves [0.00s]
+[2022.06.26-15.40.58:412][298]LogStaticMesh: Num clusters 354. Error 0.0000, 0.0000, 0.0000
+[2022.06.26-15.40.58:412][298]LogMaterial: Display: Missing cached shadermap for typeBlinn in PCD3D_SM5, Default, SM5 (DDC key hash: 3CF525F7A3C51C9D76CE2CAB84B59F53D8DF0A82), compiling. 
+[2022.06.26-15.40.58:447][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Metal_Steel_01_AORM.T_Metal_Steel_01_AORM (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.40.58:447][298]LogMaterial: Display: Missing cached shadermap for aiStandardSurface1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7E65973236FC2B18E3DCBFF3DE06E7B772F9BA9B), compiling. 
+[2022.06.26-15.40.58:480][298]LogMaterial: Display: Missing cached shadermap for aiStandardSurface12 in PCD3D_SM5, Default, SM5 (DDC key hash: 244F799896B9E76CE705B0838C68E4939BE6ACEF), compiling. 
+[2022.06.26-15.40.58:514][298]LogMaterial: Display: Missing cached shadermap for aiStandardSurface13 in PCD3D_SM5, Default, SM5 (DDC key hash: 161F220E3EC6C66AC78C33342204772BE24A9F97), compiling. 
+[2022.06.26-15.40.58:549][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Metal_Galvanized_01_C.T_Metal_Galvanized_01_C (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.40.58:549][298]LogMaterial: Display: Missing cached shadermap for aiStandardSurface2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1A5AFE8B7B990BE4903C893FEFA695BCD76CB18D), compiling. 
+[2022.06.26-15.40.58:584][298]LogMaterial: Display: Missing cached shadermap for aiStandardSurface3 in PCD3D_SM5, Default, SM5 (DDC key hash: 23C877EACDF2C389B4C63980177AE9053C0F6BFA), compiling. 
+[2022.06.26-15.40.58:617][298]LogStaticMesh: Built static mesh [0.63s] /Game/dummynew/dumyxxxwarna.dumyxxxwarna
+[2022.06.26-15.40.58:617][298]LogMaterial: Display: Missing cached shadermap for aiStandardSurface4 in PCD3D_SM5, Default, SM5 (DDC key hash: 34C3FB9C1B4BE3D7B17E44107A5EDBB20DD56C22), compiling. 
+[2022.06.26-15.40.58:650][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Metal_Steel_01_C.T_Metal_Steel_01_C (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.40.58:650][298]LogMaterial: Display: Missing cached shadermap for aiStandardSurface5 in PCD3D_SM5, Default, SM5 (DDC key hash: 53DD9308D29DC67D1465D9EDA6CE7078CC0EBEAF), compiling. 
+[2022.06.26-15.40.58:681][298]LogMaterial: Display: Missing cached shadermap for aiStandardSurface6 in PCD3D_SM5, Default, SM5 (DDC key hash: E1F31541591CB08F2C2A194BCB360EECC4B60B86), compiling. 
+[2022.06.26-15.40.58:713][298]LogMaterial: Display: Missing cached shadermap for aiStandardSurface7 in PCD3D_SM5, Default, SM5 (DDC key hash: 485AAE646168E5B19312D361ED30342EDBF7AB43), compiling. 
+[2022.06.26-15.40.58:746][298]LogMaterial: Display: Missing cached shadermap for aiStandardSurface8 in PCD3D_SM5, Default, SM5 (DDC key hash: F8BD8DF46FE700C11C9FD079498907FFC53C150D), compiling. 
+[2022.06.26-15.40.58:781][298]LogMaterial: Display: Missing cached shadermap for bantal in PCD3D_SM5, Default, SM5 (DDC key hash: 56B4E368BE90EE212D173E0F05A57902C2DE1CD4), compiling. 
+[2022.06.26-15.40.58:814][298]LogMaterial: Display: Missing cached shadermap for bingkai_kaca in PCD3D_SM5, Default, SM5 (DDC key hash: FDB961129C1E4BCDB89768DCF20B7525795DA8F7), compiling. 
+[2022.06.26-15.40.58:846][298]LogMaterial: Display: Missing cached shadermap for kacaaa in PCD3D_SM5, Default, SM5 (DDC key hash: 8B6D6E623FC4153EF8F7E33E7A5ACABA7BB5E2B8), compiling. 
+[2022.06.26-15.40.58:878][298]LogMaterial: Display: Missing cached shadermap for Lampu1 in PCD3D_SM5, Default, SM5 (DDC key hash: C0CF3E1ACCA33330A9D2ECDE4D939288C30EBBB5), compiling. 
+[2022.06.26-15.40.58:909][298]LogMaterial: Display: Missing cached shadermap for Merah in PCD3D_SM5, Default, SM5 (DDC key hash: BDD66BFC8F845926446BB4AC86A7EFD64CE78327), compiling. 
+[2022.06.26-15.40.58:941][298]LogMaterial: Display: Missing cached shadermap for PanelHitam in PCD3D_SM5, Default, SM5 (DDC key hash: F04E26C82E79C56C8490154268F6D9F5EF8DE534), compiling. 
+[2022.06.26-15.40.58:974][298]LogMaterial: Display: Missing cached shadermap for standardSurface2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2CB31D6BD0DAFAA92DE7FC008F2F4444BEEB0D59), compiling. 
+[2022.06.26-15.40.59:007][298]LogMaterial: Display: Missing cached shadermap for standardSurface3 in PCD3D_SM5, Default, SM5 (DDC key hash: A24434F522A55A58D228221BA68A8D267998D363), compiling. 
+[2022.06.26-15.40.59:043][298]LogMaterial: Display: Missing cached shadermap for typeBlinn4 in PCD3D_SM5, Default, SM5 (DDC key hash: 8BEDD1E6256F2B675A35101AEC773A3BE29564E2), compiling. 
+[2022.06.26-15.40.59:075][298]LogStaticMesh: Num clusters 182. Error 0.0203, 0.0566, 0.0926
+[2022.06.26-15.40.59:075][298]LogMaterial: Display: Missing cached shadermap for defaultMat in PCD3D_SM5, Default, SM5 (DDC key hash: B66BF37F6C85C29DEF670D17EE067C5895404BDB), compiling. 
+[2022.06.26-15.40.59:108][298]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: E29E040677A8D5F4E2FF097635B2A465A63F2A3E), compiling. 
+[2022.06.26-15.40.59:140][298]LogMaterial: Display: Missing cached shadermap for woodredhrzntal in PCD3D_SM5, Default, SM5 (DDC key hash: 61762B09ECF6B05F63E6D1C7858FCFD95F7245C0), compiling. 
+[2022.06.26-15.40.59:189][298]LogMaterial: Display: Missing cached shadermap for lampu_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D56F9FE3954DA9E52DD6BDBE75269D0B804A0C3D), compiling. 
+[2022.06.26-15.40.59:223][298]LogMaterial: Display: Missing cached shadermap for _aircon in PCD3D_SM5, Default, SM5 (DDC key hash: 6DFE49023211AD443A733EC73B2096D55231A647), compiling. 
+[2022.06.26-15.40.59:254][298]LogMaterial: Display: Missing cached shadermap for kulkas_2_ointu in PCD3D_SM5, Default, SM5 (DDC key hash: 7D20592993C19A70A9C85BB58C20A56003A418F6), compiling. 
+[2022.06.26-15.40.59:286][298]LogMaterial: Display: Missing cached shadermap for LANTAI_KREAM in PCD3D_SM5, Default, SM5 (DDC key hash: 9C6419E00E727A223736D19807AE75F27D27239D), compiling. 
+[2022.06.26-15.40.59:287][298]LogMaterial: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\Migrated\material\LANTAI_KREAM.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Virtual Normal, should be Virtual Linear Color for /Game/Migrated/material/marble_01_nor_gl_8k.marble_01_nor_gl_8k
+
+[2022.06.26-15.40.59:292][298]LogMaterial: Display: Missing cached shadermap for pintu_atas in PCD3D_SM5, Default, SM5 (DDC key hash: 0417FC8C8CBD154C2054C507814660BCC1FA39AF), compiling. 
+[2022.06.26-15.40.59:325][298]LogMaterial: Display: Missing cached shadermap for texture_mask in PCD3D_SM5, Default, SM5 (DDC key hash: EFA2EF996E32D0D62650094A73F8B9A74C53E89F), compiling. 
+[2022.06.26-15.40.59:357][298]LogStaticMesh: Num clusters 92. Error 0.1334, 0.1866, 0.2458
+[2022.06.26-15.40.59:357][298]LogMaterial: Display: Missing cached shadermap for Material_006 in PCD3D_SM5, Default, SM5 (DDC key hash: F0B4F668AC218F77EF7BA78DFE6A9C88672A5601), compiling. 
+[2022.06.26-15.40.59:389][298]LogMaterial: Display: Missing cached shadermap for atas2 in PCD3D_SM5, Default, SM5 (DDC key hash: 24327606D3CCEDBE31406A16884FE7E2F2EDF3FF), compiling. 
+[2022.06.26-15.40.59:421][298]LogMaterial: Display: Missing cached shadermap for tangga_001 in PCD3D_SM5, Default, SM5 (DDC key hash: E0E18AFBCF2983762CD93DACCFF2228BDED72B4C), compiling. 
+[2022.06.26-15.40.59:455][298]LogMaterial: Display: Missing cached shadermap for JENDELA in PCD3D_SM5, Default, SM5 (DDC key hash: 444F491A684A6C0A8DC607275D9DAFB967A76943), compiling. 
+[2022.06.26-15.40.59:489][298]LogMaterial: Display: Missing cached shadermap for KACA_LUAR in PCD3D_SM5, Default, SM5 (DDC key hash: 47D05B13A843EFFBCD6C9E030FB40E69A8F4B503), compiling. 
+[2022.06.26-15.40.59:521][298]LogMaterial: Display: Missing cached shadermap for KACA_ATAS in PCD3D_SM5, Default, SM5 (DDC key hash: 6A2174B544D2839432436A94535AF73259D474EE), compiling. 
+[2022.06.26-15.40.59:556][298]LogMaterial: Display: Missing cached shadermap for atas1 in PCD3D_SM5, Default, SM5 (DDC key hash: AE975B3DCAA558E7E91494C6456ED1FB803A85CE), compiling. 
+[2022.06.26-15.40.59:588][298]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: F753668B4E43CD99EC33E9EA81D6E6E471C7D341), compiling. 
+[2022.06.26-15.40.59:621][298]LogMaterial: Display: Missing cached shadermap for Material_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 6E9FDB8F0804EE145F4D5CB1F72000A556773619), compiling. 
+[2022.06.26-15.40.59:655][298]LogMaterial: Display: Missing cached shadermap for sampah2 in PCD3D_SM5, Default, SM5 (DDC key hash: 00EF36C9B9E1F464D8C375FBA175E008CACCB132), compiling. 
+[2022.06.26-15.40.59:686][298]LogMaterial: Display: Missing cached shadermap for sampah3 in PCD3D_SM5, Default, SM5 (DDC key hash: EE722A92C1E9177EDA4172ECA0F32AD7F247E5B0), compiling. 
+[2022.06.26-15.40.59:719][298]LogStaticMesh: Num clusters 47. Error 0.3917, 0.4300, 0.5235
+[2022.06.26-15.40.59:719][298]LogMaterial: Display: Missing cached shadermap for sampah_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7506774EAE9D59F6A95621E3FC1F547AE48C31B3), compiling. 
+[2022.06.26-15.40.59:754][298]LogMaterial: Display: Missing cached shadermap for Material_005 in PCD3D_SM5, Default, SM5 (DDC key hash: 9897B782E6D061A5AF26D7ACB6E07CA29B3A1564), compiling. 
+[2022.06.26-15.40.59:786][298]LogMaterial: Display: Missing cached shadermap for Material_007 in PCD3D_SM5, Default, SM5 (DDC key hash: 21149416A86CED96DA5D79760AD6252A506C87BE), compiling. 
+[2022.06.26-15.40.59:819][298]LogMaterial: Display: Missing cached shadermap for vencing_machine in PCD3D_SM5, Default, SM5 (DDC key hash: 8E08F8F44E5457B5DB8BD5929F7FDDB93E7F57FD), compiling. 
+[2022.06.26-15.40.59:854][298]LogMaterial: Display: Missing cached shadermap for vM1 in PCD3D_SM5, Default, SM5 (DDC key hash: 719682EE6C12CB996837CAE1FD05672E8DE1299A), compiling. 
+[2022.06.26-15.40.59:885][298]LogMaterial: Display: Missing cached shadermap for kulkas_2 in PCD3D_SM5, Default, SM5 (DDC key hash: FE2071F3BD8E214C211F4E93D1390AB787DB83EB), compiling. 
+[2022.06.26-15.40.59:914][298]LogMaterial: Display: Missing cached shadermap for lampu in PCD3D_SM5, Default, SM5 (DDC key hash: 061AD2416BCB5F5A57FD113B50EEC21DD8F1D534), compiling. 
+[2022.06.26-15.40.59:947][298]LogMaterial: Display: Missing cached shadermap for pintu_super_market in PCD3D_SM5, Default, SM5 (DDC key hash: 6E548397428CDC3845196E803CED2943AD23A8E4), compiling. 
+[2022.06.26-15.40.59:980][298]LogMaterial: Display: Missing cached shadermap for kaca_dalam in PCD3D_SM5, Default, SM5 (DDC key hash: 494AE4915F5231F74EF43B53D2BB6F24BF4CE4F0), compiling. 
+[2022.06.26-15.41.00:011][298]LogStaticMesh: Num clusters 24. Error 0.8970, 0.9455, 0.9866
+[2022.06.26-15.41.00:331][298]LogStaticMesh: Num clusters 12. Error 1.7036, 1.7036, 1.7036
+[2022.06.26-15.41.00:331][298]LogStaticMesh: Num clusters 6. Error 3.3299, 3.3299, 3.3299
+[2022.06.26-15.41.00:331][298]LogStaticMesh: Num clusters 3. Error 6.4509, 6.4509, 6.4509
+[2022.06.26-15.41.00:331][298]LogStaticMesh: Num clusters 2. Error 9.4381, 9.4381, 9.4381
+[2022.06.26-15.41.00:335][298]LogStaticMesh: Num clusters 1. Error 15.8202, 15.8202, 15.8202
+[2022.06.26-15.41.00:335][298]LogStaticMesh: Reduce [1.93s]
+[2022.06.26-15.41.01:024][298]LogStaticMesh: Display: Building static mesh dummyhotel1_pCube531...
+[2022.06.26-15.41.01:024][298]LogStaticMesh: Display: Building static mesh lantern...
+[2022.06.26-15.41.01:024][298]LogStaticMesh: Built static mesh [0.05s] /Game/Migrated/lantern.lantern
+[2022.06.26-15.41.01:024][298]LogStaticMesh: Fallback 0/1 [0.27s], num tris: 2426
+[2022.06.26-15.41.01:024][298]LogStaticMesh: ConstrainClusters:
+[2022.06.26-15.41.01:024][298]LogStaticMesh:   Input: 723 Clusters, 91106 Triangles and 69588 Vertices
+[2022.06.26-15.41.01:024][298]LogStaticMesh:   Output without splits: 723 Clusters, 91106 Triangles and 70679 Vertices
+[2022.06.26-15.41.01:024][298]LogStaticMesh:   Output with splits: 723 Clusters, 91106 Triangles and 70679 Vertices
+[2022.06.26-15.41.01:024][298]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 723, Slow Path Clusters: 0, 1 Material: 723, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.06.26-15.41.01:024][298]LogStaticMesh: WritePages:
+[2022.06.26-15.41.01:024][298]LogStaticMesh:   Root: GPU size: 31444 bytes. 1 Pages. 31444.000 bytes per page (95.959% utilization).
+[2022.06.26-15.41.01:024][298]LogStaticMesh:   Streaming: GPU size: 1327984 bytes. 11 Pages. 120725.820 bytes per page (92.106% utilization).
+[2022.06.26-15.41.01:024][298]LogStaticMesh:   Page data disk size: 1154492 bytes. Fixup data size: 4880 bytes.
+[2022.06.26-15.41.01:024][298]LogStaticMesh:   Total GPU size: 1359428 bytes, Total disk size: 1159372 bytes.
+[2022.06.26-15.41.01:024][298]LogStaticMesh: Encode [0.03s]
+[2022.06.26-15.41.01:024][298]LogStaticMesh: Imposter [0.00s]
+[2022.06.26-15.41.01:024][298]LogStaticMesh: Nanite build [2.23s]
+
+[2022.06.26-15.41.01:024][298]LogStaticMesh: Built static mesh [2.72s] /Game/Deko_MatrixDemo/Freeway/Meshes/SM_FWYBarrier_Sidewall_A01_N1.SM_FWYBarrier_Sidewall_A01_N1
+[2022.06.26-15.41.01:024][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Metal_Surface_A_N.T_Metal_Surface_A_N (TFO_BC5 VT, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.01:095][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Sign_Sticker_01_N.T_Sign_Sticker_01_N (TFO_BC5 VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.01:096][298]LogAssetEditorSubsystem: Opening Asset editor for World /Game/demo_orang_stress/MAPFIX.MAPFIX
+[2022.06.26-15.41.01:096][298]Cmd: MAP LOAD FILE="../../../../../../Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Content/demo_orang_stress/MAPFIX.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.26-15.41.01:097][298]LightingResults: New page: Lighting Build
+[2022.06.26-15.41.01:097][298]LoadErrors: New page: Loading map: MAPFIX.umap
+[2022.06.26-15.41.01:135][298]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.06.26-15.41.01:135][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.26-15.41.01:136][298]MapCheck: New page: Map Check
+[2022.06.26-15.41.01:136][298]LightingResults: New page: Lighting Build
+[2022.06.26-15.41.01:153][298]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.26-15.41.01:162][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.06.26-15.41.01:186][298]LogTexture: Display: Waiting for textures to be ready 7/47 (/Game/Deko_MatrixDemo/Shared/Textures/T_Metal_Surface_A_N) ...
+[2022.06.26-15.41.01:439][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Metal_Sign_01_AORM.T_Metal_Sign_01_AORM (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.01:439][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Freeway/Textures/T_Billboard_A01_M.T_Billboard_A01_M (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.01:653][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Metal_Sign_01_C.T_Metal_Sign_01_C (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.01:861][298]LogStaticMesh: Built static mesh [1.44s] /Game/Migrated/dummy/dummyhotel1_pCube531.dummyhotel1_pCube531
+[2022.06.26-15.41.02:915][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Metal_Forged_Rough_01_AORM.T_Metal_Forged_Rough_01_AORM (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.04:006][298]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.06.26-15.41.04:006][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Metal_Forged_Rough_01_C.T_Metal_Forged_Rough_01_C (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.04:006][298]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049138s
+[2022.06.26-15.41.04:851][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Freeway/Textures/T_Billboard_Sign_C01_M.T_Billboard_Sign_C01_M (TFO_AutoDXT VT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.05:064][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Metal_Forged_Rough_01_N.T_Metal_Forged_Rough_01_N (TFO_BC5 VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.05:692][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_White_01_C.T_White_01_C (TFO_AutoDXT VT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.05:692][298]LogStaticMesh: Adjacency [1.50s], tris: 972540, UVs 3
+[2022.06.26-15.41.06:323][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Freeway/Textures/T_StandingSignAd_A02_M.T_StandingSignAd_A02_M (TFO_AutoDXT VT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.06:703][298]LogTexture: Display: Waiting for textures to be ready 18/47 (/Game/Deko_MatrixDemo/Freeway/Textures/T_Billboard_Sign_A01_C) ...
+[2022.06.26-15.41.06:743][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Freeway/Textures/T_Billboard_Sign_D01_M.T_Billboard_Sign_D01_M (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.06:955][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Metal_Alum_01_AORM.T_Metal_Alum_01_AORM (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.07:168][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Metal_Alum_01_C.T_Metal_Alum_01_C (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.07:381][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Freeway/Textures/T_Billboard_Sign_A01_C.T_Billboard_Sign_A01_C (TFO_AutoDXT VT, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.07:596][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Plastic_Gloss_01_C.T_Plastic_Gloss_01_C (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.07:596][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Plastic_Gloss_01_AORM.T_Plastic_Gloss_01_AORM (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.09:494][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Plastic_Rough_01_AORM.T_Plastic_Rough_01_AORM (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.10:125][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Rubber_Glossy_01_C.T_Rubber_Glossy_01_C (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.10:125][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Plastic_Rough_01_C.T_Plastic_Rough_01_C (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.10:125][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Plastic_Micro_02_N.T_Plastic_Micro_02_N (TFO_BC5 VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.10:335][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Plastic_Grain_01_N.T_Plastic_Grain_01_N (TFO_BC5 VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.11:311][298]LogTexture: Display: Waiting for textures to be ready 26/47 (/Game/Deko_MatrixDemo/Shared/Textures/T_Plastic_Grain_01_N) ...
+[2022.06.26-15.41.11:675][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Rubber_Rough_01_AORM.T_Rubber_Rough_01_AORM (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.12:411][298]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s, reporting...
+[2022.06.26-15.41.12:411][298]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Freeway/Textures/T_FWYBarrier_TempBarrier_A01_N1.T_FWYBarrier_TempBarrier_A01_N1 (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.06.26-15.41.12:411][298]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' report submitted, and took 0.049979s
+[2022.06.26-15.41.12:847][298]LogStaticMesh: Clustering [7.24s]. Ratio: 1.016978
+[2022.06.26-15.41.12:913][298]LogTexture: Display: Waiting for textures to be ready 31/47 (/Game/Deko_MatrixDemo/Shared/Textures/T_Rubber_Rough_01_AORM) ...
+[2022.06.26-15.41.13:052][298]LogStaticMesh: Leaves [0.22s]
+[2022.06.26-15.41.13:264][298]LogStaticMesh: Num clusters 7727. Error 0.0000, 0.0000, 0.0000
+[2022.06.26-15.41.13:434][298]LogTexture: Display: Waiting for textures to be ready 32/47 (/Game/Deko_MatrixDemo/Freeway/Textures/T_FWYBarrier_TempBarrier_A01_N1) ...
+[2022.06.26-15.41.14:156][298]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 0.005361s (1.792376s overbudget)

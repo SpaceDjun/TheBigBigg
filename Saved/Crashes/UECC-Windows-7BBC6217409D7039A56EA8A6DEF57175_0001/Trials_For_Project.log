@@ -1,0 +1,1862 @@
+﻿Log file open, 06/08/22 10:49:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=17848)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Trials_For_Project
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19505902"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.0-19505902+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Trials_For_Project.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="7d909c6b4902895890abb98f0d28a2df"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.228272
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-7BBC6217409D7039A56EA8A6DEF57175
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19505902
+LogInit: Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) (), CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Mar 25 2022 04:05:33
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.06.08-03.49.21:923][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.06.08-03.49.21:923][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.06.08-03.49.21:923][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.06.08-03.49.21:925][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.06.08-03.49.21:925][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.06.08-03.49.21:925][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.06.08-03.49.21:925][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.06.08-03.49.21:925][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.06.08-03.49.21:925][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.06.08-03.49.21:925][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.06.08-03.49.21:925][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.06.08-03.49.21:925][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.06.08-03.49.21:925][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.06.08-03.49.21:925][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.06.08-03.49.21:941][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.06.08-03.49.21:973][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.06.08-03.49.21:973][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.06.08-03.49.21:973][  0]LogD3D11RHI: D3D11 adapters:
+[2022.06.08-03.49.21:973][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2022.06.08-03.49.21:973][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070 Laptop GPU
+[2022.06.08-03.49.21:973][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.06.08-03.49.21:973][  0]LogD3D11RHI:     DeviceId    : 24dd
+[2022.06.08-03.49.21:973][  0]LogD3D11RHI:     SubSysId    : 88fd103c
+[2022.06.08-03.49.21:973][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.06.08-03.49.21:973][  0]LogD3D11RHI:     DedicatedVideoMemory : 8434745344 bytes
+[2022.06.08-03.49.21:973][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.08-03.49.21:973][  0]LogD3D11RHI:     SharedSystemMemory : 16989927424 bytes
+[2022.06.08-03.49.21:973][  0]LogD3D11RHI:     AdapterLuid : 0 88088
+[2022.06.08-03.49.22:056][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070 Laptop GPU' (Feature Level 11_1)
+[2022.06.08-03.49.22:056][  0]LogD3D11RHI:       8044/0/16202 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.06.08-03.49.22:057][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2022.06.08-03.49.22:057][  0]LogD3D11RHI:     Description : Intel(R) UHD Graphics
+[2022.06.08-03.49.22:057][  0]LogD3D11RHI:     VendorId    : 8086
+[2022.06.08-03.49.22:057][  0]LogD3D11RHI:     DeviceId    : 9a60
+[2022.06.08-03.49.22:057][  0]LogD3D11RHI:     SubSysId    : 88fd103c
+[2022.06.08-03.49.22:057][  0]LogD3D11RHI:     Revision    : 0001
+[2022.06.08-03.49.22:057][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2022.06.08-03.49.22:057][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.08-03.49.22:057][  0]LogD3D11RHI:     SharedSystemMemory : 16989927424 bytes
+[2022.06.08-03.49.22:057][  0]LogD3D11RHI:     AdapterLuid : 0 87363
+[2022.06.08-03.49.22:083][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_1)
+[2022.06.08-03.49.22:083][  0]LogD3D11RHI:       128/0/16202 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.06.08-03.49.22:083][  0]LogD3D11RHI: Testing D3D11 Adapter 2:
+[2022.06.08-03.49.22:083][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2022.06.08-03.49.22:083][  0]LogD3D11RHI:     VendorId    : 1414
+[2022.06.08-03.49.22:083][  0]LogD3D11RHI:     DeviceId    : 008c
+[2022.06.08-03.49.22:083][  0]LogD3D11RHI:     SubSysId    : 0000
+[2022.06.08-03.49.22:083][  0]LogD3D11RHI:     Revision    : 0000
+[2022.06.08-03.49.22:083][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2022.06.08-03.49.22:083][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.08-03.49.22:083][  0]LogD3D11RHI:     SharedSystemMemory : 16989927424 bytes
+[2022.06.08-03.49.22:083][  0]LogD3D11RHI:     AdapterLuid : 0 87967
+[2022.06.08-03.49.22:085][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.06.08-03.49.22:085][  0]LogD3D11RHI:       0/0/16202 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.06.08-03.49.22:085][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.06.08-03.49.22:085][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070 Laptop GPU
+[2022.06.08-03.49.22:085][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.06.08-03.49.22:085][  0]LogD3D11RHI:     DeviceId    : 24dd
+[2022.06.08-03.49.22:085][  0]LogD3D11RHI:     SubSysId    : 88fd103c
+[2022.06.08-03.49.22:085][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.06.08-03.49.22:085][  0]LogD3D11RHI:     DedicatedVideoMemory : 8434745344 bytes
+[2022.06.08-03.49.22:085][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.08-03.49.22:085][  0]LogD3D11RHI:     SharedSystemMemory : 16989927424 bytes
+[2022.06.08-03.49.22:085][  0]LogD3D11RHI:     AdapterLuid : 0 88088
+[2022.06.08-03.49.22:085][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.08-03.49.22:085][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.06.08-03.49.22:085][  0]LogHAL: Display: Platform has ~ 32 GB [33979854848 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.08-03.49.22:085][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.06.08-03.49.22:085][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.06.08-03.49.22:085][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.08-03.49.22:086][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.06.08-03.49.22:086][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Saved/Config/WindowsEditor/Editor.ini]
+[2022.06.08-03.49.22:086][  0]LogInit: Computer: LAPTOP-VGM7F06R
+[2022.06.08-03.49.22:086][  0]LogInit: User: exalt
+[2022.06.08-03.49.22:086][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.06.08-03.49.22:086][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.08-03.49.22:086][  0]LogMemory: Memory total: Physical=31.6GB (32GB approx)
+[2022.06.08-03.49.22:086][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.06.08-03.49.22:086][  0]LogMemory: Process Physical Memory: 271.30 MB used, 288.19 MB peak
+[2022.06.08-03.49.22:086][  0]LogMemory: Process Virtual Memory: 243.68 MB used, 243.68 MB peak
+[2022.06.08-03.49.22:086][  0]LogMemory: Physical Memory: 11954.73 MB used,  20450.99 MB free, 32405.71 MB total
+[2022.06.08-03.49.22:086][  0]LogMemory: Virtual Memory: 14521.42 MB used,  22748.30 MB free, 37269.71 MB total
+[2022.06.08-03.49.22:086][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.06.08-03.49.22:091][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.08-03.49.22:105][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.06.08-03.49.22:105][  0]LogInit: Using OS detected language (en-US).
+[2022.06.08-03.49.22:105][  0]LogInit: Using OS detected locale (en-ID).
+[2022.06.08-03.49.22:109][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.06.08-03.49.22:222][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.08-03.49.22:234][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.06.08-03.49.22:234][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.06.08-03.49.22:235][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.06.08-03.49.22:246][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.08-03.49.22:246][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.08-03.49.22:323][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.06.08-03.49.22:323][  0]LogD3D11RHI:     GPU DeviceId: 0x24dd (for the marketing name, search the web for "GPU Device Id")
+[2022.06.08-03.49.22:323][  0]LogWindows: EnumDisplayDevices:
+[2022.06.08-03.49.22:323][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.06.08-03.49.22:323][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.06.08-03.49.22:323][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.06.08-03.49.22:323][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.06.08-03.49.22:324][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2022.06.08-03.49.22:324][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2022.06.08-03.49.22:324][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2022.06.08-03.49.22:324][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2022.06.08-03.49.22:324][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.06.08-03.49.22:324][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Laptop GPU
+[2022.06.08-03.49.22:324][  0]LogD3D11RHI:   Driver Version: 511.79 (internal:30.0.15.1179, unified:511.79)
+[2022.06.08-03.49.22:324][  0]LogD3D11RHI:      Driver Date: 2-10-2022
+[2022.06.08-03.49.22:324][  0]LogRHI: Texture pool is 5630 MB (70% of 8044 MB)
+[2022.06.08-03.49.22:324][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.06.08-03.49.22:324][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070 Laptop GPU
+[2022.06.08-03.49.22:324][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.06.08-03.49.22:324][  0]LogD3D11RHI:     DeviceId    : 24dd
+[2022.06.08-03.49.22:324][  0]LogD3D11RHI:     SubSysId    : 88fd103c
+[2022.06.08-03.49.22:324][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.06.08-03.49.22:324][  0]LogD3D11RHI:     DedicatedVideoMemory : 8434745344 bytes
+[2022.06.08-03.49.22:324][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.08-03.49.22:324][  0]LogD3D11RHI:     SharedSystemMemory : 16989927424 bytes
+[2022.06.08-03.49.22:324][  0]LogD3D11RHI:     AdapterLuid : 0 88088
+[2022.06.08-03.49.22:374][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.06.08-03.49.22:374][  0]LogD3D11RHI: Async texture creation enabled
+[2022.06.08-03.49.22:374][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.06.08-03.49.22:374][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.06.08-03.49.22:393][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.06.08-03.49.22:419][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.06.08-03.49.22:426][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Trials_For_Project.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Intermediate/TurnkeyReport_0.log" -log="C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Intermediate/TurnkeyLog_0.log" -project="C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Trials_For_Project.uproject"  -platform=all'
+[2022.06.08-03.49.22:426][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Trials_For_Project.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Intermediate/TurnkeyReport_0.log" -log="C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Intermediate/TurnkeyLog_0.log" -project="C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Trials_For_Project.uproject"  -platform=all" ]
+[2022.06.08-03.49.22:450][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.06.08-03.49.22:459][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.06.08-03.49.22:459][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.06.08-03.49.22:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.08-03.49.22:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.08-03.49.22:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.08-03.49.22:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.08-03.49.22:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.08-03.49.22:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.08-03.49.22:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.08-03.49.22:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.08-03.49.22:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.08-03.49.22:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.08-03.49.22:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.06.08-03.49.22:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.06.08-03.49.22:489][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.08-03.49.22:489][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.08-03.49.22:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.08-03.49.22:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.06.08-03.49.22:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.08-03.49.22:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.08-03.49.22:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.06.08-03.49.22:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.06.08-03.49.22:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.06.08-03.49.22:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.08-03.49.22:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.08-03.49.22:505][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.08-03.49.22:505][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.06.08-03.49.22:505][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.08-03.49.22:505][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.08-03.49.22:505][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.06.08-03.49.22:514][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.06.08-03.49.22:514][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.08-03.49.22:517][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.06.08-03.49.22:517][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.06.08-03.49.22:517][  0]LogTargetPlatformManager:   ADPCM
+[2022.06.08-03.49.22:517][  0]LogTargetPlatformManager:   PCM
+[2022.06.08-03.49.22:519][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.06.08-03.49.22:519][  0]LogTargetPlatformManager:   BINKA
+[2022.06.08-03.49.22:519][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.06.08-03.49.22:519][  0]LogTargetPlatformManager:   OGG
+[2022.06.08-03.49.22:519][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.06.08-03.49.22:519][  0]LogTargetPlatformManager:   OPUS
+[2022.06.08-03.49.22:557][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.06.08-03.49.22:563][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.06.08-03.49.22:563][  0]LogTargetPlatformManager:   SF_METAL
+[2022.06.08-03.49.22:563][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.06.08-03.49.22:563][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.06.08-03.49.22:563][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.06.08-03.49.22:563][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.06.08-03.49.22:563][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.06.08-03.49.22:563][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.06.08-03.49.22:563][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.06.08-03.49.22:563][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.06.08-03.49.22:563][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.06.08-03.49.22:563][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.06.08-03.49.22:563][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.06.08-03.49.22:563][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.06.08-03.49.22:563][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.06.08-03.49.22:563][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.06.08-03.49.22:566][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.06.08-03.49.22:566][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.06.08-03.49.22:566][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.06.08-03.49.22:566][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.06.08-03.49.22:566][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.06.08-03.49.22:566][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.06.08-03.49.22:566][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.06.08-03.49.22:566][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.08-03.49.22:566][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.06.08-03.49.22:566][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.06.08-03.49.22:566][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.06.08-03.49.22:567][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.06.08-03.49.22:569][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.08-03.49.22:569][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.06.08-03.49.22:569][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.08-03.49.22:569][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.06.08-03.49.22:584][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1091 MiB)
+[2022.06.08-03.49.22:584][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.08-03.49.22:584][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.06.08-03.49.22:589][  0]LogDerivedDataCache: Speed tests for C:/Users/exalt/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2022.06.08-03.49.22:589][  0]LogDerivedDataCache: Display: Performance to C:/Users/exalt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1674.51MBs, RandomWriteSpeed=276.50MBs. Assigned SpeedClass 'Local'
+[2022.06.08-03.49.22:590][  0]LogDerivedDataCache: Using Local data cache path C:/Users/exalt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.08-03.49.22:590][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.08-03.49.22:590][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.06.08-03.49.22:593][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.06.08-03.49.22:593][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.06.08-03.49.22:594][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Intermediate/Shaders/WorkingDirectory/11476/).
+[2022.06.08-03.49.22:594][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/exalt/AppData/Local/Temp/UnrealShaderWorkingDir/89D2D029425732E73ABD2AA5177402C5/'.
+[2022.06.08-03.49.22:594][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.08-03.49.22:594][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.06.08-03.49.23:792][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.08-03.49.23:793][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.08-03.49.23:819][  0]LogAssetRegistry: FAssetRegistry took 0.0097 seconds to start up
+[2022.06.08-03.49.23:823][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.06.08-03.49.23:992][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.06.08-03.49.23:993][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.06.08-03.49.24:194][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.08-03.49.24:195][  0]LogDeviceProfileManager: Active device profile: [00000882827C3B80][0000088275E9A000 50] WindowsEditor
+[2022.06.08-03.49.24:195][  0]LogDeviceProfileManager: Profiles: [00000882827C3640][0000088266E40000 50] Windows, [00000882827C3B80][0000088275E9A000 50] WindowsEditor, [00000882827C39C0][0000088275E47800 50] WindowsServer, [00000882827C16C0][00000882827D0000 50] WindowsClient, [00000882827C0540][00000882827D5000 50] IOS, [00000882827C1A40][00000882827D7800 50] iPadAir2, [00000882827C4EC0][00000882827DC800 50] IPadPro, [00000882827C5240][00000882827DA000 50] iPadAir3, [00000882827C4980][00000882726AC800 50] iPadAir4, [00000882827C24C0][00000882819C0000 50] iPadMini4, [00000882827C2140][00000882819C5000 50] iPadMini5, [00000882827C5400][00000882819C7800 50] iPadMini6, [00000882827C7FC0][00000882827D2800 50] iPhone6S, [00000882827C8340][00000882819CC800 50] iPhone7, [00000882827C86C0][00000882819CA000 50] iPodTouch7, [00000882827C2840][00000882819F0000 50] iPhone6SPlus, [00000882827C8500][00000882819F5000 50] iPhone7Plus, [00000882827C5B00][00000882819F7800 50] iPhoneSE, [00000882827C4440][00000882819FA000 50] iPhone8, [00000882827C7000][00000882819FC800 50] iPhone8Plus, [00000882827C40C0][00000882819C2800 50] iPhoneX, [00000882827C0E00][00000882819E0000 50] iPhoneXS, [00000882827C7700][00000882819E5000 50] iPhoneXSMax, [00000882827C2F40][00000882819E7800 50] iPhoneXR, [00000882827C8880][00000882819EA000 50] iPhone11, [00000882827C6740][00000882819EC800 50] iPhone11Pro, [00000882827C47C0][00000882819F2800 50] iPhone11ProMax, [00000882827C55C0][0000088281A00000 50] iPhoneSE2, [00000882827C7C40][0000088281A05000 50] iPhone12Mini, [00000882827C2300][0000088281A07800 50] iPhone12, [00000882827C1880][0000088281A0A000 50] iPhone12Pro, [00000882827C2680][0000088281A0C800 50] iPhone12ProMax, [00000882827C7A80][00000882819E2800 50] iPhone13Mini, [00000882827C4600][0000088281990000 50] iPhone13, [00000882827C7540][0000088281995000 50] iPhone13Pro, [00000882827C3100][0000088281997800 50] iPhone13ProMax, [00000882827C6040][000008828199A000 50] iPadPro105, [00000882827C4B40][000008828199C800 50] iPadPro129, [00000882827C63C0][0000088281A02800 50] iPadPro97, [00000882827C1DC0][00000882819A0000 50] iPadPro2_129, [00000882827C6AC0][00000882819A5000 50] iPad5, [00000882827C7E00][00000882819A7800 50] iPad6, [00000882827C3F00][00000882819AA000 50] iPad7, [00000882827C6C80][00000882819AC800 50] iPad8, [00000882827C5080][0000088281992800 50] iPad9, [00000882827C1180][0000088281A20000 50] iPadPro11, [00000882827C0C40][0000088281A25000 50] iPadPro2_11, [00000882827C2BC0][0000088281A27800 50] iPadPro3_11, [00000882827C5CC0][0000088281A2A000 50] iPadPro3_129, [00000882827C1C00][0000088281A2C800 50] iPadPro4_129, [00000882827C2A00][00000882819A2800 50] iPadPro5_129, [00000882827C4D00][0000088281A30000 50] AppleTV, [00000882827C3480][0000088281A35000 50] AppleTV4K, [00000882827C71C0][0000088281A37800 50] TVOS, [00000882827CA2C0][0000088281A3C800 50] Mac, [00000882827CA640][0000088281A3A000 50] MacEditor, [00000882827C9300][0000088281A22800 50] MacClient, [00000882827C8A40][0000088281A40000 50] MacServer, [00000882827C1F80][0000088281A47800 50] Linux, [00000882827CAF00][0000088281A45000 50] LinuxEditor, [00000882827CA800][0000088281A4A000 50] LinuxArm64Editor, [00000882827CB0C0][0000088281A4C800 50] LinuxArm64, [00000882827CAB80][0000088281A32800 50] LinuxClient, [00000882827C9F40][0000088281A50000 50] LinuxArm64Client, [00000882827C5E80][0000088281A55000 50] LinuxServer, [00000882827C9D80][0000088281A57800 50] LinuxArm64Server, [00000882827C9BC0][0000088281A5A000 50] Android, [00000882827C7380][0000088281A5C800 50] Android_Preview_OpenGL, [00000882827C01C0][0000088281A42800 50] Android_Preview_Vulkan, [00000882827C1340][0000088281A60000 50] Android_Low, [00000882827C4280][0000088281A65000 50] Android_Mid, [00000882827CBB40][0000088281A67800 50] Android_High, [00000882827C8180][0000088281A6A000 50] Android_Default, [00000882827CA100][0000088281A6C800 50] Android_Adreno4xx, [00000882827C94C0][0000088281A52800 50] Android_Adreno5xx_Low, [00000882827C1500][0000088281A70000 50] Android_Adreno5xx, [00000882827C9680][0000088281A75000 50] Android_Adreno6xx, [00000882827C9A00][0000088281A77800 50] Android_Adreno6xx_Vulkan, [00000882827CB440][0000088281A7A000 50] Android_Adreno7xx, [00000882827C78C0][0000088281A7C800 50] Android_Adreno7xx_Vulkan, [00000882827C32C0][0000088281A62800 50] Android_Mali_T6xx, [00000882827C0A80][0000088281A80000 50] Android_Mali_T7xx, [00000882827C8C00][0000088281A85000 50] Android_Mali_T8xx, [00000882827C5940][0000088281A87800 50] Android_Mali_G71, [00000882827C0000][0000088281A8A000 50] Android_Mali_G72, [00000882827C2D80][0000088281A8C800 50] Android_Mali_G72_Vulkan, [00000882827C8DC0][0000088281A72800 50] Android_Mali_G76, [00000882827CBEC0][0000088281A90000 50] Android_Mali_G76_Vulkan, [00000882827CA480][0000088281A95000 50] Android_Mali_G77, [00000882827CB980][0000088281A97800 50] Android_Mali_G77_Vulkan, [00000882827C08C0][0000088281A9A000 50] Android_Mali_G78, [00000882827CAD40][0000088281A9C800 50] Android_Mali_G78_Vulkan, [00000882827C6200][0000088281A82800 50] Android_Mali_G710, [00000882827CBD00][0000088281AA0000 50] Android_Mali_G710_Vulkan, [00000882827C6E40][0000088281AA5000 50] Android_Xclipse_920, [00000882827C0FC0][0000088281AA7800 50] Android_Xclipse_920_Vulkan, [00000882827CDAC0][0000088281AAA000 50] Android_Vulkan_SM5, [00000882827C3D40][0000088281AAC800 50] Android_PowerVR_G6xxx, [00000882827CC5C0][0000088281A92800 50] Android_PowerVR_GT7xxx, [00000882827CB280][0000088281AB0000 50] Android_PowerVR_GE8xxx, [00000882827CB7C0][0000088281AB5000 50] Android_PowerVR_GM9xxx, [00000882827CCE80][0000088281AB7800 50] Android_PowerVR_GM9xxx_Vulkan, [00000882827C0380][0000088281ABA000 50] Android_TegraK1, [00000882827CD740][0000088281ABC800 50] Android_Unknown_Vulkan, [00000882827C5780][0000088281AA2800 50] Oculus_Quest, [00000882827CC940][0000088281AC0000 50] Oculus_Quest2, [00000882827CD580][0000088281AC5000 50] HoloLens, 
+[2022.06.08-03.49.24:195][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.06.08-03.49.24:211][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.06.08-03.49.24:396][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.08-03.49.24:396][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.08-03.49.24:396][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.08-03.49.24:396][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.08-03.49.24:396][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.08-03.49.24:409][  0]LogNetVersion: Trials_For_Project 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2171547110)
+[2022.06.08-03.49.24:516][  0]LogSlate: Border
+[2022.06.08-03.49.24:516][  0]LogSlate: BreadcrumbButton
+[2022.06.08-03.49.24:516][  0]LogSlate: Default
+[2022.06.08-03.49.24:516][  0]LogSlate: Icons.Save
+[2022.06.08-03.49.24:516][  0]LogSlate: Icons.Toolbar.Settings
+[2022.06.08-03.49.24:516][  0]LogSlate: ListView
+[2022.06.08-03.49.24:516][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.06.08-03.49.24:516][  0]LogSlate: SoftwareCursor_Grab
+[2022.06.08-03.49.24:516][  0]LogSlate: TableView.DarkRow
+[2022.06.08-03.49.24:516][  0]LogSlate: TableView.Row
+[2022.06.08-03.49.24:516][  0]LogSlate: TreeView
+[2022.06.08-03.49.24:653][  0]SourceControl: Source control is disabled
+[2022.06.08-03.49.24:676][  0]SourceControl: Source control is disabled
+[2022.06.08-03.49.24:676][  0]SourceControl: Source control is disabled
+[2022.06.08-03.49.24:770][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.06.08-03.49.24:770][  0]LogUObjectAllocator: 5584240 out of 0 bytes used by permanent object pool.
+[2022.06.08-03.49.24:770][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.08-03.49.24:958][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 71D30F8448231F6369F5AFA5E25B4211 | Instance: F217790E4BEEB6DCC2985ABB03A1C87B (LAPTOP-VGM7F06R-11476).
+[2022.06.08-03.49.25:140][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.08-03.49.25:147][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.08-03.49.25:165][  0]LogPython: Using Python 3.9.7
+[2022.06.08-03.49.26:529][  0]LogUProjectInfo: Found projects:
+[2022.06.08-03.49.26:532][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.08-03.49.26:533][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.08-03.49.26:533][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.08-03.49.26:820][  0]LogOpenImageDenoise: OIDN starting up
+[2022.06.08-03.49.26:833][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.08-03.49.26:851][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.08-03.49.26:851][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.08-03.49.26:946][  0]LogCollectionManager: Loaded 0 collections in 0.000778 seconds
+[2022.06.08-03.49.27:019][  0]LogFileCache: Scanning file cache for directory 'C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Saved/Collections/' took 0.00s
+[2022.06.08-03.49.27:019][  0]LogFileCache: Scanning file cache for directory 'C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Content/Developers/exalt/Collections/' took 0.00s
+[2022.06.08-03.49.27:019][  0]LogFileCache: Scanning file cache for directory 'C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Content/Collections/' took 0.00s
+[2022.06.08-03.49.27:241][  0]LogEngine: Initializing Engine...
+[2022.06.08-03.49.27:252][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.08-03.49.27:468][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.08-03.49.27:468][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.08-03.49.27:478][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.08-03.49.27:503][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.08-03.49.27:504][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.08-03.49.27:526][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.06.08-03.49.27:526][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.06.08-03.49.27:526][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.06.08-03.49.27:527][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.08-03.49.27:527][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.08-03.49.27:527][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.08-03.49.27:527][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.08-03.49.27:527][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.08-03.49.27:527][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.08-03.49.27:527][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.08-03.49.27:527][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.08-03.49.27:527][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.08-03.49.27:527][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.08-03.49.27:527][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.08-03.49.27:527][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.08-03.49.27:527][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.08-03.49.27:535][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.08-03.49.27:614][  0]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2022.06.08-03.49.27:614][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.08-03.49.27:615][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.08-03.49.27:615][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.08-03.49.27:616][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.06.08-03.49.27:616][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.06.08-03.49.27:617][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.06.08-03.49.27:617][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.06.08-03.49.27:617][  0]LogInit: FAudioDevice initialized.
+[2022.06.08-03.49.27:617][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.08-03.49.27:617][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.08-03.49.27:617][  0]LogInit: Texture streaming: Enabled
+[2022.06.08-03.49.27:649][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.0-19505902+++UE5+Release-5.0
+[2022.06.08-03.49.27:657][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.08-03.49.27:687][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.06.08-03.49.27:694][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.06.08-03.49.27:694][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.06.08-03.49.29:138][  0]LogLiveCoding: Display: First instance in process group "UE_Trials_For_Project_0x2f81d140", spawning console
+[2022.06.08-03.49.29:138][  0]LogLiveCoding: Display: Waiting for server
+[2022.06.08-03.49.29:138][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.06.08-03.49.29:160][  0]LogInit: Transaction tracking system initialized
+[2022.06.08-03.49.29:226][  0]BlueprintLog: New page: Editor Load
+[2022.06.08-03.49.29:402][  0]LocalizationService: Localization service is disabled
+[2022.06.08-03.49.29:447][  0]TimingProfiler: Initialize
+[2022.06.08-03.49.29:447][  0]TimingProfiler: OnSessionChanged
+[2022.06.08-03.49.29:447][  0]LoadingProfiler: Initialize
+[2022.06.08-03.49.29:447][  0]LoadingProfiler: OnSessionChanged
+[2022.06.08-03.49.29:447][  0]NetworkingProfiler: Initialize
+[2022.06.08-03.49.29:447][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.08-03.49.29:447][  0]MemoryProfiler: Initialize
+[2022.06.08-03.49.29:447][  0]MemoryProfiler: OnSessionChanged
+[2022.06.08-03.49.29:613][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.08-03.49.29:614][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.08-03.49.29:614][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.08-03.49.30:029][  0]LogFileCache: Scanning file cache for directory 'C:/Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Content/' took 0.01s
+[2022.06.08-03.49.30:029][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.06.08-03.49.30:100][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.08-03.49.30:101][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.137
+[2022.06.08-03.49.30:102][  0]Cmd: MAP LOAD FILE="../../../../../../Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.08-03.49.30:102][  0]LightingResults: New page: Lighting Build
+[2022.06.08-03.49.30:108][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.08-03.49.30:108][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.08-03.49.30:108][  0]MapCheck: New page: Map Check
+[2022.06.08-03.49.30:108][  0]LightingResults: New page: Lighting Build
+[2022.06.08-03.49.30:113][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.08-03.49.30:115][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.06.08-03.49.30:257][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair should be resaved to improve async compilation performance.
+[2022.06.08-03.49.30:263][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue should be resaved to improve async compilation performance.
+[2022.06.08-03.49.30:269][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound should be resaved to improve async compilation performance.
+[2022.06.08-03.49.30:279][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.06.08-03.49.30:279][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.08-03.49.30:279][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.08-03.49.30:280][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.06.08-03.49.30:285][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.08-03.49.30:290][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.06.08-03.49.30:290][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.08-03.49.30:291][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.152ms to complete.
+[2022.06.08-03.49.30:291][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.189
+[2022.06.08-03.49.30:300][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.335
+[2022.06.08-03.49.30:300][  0]LogShaderCompilers: Display: ================================================
+[2022.06.08-03.49.30:300][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.08-03.49.30:300][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.06.08-03.49.30:300][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.06.08-03.49.30:300][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.06.08-03.49.30:300][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.08-03.49.30:300][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.06.08-03.49.30:300][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.06.08-03.49.30:300][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.06.08-03.49.30:300][  0]LogShaderCompilers: Display: ================================================
+[2022.06.08-03.49.30:397][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.08-03.49.30:401][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.08-03.49.30:405][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.08-03.49.30:409][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.08-03.49.30:472][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.06.08-03.49.30:472][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.08-03.49.30:474][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.06.08-03.49.30:474][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.08-03.49.30:475][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.06.08-03.49.30:475][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.08-03.49.30:476][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.06.08-03.49.30:476][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.08-03.49.30:477][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.06.08-03.49.30:477][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.08-03.49.30:478][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.06.08-03.49.30:478][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.08-03.49.30:479][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.06.08-03.49.30:479][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.08-03.49.30:480][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.06.08-03.49.30:480][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.08-03.49.30:480][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.06.08-03.49.30:480][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.08-03.49.30:481][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.06.08-03.49.30:481][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.08-03.49.30:614][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.08-03.49.30:619][  0]LogSlate: Took 0.000394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.08-03.49.30:620][  0]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.08-03.49.30:899][  0]LogStall: Startup...
+[2022.06.08-03.49.30:901][  0]LogStall: Startup complete.
+[2022.06.08-03.49.30:910][  0]LogInput: Warning: Action Jump uses invalid key Daydream_Left_Select_Click.
+[2022.06.08-03.49.30:910][  0]LogInput: Warning: Action ResetVR uses invalid key Daydream_Left_Trackpad_Click.
+[2022.06.08-03.49.30:910][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.06.08-03.49.30:910][  0]LogInput: Warning: Action Jump uses invalid key MagicLeap_Left_Trigger.
+[2022.06.08-03.49.30:911][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.06.08-03.49.30:911][  0]LogInput: Warning: Action ResetVR uses invalid key MagicLeap_Left_Bumper.
+[2022.06.08-03.49.30:911][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.06.08-03.49.30:911][  0]LogLoad: (Engine Initialization) Total time: 9.95 seconds
+[2022.06.08-03.49.30:911][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.08-03.49.30:950][  0]LogAssetRegistry: Asset discovery search completed in 7.1321 seconds
+[2022.06.08-03.49.30:958][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.06.08-03.49.30:984][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.08-03.49.52:796][305]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.08-03.49.52:798][305]LogSlate: Took 0.000393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.08-03.49.52:803][305]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.08-03.49.59:333][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.06.08-03.49.59:523][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\TestLevelPortal\LevelPortal\LevelPortal.uasset: Failed to load '/Game/Assets/aurel_folder/minimart/aircon_top_008': Can't find file.
+[2022.06.08-03.49.59:523][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/minimart/aircon_top_008'
+[2022.06.08-03.49.59:529][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/minimart/JENDELA': Can't find file.
+[2022.06.08-03.49.59:529][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/minimart/JENDELA'
+[2022.06.08-03.49.59:556][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_BezierCurve': Can't find file.
+[2022.06.08-03.49.59:556][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_BezierCurve'
+[2022.06.08-03.49.59:556][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cube': Can't find file.
+[2022.06.08-03.49.59:556][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cube'
+[2022.06.08-03.49.59:556][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cube_001': Can't find file.
+[2022.06.08-03.49.59:556][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cube_001'
+[2022.06.08-03.49.59:556][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cube_002': Can't find file.
+[2022.06.08-03.49.59:556][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cube_002'
+[2022.06.08-03.49.59:556][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cube_003': Can't find file.
+[2022.06.08-03.49.59:556][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cube_003'
+[2022.06.08-03.49.59:557][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cube_004': Can't find file.
+[2022.06.08-03.49.59:557][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cube_004'
+[2022.06.08-03.49.59:557][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cylinder': Can't find file.
+[2022.06.08-03.49.59:557][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cylinder'
+[2022.06.08-03.49.59:557][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cylinder_001': Can't find file.
+[2022.06.08-03.49.59:557][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cylinder_001'
+[2022.06.08-03.49.59:557][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cylinder_002': Can't find file.
+[2022.06.08-03.49.59:557][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Cylinder_002'
+[2022.06.08-03.49.59:557][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_glass_door_left': Can't find file.
+[2022.06.08-03.49.59:557][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_glass_door_left'
+[2022.06.08-03.49.59:557][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_glass_door_right': Can't find file.
+[2022.06.08-03.49.59:557][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_glass_door_right'
+[2022.06.08-03.49.59:558][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_kaca': Can't find file.
+[2022.06.08-03.49.59:558][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_kaca'
+[2022.06.08-03.49.59:558][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_lampu_003': Can't find file.
+[2022.06.08-03.49.59:558][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_lampu_003'
+[2022.06.08-03.49.59:558][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_lampu_004': Can't find file.
+[2022.06.08-03.49.59:558][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_lampu_004'
+[2022.06.08-03.49.59:558][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_lampu_005': Can't find file.
+[2022.06.08-03.49.59:558][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_lampu_005'
+[2022.06.08-03.49.59:558][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_LIFT': Can't find file.
+[2022.06.08-03.49.59:558][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_LIFT'
+[2022.06.08-03.49.59:558][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_plane_003': Can't find file.
+[2022.06.08-03.49.59:558][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_plane_003'
+[2022.06.08-03.49.59:558][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_plane_004': Can't find file.
+[2022.06.08-03.49.59:558][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_plane_004'
+[2022.06.08-03.49.59:559][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_plane_005': Can't find file.
+[2022.06.08-03.49.59:559][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_plane_005'
+[2022.06.08-03.49.59:559][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_tangki_air_kaki': Can't find file.
+[2022.06.08-03.49.59:559][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_tangki_air_kaki'
+[2022.06.08-03.49.59:559][696]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\demo_orang_stress\tesenvironment.umap: Failed to load '/Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Text': Can't find file.
+[2022.06.08-03.49.59:559][696]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/aurel_folder/arcade/building/arcade_buildingNEW_Text'
+[2022.06.08-03.50.00:484][696]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/NS_Sparks.NS_Sparks took 0.039402 sec, no shader worker used.
+[2022.06.08-03.50.00:498][696]LogAssetEditorSubsystem: Opening Asset editor for World /Game/demo_orang_stress/tesenvironment.tesenvironment
+[2022.06.08-03.50.00:498][696]Cmd: MAP LOAD FILE="../../../../../../Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Content/demo_orang_stress/tesenvironment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.08-03.50.00:498][696]LightingResults: New page: Lighting Build
+[2022.06.08-03.50.00:498][696]LoadErrors: New page: Loading map: tesenvironment.umap
+[2022.06.08-03.50.00:533][696]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.06.08-03.50.00:533][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.08-03.50.00:533][696]MapCheck: New page: Map Check
+[2022.06.08-03.50.00:533][696]LightingResults: New page: Lighting Build
+[2022.06.08-03.50.00:540][696]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.08-03.50.00:543][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.06.08-03.50.00:658][696]LogWorld: UWorld::CleanupWorld for tesenvironment, bSessionEnded=true, bCleanupResources=true
+[2022.06.08-03.50.00:659][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.08-03.50.00:681][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.06.08-03.50.00:691][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.06.08-03.50.00:768][696]LogAudio: Display: Audio Device (ID: 1) registered with world 'tesenvironment'.
+[2022.06.08-03.50.00:768][696]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.08-03.50.00:768][696]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.08-03.50.00:768][696]LogAIModule: Creating AISystem for world tesenvironment
+[2022.06.08-03.50.00:862][696]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.08-03.50.00:882][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.06.08-03.50.00:891][696]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.08-03.50.00:891][696]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.221ms to complete.
+[2022.06.08-03.50.00:891][696]LogFileHelpers: Loading map 'tesenvironment' took 0.393
+[2022.06.08-03.50.24:782][104]Cmd: DELETE
+[2022.06.08-03.50.24:782][104]Cmd: ACTOR DELETE
+[2022.06.08-03.50.24:793][104]LogEditorActor: Actor GroupActor8 is referenced by flower_shop_project_top_016.
+[2022.06.08-03.50.24:793][104]LogEditorActor: Actor GroupActor8 is referenced by flower_shop_project_back_007.
+[2022.06.08-03.50.24:793][104]LogEditorActor: Actor GroupActor8 is referenced by flower_shop_project_Cube.
+[2022.06.08-03.50.24:793][104]LogEditorActor: Actor GroupActor8 is referenced by flower_shop_project_Cube_001.
+[2022.06.08-03.50.24:793][104]LogEditorActor: Actor GroupActor8 is referenced by flower_shop_project_Cube_003.
+[2022.06.08-03.50.24:794][104]LogEditorActor: Actor GroupActor8 is referenced by flower_shop_project_Cube_004.
+[2022.06.08-03.50.24:794][104]LogEditorActor: Actor GroupActor8 is referenced by flower_shop_project_front_007.
+[2022.06.08-03.50.24:794][104]LogEditorActor: Actor GroupActor8 is referenced by flower_shop_project_left_007.
+[2022.06.08-03.50.24:794][104]LogEditorActor: Actor GroupActor8 is referenced by flower_shop_project_right_007.
+[2022.06.08-03.50.24:794][104]LogEditorActor: Actor GroupActor8 is referenced by flower_shop_project_top_007.
+[2022.06.08-03.50.24:794][104]LogEditorActor: Actor GroupActor8 is referenced by flower_shop_project_top_008.
+[2022.06.08-03.50.24:794][104]LogEditorActor: Actor GroupActor8 is referenced by flower_shop_project_top_009.
+[2022.06.08-03.50.24:794][104]LogEditorActor: Actor GroupActor8 is referenced by flower_shop_project_top_011.
+[2022.06.08-03.50.24:794][104]LogEditorActor: Actor GroupActor8 is referenced by flower_shop_project_top_012.
+[2022.06.08-03.50.24:794][104]LogEditorActor: Actor GroupActor8 is referenced by flower_shop_project_top_013.
+[2022.06.08-03.50.24:794][104]LogEditorActor: Actor GroupActor8 is referenced by flower_shop_project_top_014.
+[2022.06.08-03.50.26:359][104]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.50.26:374][104]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor8 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+flower_shop_project_top_016
+flower_shop_project_back_007
+flower_shop_project_Cube
+flower_shop_project_Cube_001
+flower_shop_project_Cube_003
+flower_shop_project_Cube_004
+flower_shop_project_front_007
+flower_shop_project_left_007
+flower_shop_project_right_007
+flower_shop_project_top_007
+flower_shop_project_top_008
+flower_shop_project_top_009
+flower_shop_project_top_011
+flower_shop_project_top_012
+flower_shop_project_top_013
+flower_shop_project_top_014
+[2022.06.08-03.50.26:376][104]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.50.26:377][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.26:377][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.26:377][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.26:377][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.26:378][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.26:378][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.26:378][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.26:378][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.26:378][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.26:378][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.26:378][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.26:378][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.26:378][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.26:379][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.26:379][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.26:379][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.26:385][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.06.08-03.50.26:386][104]LogEditorActor: Deleted 17 Actors (0.022 secs)
+[2022.06.08-03.50.32:164][448]Cmd: DELETE
+[2022.06.08-03.50.32:164][448]Cmd: ACTOR DELETE
+[2022.06.08-03.50.32:177][448]LogEditorActor: Actor GroupActor37 is referenced by door2_Cube_007.
+[2022.06.08-03.50.32:177][448]LogEditorActor: Actor GroupActor37 is referenced by door2_Cube_008.
+[2022.06.08-03.50.32:177][448]LogEditorActor: Actor GroupActor37 is referenced by door2_Cube_009.
+[2022.06.08-03.50.32:177][448]LogEditorActor: Actor GroupActor37 is referenced by door2_Cube_010.
+[2022.06.08-03.50.32:177][448]LogEditorActor: Actor GroupActor37 is referenced by door2_Cylinder.
+[2022.06.08-03.50.32:177][448]LogEditorActor: Actor GroupActor37 is referenced by door2_Cylinder_001.
+[2022.06.08-03.50.32:177][448]LogEditorActor: Actor GroupActor37 is referenced by door2_Cylinder_002.
+[2022.06.08-03.50.32:177][448]LogEditorActor: Actor GroupActor37 is referenced by door2_Cylinder_003.
+[2022.06.08-03.50.33:528][448]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.50.33:534][448]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor37 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+door2_Cube_007
+door2_Cube_008
+door2_Cube_009
+door2_Cube_010
+door2_Cylinder
+door2_Cylinder_001
+door2_Cylinder_002
+door2_Cylinder_003
+[2022.06.08-03.50.33:536][448]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.50.33:536][448]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.33:537][448]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.33:537][448]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.33:537][448]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.33:537][448]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.33:537][448]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.33:537][448]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.33:537][448]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.33:543][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.06.08-03.50.33:544][448]LogEditorActor: Deleted 9 Actors (0.023 secs)
+[2022.06.08-03.50.34:331][493]Cmd: DELETE
+[2022.06.08-03.50.34:331][493]Cmd: ACTOR DELETE
+[2022.06.08-03.50.34:342][493]LogEditorActor: Actor GroupActor15 is referenced by window_window.
+[2022.06.08-03.50.34:342][493]LogEditorActor: Actor GroupActor15 is referenced by window_window_001.
+[2022.06.08-03.50.35:140][493]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.50.35:146][493]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor15 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window
+window_window_001
+[2022.06.08-03.50.35:147][493]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.50.35:148][493]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.35:149][493]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.35:156][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.06.08-03.50.35:157][493]LogEditorActor: Deleted 3 Actors (0.022 secs)
+[2022.06.08-03.50.36:291][557]Cmd: DELETE
+[2022.06.08-03.50.36:291][557]Cmd: ACTOR DELETE
+[2022.06.08-03.50.36:301][557]LogEditorActor: Actor GroupActor_15 is referenced by window_window2.
+[2022.06.08-03.50.36:301][557]LogEditorActor: Actor GroupActor_15 is referenced by window_window_2.
+[2022.06.08-03.50.37:059][557]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.50.37:064][557]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_15 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window2
+window_window_2
+[2022.06.08-03.50.37:065][557]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.50.37:065][557]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.37:066][557]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.37:072][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.06.08-03.50.37:073][557]LogEditorActor: Deleted 3 Actors (0.018 secs)
+[2022.06.08-03.50.37:836][601]Cmd: DELETE
+[2022.06.08-03.50.37:836][601]Cmd: ACTOR DELETE
+[2022.06.08-03.50.37:846][601]LogEditorActor: Actor GroupActor_16 is referenced by window_window3.
+[2022.06.08-03.50.37:846][601]LogEditorActor: Actor GroupActor_16 is referenced by window_window_3.
+[2022.06.08-03.50.38:503][601]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.50.38:508][601]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_16 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window3
+window_window_3
+[2022.06.08-03.50.38:508][601]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.50.38:509][601]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.38:509][601]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.38:515][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.06.08-03.50.38:516][601]LogEditorActor: Deleted 3 Actors (0.018 secs)
+[2022.06.08-03.50.39:022][629]Cmd: DELETE
+[2022.06.08-03.50.39:022][629]Cmd: ACTOR DELETE
+[2022.06.08-03.50.39:032][629]LogEditorActor: Actor GroupActor_24 is referenced by window_window8.
+[2022.06.08-03.50.39:032][629]LogEditorActor: Actor GroupActor_24 is referenced by window_window_8.
+[2022.06.08-03.50.39:681][629]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.50.39:686][629]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_24 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window8
+window_window_8
+[2022.06.08-03.50.39:687][629]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.50.39:688][629]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.39:688][629]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.39:695][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.06.08-03.50.39:696][629]LogEditorActor: Deleted 3 Actors (0.019 secs)
+[2022.06.08-03.50.40:291][663]Cmd: DELETE
+[2022.06.08-03.50.40:291][663]Cmd: ACTOR DELETE
+[2022.06.08-03.50.40:301][663]LogEditorActor: Actor GroupActor_25 is referenced by window_window9.
+[2022.06.08-03.50.40:301][663]LogEditorActor: Actor GroupActor_25 is referenced by window_window_9.
+[2022.06.08-03.50.41:017][663]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.50.41:021][663]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_25 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window9
+window_window_9
+[2022.06.08-03.50.41:022][663]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.50.41:022][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.41:023][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.41:030][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.06.08-03.50.41:031][663]LogEditorActor: Deleted 3 Actors (0.019 secs)
+[2022.06.08-03.50.41:571][693]Cmd: DELETE
+[2022.06.08-03.50.41:572][693]Cmd: ACTOR DELETE
+[2022.06.08-03.50.41:581][693]LogEditorActor: Actor GroupActor_19 is referenced by window_window6.
+[2022.06.08-03.50.41:581][693]LogEditorActor: Actor GroupActor_19 is referenced by window_window_6.
+[2022.06.08-03.50.42:254][693]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.50.42:259][693]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_19 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window6
+window_window_6
+[2022.06.08-03.50.42:259][693]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.50.42:260][693]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.42:260][693]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.42:266][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.06.08-03.50.42:267][693]LogEditorActor: Deleted 3 Actors (0.018 secs)
+[2022.06.08-03.50.42:967][733]Cmd: DELETE
+[2022.06.08-03.50.42:967][733]Cmd: ACTOR DELETE
+[2022.06.08-03.50.42:976][733]LogEditorActor: Actor GroupActor_21 is referenced by window_window7.
+[2022.06.08-03.50.42:976][733]LogEditorActor: Actor GroupActor_21 is referenced by window_window_7.
+[2022.06.08-03.50.43:677][733]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.50.43:681][733]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_21 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window7
+window_window_7
+[2022.06.08-03.50.43:682][733]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.50.43:682][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.43:683][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.43:688][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.06.08-03.50.43:689][733]LogEditorActor: Deleted 3 Actors (0.017 secs)
+[2022.06.08-03.50.44:421][775]Cmd: DELETE
+[2022.06.08-03.50.44:421][775]Cmd: ACTOR DELETE
+[2022.06.08-03.50.44:430][775]LogEditorActor: Actor GroupActor_20 is referenced by window_window5.
+[2022.06.08-03.50.44:430][775]LogEditorActor: Actor GroupActor_20 is referenced by window_window_5.
+[2022.06.08-03.50.45:022][775]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.50.45:029][775]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_20 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window5
+window_window_5
+[2022.06.08-03.50.45:029][775]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.50.45:030][775]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.45:030][775]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.45:037][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.06.08-03.50.45:038][775]LogEditorActor: Deleted 3 Actors (0.019 secs)
+[2022.06.08-03.50.45:838][821]Cmd: DELETE
+[2022.06.08-03.50.45:838][821]Cmd: ACTOR DELETE
+[2022.06.08-03.50.45:847][821]LogEditorActor: Actor GroupActor_17 is referenced by window_window4.
+[2022.06.08-03.50.45:847][821]LogEditorActor: Actor GroupActor_17 is referenced by window_window_4.
+[2022.06.08-03.50.46:684][821]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.50.46:688][821]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_17 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window4
+window_window_4
+[2022.06.08-03.50.46:689][821]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.50.46:689][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.46:689][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.46:696][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.06.08-03.50.46:697][821]LogEditorActor: Deleted 3 Actors (0.017 secs)
+[2022.06.08-03.50.48:921][951]Cmd: DELETE
+[2022.06.08-03.50.48:921][951]Cmd: ACTOR DELETE
+[2022.06.08-03.50.48:931][951]LogEditorActor: Actor GroupActor14 is referenced by ruko__back.
+[2022.06.08-03.50.48:931][951]LogEditorActor: Actor GroupActor14 is referenced by ruko__back_001.
+[2022.06.08-03.50.48:931][951]LogEditorActor: Actor GroupActor14 is referenced by ruko__back_002.
+[2022.06.08-03.50.48:932][951]LogEditorActor: Actor GroupActor14 is referenced by ruko__floor1.
+[2022.06.08-03.50.48:932][951]LogEditorActor: Actor GroupActor14 is referenced by ruko__front.
+[2022.06.08-03.50.48:932][951]LogEditorActor: Actor GroupActor14 is referenced by ruko__front_001.
+[2022.06.08-03.50.48:932][951]LogEditorActor: Actor GroupActor14 is referenced by ruko__front_002.
+[2022.06.08-03.50.48:932][951]LogEditorActor: Actor GroupActor14 is referenced by ruko__left.
+[2022.06.08-03.50.48:932][951]LogEditorActor: Actor GroupActor14 is referenced by ruko__left_001.
+[2022.06.08-03.50.48:932][951]LogEditorActor: Actor GroupActor14 is referenced by ruko__left_002.
+[2022.06.08-03.50.48:932][951]LogEditorActor: Actor GroupActor14 is referenced by ruko__right.
+[2022.06.08-03.50.48:932][951]LogEditorActor: Actor GroupActor14 is referenced by ruko__right_001.
+[2022.06.08-03.50.48:932][951]LogEditorActor: Actor GroupActor14 is referenced by ruko__right_002.
+[2022.06.08-03.50.48:932][951]LogEditorActor: Actor GroupActor14 is referenced by ruko__top.
+[2022.06.08-03.50.48:932][951]LogEditorActor: Actor GroupActor14 is referenced by ruko__top_001.
+[2022.06.08-03.50.48:932][951]LogEditorActor: Actor GroupActor14 is referenced by ruko__top_002.
+[2022.06.08-03.50.49:704][951]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.50.49:707][951]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor14 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+ruko__back
+ruko__back_001
+ruko__back_002
+ruko__floor1
+ruko__front
+ruko__front_001
+ruko__front_002
+ruko__left
+ruko__left_001
+ruko__left_002
+ruko__right
+ruko__right_001
+ruko__right_002
+ruko__top
+ruko__top_001
+ruko__top_002
+[2022.06.08-03.50.49:708][951]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.50.49:709][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.49:709][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.49:709][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.49:709][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.49:709][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.49:710][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.49:710][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.49:710][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.49:710][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.49:710][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.49:710][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.49:710][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.49:710][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.49:711][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.49:711][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.49:711][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.49:717][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.06.08-03.50.49:719][951]LogEditorActor: Deleted 17 Actors (0.023 secs)
+[2022.06.08-03.50.50:365][988]Cmd: DELETE
+[2022.06.08-03.50.50:365][988]Cmd: ACTOR DELETE
+[2022.06.08-03.50.50:374][988]LogEditorActor: Actor GroupActor_29 is referenced by window_window13.
+[2022.06.08-03.50.50:374][988]LogEditorActor: Actor GroupActor_29 is referenced by window_window_13.
+[2022.06.08-03.50.51:071][988]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.50.51:075][988]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_29 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window13
+window_window_13
+[2022.06.08-03.50.51:076][988]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.50.51:076][988]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.51:076][988]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.51:085][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.06.08-03.50.51:086][988]LogEditorActor: Deleted 3 Actors (0.020 secs)
+[2022.06.08-03.50.51:974][ 39]Cmd: DELETE
+[2022.06.08-03.50.51:974][ 39]Cmd: ACTOR DELETE
+[2022.06.08-03.50.51:983][ 39]LogEditorActor: Actor GroupActor_38 is referenced by door2_Cube_12.
+[2022.06.08-03.50.51:983][ 39]LogEditorActor: Actor GroupActor_38 is referenced by door2_Cube_13.
+[2022.06.08-03.50.51:983][ 39]LogEditorActor: Actor GroupActor_38 is referenced by door2_Cube_14.
+[2022.06.08-03.50.51:983][ 39]LogEditorActor: Actor GroupActor_38 is referenced by door2_Cube_15.
+[2022.06.08-03.50.51:983][ 39]LogEditorActor: Actor GroupActor_38 is referenced by door2_Cylinder3.
+[2022.06.08-03.50.51:983][ 39]LogEditorActor: Actor GroupActor_38 is referenced by door2_Cylinder_5.
+[2022.06.08-03.50.51:983][ 39]LogEditorActor: Actor GroupActor_38 is referenced by door2_Cylinder_6.
+[2022.06.08-03.50.51:983][ 39]LogEditorActor: Actor GroupActor_38 is referenced by door2_Cylinder_7.
+[2022.06.08-03.50.52:638][ 39]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.50.52:641][ 39]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_38 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+door2_Cube_12
+door2_Cube_13
+door2_Cube_14
+door2_Cube_15
+door2_Cylinder3
+door2_Cylinder_5
+door2_Cylinder_6
+door2_Cylinder_7
+[2022.06.08-03.50.52:642][ 39]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.50.52:643][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.52:643][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.52:643][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.52:643][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.52:643][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.52:643][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.52:644][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.52:644][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.52:651][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.06.08-03.50.52:652][ 39]LogEditorActor: Deleted 9 Actors (0.020 secs)
+[2022.06.08-03.50.53:581][ 93]Cmd: DELETE
+[2022.06.08-03.50.53:582][ 93]Cmd: ACTOR DELETE
+[2022.06.08-03.50.53:590][ 93]LogEditorActor: Actor GroupActor_28 is referenced by window_window12.
+[2022.06.08-03.50.53:590][ 93]LogEditorActor: Actor GroupActor_28 is referenced by window_window_12.
+[2022.06.08-03.50.54:389][ 93]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.50.54:393][ 93]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_28 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window12
+window_window_12
+[2022.06.08-03.50.54:394][ 93]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.50.54:394][ 93]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.54:394][ 93]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.54:401][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.06.08-03.50.54:402][ 93]LogEditorActor: Deleted 3 Actors (0.017 secs)
+[2022.06.08-03.50.55:662][167]Cmd: DELETE
+[2022.06.08-03.50.55:662][167]Cmd: ACTOR DELETE
+[2022.06.08-03.50.55:671][167]LogEditorActor: Deleted Actor: Landscape
+[2022.06.08-03.50.55:687][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.06.08-03.50.55:688][167]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.06.08-03.50.57:337][266]Cmd: TRANSACTION UNDO
+[2022.06.08-03.50.57:337][266]LogEditorTransaction: Undo Delete Elements
+[2022.06.08-03.50.59:037][350]Cmd: DELETE
+[2022.06.08-03.50.59:037][350]Cmd: ACTOR DELETE
+[2022.06.08-03.50.59:046][350]LogEditorActor: Actor GroupActor_37 is referenced by door2_Cube_8.
+[2022.06.08-03.50.59:046][350]LogEditorActor: Actor GroupActor_37 is referenced by door2_Cube_9.
+[2022.06.08-03.50.59:046][350]LogEditorActor: Actor GroupActor_37 is referenced by door2_Cube_10.
+[2022.06.08-03.50.59:046][350]LogEditorActor: Actor GroupActor_37 is referenced by door2_Cube_11.
+[2022.06.08-03.50.59:046][350]LogEditorActor: Actor GroupActor_37 is referenced by door2_Cylinder2.
+[2022.06.08-03.50.59:046][350]LogEditorActor: Actor GroupActor_37 is referenced by door2_Cylinder_2.
+[2022.06.08-03.50.59:046][350]LogEditorActor: Actor GroupActor_37 is referenced by door2_Cylinder_3.
+[2022.06.08-03.50.59:046][350]LogEditorActor: Actor GroupActor_37 is referenced by door2_Cylinder_4.
+[2022.06.08-03.50.59:891][350]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.50.59:896][350]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_37 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+door2_Cube_8
+door2_Cube_9
+door2_Cube_10
+door2_Cube_11
+door2_Cylinder2
+door2_Cylinder_2
+door2_Cylinder_3
+door2_Cylinder_4
+[2022.06.08-03.50.59:898][350]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.50.59:898][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.59:898][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.59:899][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.59:899][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.59:899][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.59:899][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.59:899][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.59:899][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.50.59:906][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.06.08-03.50.59:907][350]LogEditorActor: Deleted 9 Actors (0.020 secs)
+[2022.06.08-03.51.00:794][401]Cmd: DELETE
+[2022.06.08-03.51.00:794][401]Cmd: ACTOR DELETE
+[2022.06.08-03.51.00:802][401]LogEditorActor: Actor GroupActor_30 is referenced by window_window17.
+[2022.06.08-03.51.00:802][401]LogEditorActor: Actor GroupActor_30 is referenced by window_window_17.
+[2022.06.08-03.51.01:811][401]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.01:816][401]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_30 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window17
+window_window_17
+[2022.06.08-03.51.01:817][401]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.01:817][401]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.01:818][401]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.01:825][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.06.08-03.51.01:827][401]LogEditorActor: Deleted 3 Actors (0.019 secs)
+[2022.06.08-03.51.02:535][442]Cmd: DELETE
+[2022.06.08-03.51.02:535][442]Cmd: ACTOR DELETE
+[2022.06.08-03.51.02:544][442]LogEditorActor: Actor GroupActor_27 is referenced by window_window11.
+[2022.06.08-03.51.02:544][442]LogEditorActor: Actor GroupActor_27 is referenced by window_window_11.
+[2022.06.08-03.51.03:169][442]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.03:173][442]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_27 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window11
+window_window_11
+[2022.06.08-03.51.03:173][442]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.03:174][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.03:174][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.03:180][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.06.08-03.51.03:181][442]LogEditorActor: Deleted 3 Actors (0.017 secs)
+[2022.06.08-03.51.03:875][482]Cmd: DELETE
+[2022.06.08-03.51.03:875][482]Cmd: ACTOR DELETE
+[2022.06.08-03.51.03:884][482]LogEditorActor: Actor GroupActor40 is referenced by door1_Cube.
+[2022.06.08-03.51.03:884][482]LogEditorActor: Actor GroupActor40 is referenced by door1_Cube_001.
+[2022.06.08-03.51.03:884][482]LogEditorActor: Actor GroupActor40 is referenced by door1_Cube_002.
+[2022.06.08-03.51.03:884][482]LogEditorActor: Actor GroupActor40 is referenced by door1_Cube_003.
+[2022.06.08-03.51.04:770][482]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.04:774][482]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor40 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+door1_Cube
+door1_Cube_001
+door1_Cube_002
+door1_Cube_003
+[2022.06.08-03.51.04:775][482]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.04:775][482]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.04:775][482]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.04:776][482]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.04:776][482]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.04:782][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.06.08-03.51.04:783][482]LogEditorActor: Deleted 5 Actors (0.018 secs)
+[2022.06.08-03.51.05:375][516]Cmd: DELETE
+[2022.06.08-03.51.05:375][516]Cmd: ACTOR DELETE
+[2022.06.08-03.51.05:384][516]LogEditorActor: Actor GroupActor32 is referenced by window_window14.
+[2022.06.08-03.51.05:384][516]LogEditorActor: Actor GroupActor32 is referenced by window_window_14.
+[2022.06.08-03.51.05:898][516]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.05:902][516]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor32 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window14
+window_window_14
+[2022.06.08-03.51.05:903][516]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.05:903][516]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.05:904][516]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.05:910][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.06.08-03.51.05:911][516]LogEditorActor: Deleted 3 Actors (0.017 secs)
+[2022.06.08-03.51.06:607][556]Cmd: DELETE
+[2022.06.08-03.51.06:607][556]Cmd: ACTOR DELETE
+[2022.06.08-03.51.06:615][556]LogEditorActor: Actor GroupActor_33 is referenced by window_window16.
+[2022.06.08-03.51.06:615][556]LogEditorActor: Actor GroupActor_33 is referenced by window_window_16.
+[2022.06.08-03.51.07:321][556]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.07:325][556]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_33 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window16
+window_window_16
+[2022.06.08-03.51.07:325][556]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.07:326][556]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.07:326][556]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.07:332][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.06.08-03.51.07:333][556]LogEditorActor: Deleted 3 Actors (0.017 secs)
+[2022.06.08-03.51.08:856][641]Cmd: DELETE
+[2022.06.08-03.51.08:856][641]Cmd: ACTOR DELETE
+[2022.06.08-03.51.08:866][641]LogEditorActor: Actor GroupActor_26 is referenced by window_window10.
+[2022.06.08-03.51.08:866][641]LogEditorActor: Actor GroupActor_26 is referenced by window_window_10.
+[2022.06.08-03.51.09:374][641]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.09:379][641]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_26 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window10
+window_window_10
+[2022.06.08-03.51.09:380][641]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.09:380][641]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.09:381][641]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.09:388][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.06.08-03.51.09:389][641]LogEditorActor: Deleted 3 Actors (0.019 secs)
+[2022.06.08-03.51.09:985][675]Cmd: DELETE
+[2022.06.08-03.51.09:985][675]Cmd: ACTOR DELETE
+[2022.06.08-03.51.09:995][675]LogEditorActor: Actor GroupActor_41 is referenced by window_window25.
+[2022.06.08-03.51.09:995][675]LogEditorActor: Actor GroupActor_41 is referenced by window_window_25.
+[2022.06.08-03.51.10:702][675]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.10:706][675]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_41 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window25
+window_window_25
+[2022.06.08-03.51.10:707][675]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.10:708][675]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.10:708][675]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.10:717][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.06.08-03.51.10:718][675]LogEditorActor: Deleted 3 Actors (0.021 secs)
+[2022.06.08-03.51.11:266][706]Cmd: DELETE
+[2022.06.08-03.51.11:266][706]Cmd: ACTOR DELETE
+[2022.06.08-03.51.11:275][706]LogEditorActor: Actor GroupActor_34 is referenced by window_window23.
+[2022.06.08-03.51.11:275][706]LogEditorActor: Actor GroupActor_34 is referenced by window_window_23.
+[2022.06.08-03.51.11:928][706]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.11:934][706]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_34 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window23
+window_window_23
+[2022.06.08-03.51.11:935][706]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.11:936][706]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.11:936][706]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.11:944][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.06.08-03.51.11:945][706]LogEditorActor: Deleted 3 Actors (0.020 secs)
+[2022.06.08-03.51.12:563][741]Cmd: DELETE
+[2022.06.08-03.51.12:563][741]Cmd: ACTOR DELETE
+[2022.06.08-03.51.12:572][741]LogEditorActor: Actor GroupActor_49 is referenced by window_window24.
+[2022.06.08-03.51.12:572][741]LogEditorActor: Actor GroupActor_49 is referenced by window_window_24.
+[2022.06.08-03.51.13:124][741]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.13:128][741]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_49 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window24
+window_window_24
+[2022.06.08-03.51.13:129][741]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.13:129][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.13:129][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.13:136][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.06.08-03.51.13:138][741]LogEditorActor: Deleted 3 Actors (0.018 secs)
+[2022.06.08-03.51.13:604][767]Cmd: DELETE
+[2022.06.08-03.51.13:604][767]Cmd: ACTOR DELETE
+[2022.06.08-03.51.13:613][767]LogEditorActor: Actor GroupActor_32 is referenced by window_window15.
+[2022.06.08-03.51.13:613][767]LogEditorActor: Actor GroupActor_32 is referenced by window_window_15.
+[2022.06.08-03.51.14:460][767]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.14:464][767]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_32 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window15
+window_window_15
+[2022.06.08-03.51.14:465][767]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.14:465][767]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.14:465][767]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.14:472][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.06.08-03.51.14:473][767]LogEditorActor: Deleted 3 Actors (0.017 secs)
+[2022.06.08-03.51.15:322][816]LogEditorViewport: Clicking Background
+[2022.06.08-03.51.16:056][858]Cmd: DELETE
+[2022.06.08-03.51.16:056][858]Cmd: ACTOR DELETE
+[2022.06.08-03.51.16:065][858]LogEditorActor: Actor GroupActor_46 is referenced by window_window22.
+[2022.06.08-03.51.16:065][858]LogEditorActor: Actor GroupActor_46 is referenced by window_window_22.
+[2022.06.08-03.51.16:930][858]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.16:934][858]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_46 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window22
+window_window_22
+[2022.06.08-03.51.16:935][858]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.16:935][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.16:936][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.16:943][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.06.08-03.51.16:944][858]LogEditorActor: Deleted 3 Actors (0.018 secs)
+[2022.06.08-03.51.17:611][896]Cmd: DELETE
+[2022.06.08-03.51.17:611][896]Cmd: ACTOR DELETE
+[2022.06.08-03.51.17:620][896]LogEditorActor: Actor GroupActor_44 is referenced by window_window20.
+[2022.06.08-03.51.17:620][896]LogEditorActor: Actor GroupActor_44 is referenced by window_window_20.
+[2022.06.08-03.51.18:203][896]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.18:206][896]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_44 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window20
+window_window_20
+[2022.06.08-03.51.18:206][896]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.18:207][896]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.18:207][896]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.18:214][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.06.08-03.51.18:215][896]LogEditorActor: Deleted 3 Actors (0.019 secs)
+[2022.06.08-03.51.18:924][938]LogEditorViewport: Clicking Background
+[2022.06.08-03.51.19:516][972]Cmd: DELETE
+[2022.06.08-03.51.19:516][972]Cmd: ACTOR DELETE
+[2022.06.08-03.51.19:525][972]LogEditorActor: Actor GroupActor_45 is referenced by window_window21.
+[2022.06.08-03.51.19:525][972]LogEditorActor: Actor GroupActor_45 is referenced by window_window_21.
+[2022.06.08-03.51.20:066][972]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.20:069][972]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_45 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window21
+window_window_21
+[2022.06.08-03.51.20:070][972]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.20:070][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.20:070][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.20:078][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.06.08-03.51.20:078][972]LogEditorActor: Deleted 3 Actors (0.018 secs)
+[2022.06.08-03.51.20:578][  0]Cmd: DELETE
+[2022.06.08-03.51.20:578][  0]Cmd: ACTOR DELETE
+[2022.06.08-03.51.20:586][  0]LogEditorActor: Actor GroupActor_43 is referenced by window_window19.
+[2022.06.08-03.51.20:586][  0]LogEditorActor: Actor GroupActor_43 is referenced by window_window_19.
+[2022.06.08-03.51.21:162][  0]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.21:166][  0]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_43 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window19
+window_window_19
+[2022.06.08-03.51.21:167][  0]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.21:167][  0]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.21:167][  0]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.21:173][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.06.08-03.51.21:175][  0]LogEditorActor: Deleted 3 Actors (0.017 secs)
+[2022.06.08-03.51.21:757][ 33]Cmd: DELETE
+[2022.06.08-03.51.21:757][ 33]Cmd: ACTOR DELETE
+[2022.06.08-03.51.21:766][ 33]LogEditorActor: Actor GroupActor_42 is referenced by window_window18.
+[2022.06.08-03.51.21:766][ 33]LogEditorActor: Actor GroupActor_42 is referenced by window_window_18.
+[2022.06.08-03.51.22:347][ 33]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.22:351][ 33]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_42 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window18
+window_window_18
+[2022.06.08-03.51.22:352][ 33]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.22:352][ 33]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.22:352][ 33]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.22:359][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.06.08-03.51.22:360][ 33]LogEditorActor: Deleted 3 Actors (0.018 secs)
+[2022.06.08-03.51.24:513][163]LogDerivedDataCache: C:/Users/exalt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.918 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.08-03.51.36:109][847]Cmd: DELETE
+[2022.06.08-03.51.36:109][847]Cmd: ACTOR DELETE
+[2022.06.08-03.51.36:117][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__back_003.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__back_004.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__back_005.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__back_006.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__floor1_001.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__floor1_002.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__front_003.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__front_004.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__front_005.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__front_006.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__left_003.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__left_004.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__left_005.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__left_006.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__pillar.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__right_003.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__right_004.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__right_005.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__right_006.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__top_003.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__top_004.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__top_005.
+[2022.06.08-03.51.36:118][847]LogEditorActor: Actor GroupActor11 is referenced by toko_listrtik__top_006.
+[2022.06.08-03.51.37:295][847]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.37:315][847]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor11 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+toko_listrtik__back_003
+toko_listrtik__back_004
+toko_listrtik__back_005
+toko_listrtik__back_006
+toko_listrtik__floor1_001
+toko_listrtik__floor1_002
+toko_listrtik__front_003
+toko_listrtik__front_004
+toko_listrtik__front_005
+toko_listrtik__front_006
+toko_listrtik__left_003
+toko_listrtik__left_004
+toko_listrtik__left_005
+toko_listrtik__left_006
+toko_listrtik__pillar
+toko_listrtik__right_003
+toko_listrtik__right_004
+toko_listrtik__right_005
+toko_listrtik__right_006
+toko_listrtik__top_003
+toko_listrtik__top_004
+toko_listrtik__top_005
+toko_listrtik__top_006
+[2022.06.08-03.51.37:317][847]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.37:318][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:318][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:318][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:318][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:318][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:318][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:318][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:319][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:319][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:319][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:319][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:319][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:319][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:319][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:319][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:319][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:319][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:319][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:320][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:320][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:320][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:320][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:320][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.37:328][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.06.08-03.51.37:329][847]LogEditorActor: Deleted 24 Actors (0.023 secs)
+[2022.06.08-03.51.38:160][891]Cmd: DELETE
+[2022.06.08-03.51.38:160][891]Cmd: ACTOR DELETE
+[2022.06.08-03.51.38:168][891]LogEditorActor: Actor GroupActor_56 is referenced by window_window31.
+[2022.06.08-03.51.38:168][891]LogEditorActor: Actor GroupActor_56 is referenced by window_window_31.
+[2022.06.08-03.51.39:141][891]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.39:145][891]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_56 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window31
+window_window_31
+[2022.06.08-03.51.39:146][891]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.39:146][891]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.39:147][891]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.39:153][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.06.08-03.51.39:154][891]LogEditorActor: Deleted 3 Actors (0.017 secs)
+[2022.06.08-03.51.40:047][943]Cmd: DELETE
+[2022.06.08-03.51.40:047][943]Cmd: ACTOR DELETE
+[2022.06.08-03.51.40:056][943]LogEditorActor: Actor GroupActor_57 is referenced by window_window32.
+[2022.06.08-03.51.40:056][943]LogEditorActor: Actor GroupActor_57 is referenced by window_window_32.
+[2022.06.08-03.51.40:755][943]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.40:762][943]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_57 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window32
+window_window_32
+[2022.06.08-03.51.40:763][943]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.40:764][943]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.40:764][943]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.40:774][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.06.08-03.51.40:775][943]LogEditorActor: Deleted 3 Actors (0.021 secs)
+[2022.06.08-03.51.41:367][976]Cmd: DELETE
+[2022.06.08-03.51.41:367][976]Cmd: ACTOR DELETE
+[2022.06.08-03.51.41:375][976]LogEditorActor: Actor GroupActor_59 is referenced by window_window34.
+[2022.06.08-03.51.41:376][976]LogEditorActor: Actor GroupActor_59 is referenced by window_window_34.
+[2022.06.08-03.51.42:009][976]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.42:012][976]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_59 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window34
+window_window_34
+[2022.06.08-03.51.42:012][976]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.42:013][976]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.42:013][976]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.42:019][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.06.08-03.51.42:021][976]LogEditorActor: Deleted 3 Actors (0.017 secs)
+[2022.06.08-03.51.42:674][ 13]Cmd: DELETE
+[2022.06.08-03.51.42:674][ 13]Cmd: ACTOR DELETE
+[2022.06.08-03.51.42:682][ 13]LogEditorActor: Actor GroupActor_63 is referenced by window_window38.
+[2022.06.08-03.51.42:682][ 13]LogEditorActor: Actor GroupActor_63 is referenced by window_window_38.
+[2022.06.08-03.51.43:444][ 13]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.43:447][ 13]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_63 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window38
+window_window_38
+[2022.06.08-03.51.43:448][ 13]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.43:448][ 13]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.43:449][ 13]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.43:456][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.06.08-03.51.43:457][ 13]LogEditorActor: Deleted 3 Actors (0.018 secs)
+[2022.06.08-03.51.44:171][ 54]Cmd: DELETE
+[2022.06.08-03.51.44:171][ 54]Cmd: ACTOR DELETE
+[2022.06.08-03.51.44:179][ 54]LogEditorActor: Actor GroupActor35 is referenced by door_Cube_004.
+[2022.06.08-03.51.44:179][ 54]LogEditorActor: Actor GroupActor35 is referenced by door_Cube_005.
+[2022.06.08-03.51.44:179][ 54]LogEditorActor: Actor GroupActor35 is referenced by door_Cube_006.
+[2022.06.08-03.51.44:179][ 54]LogEditorActor: Actor GroupActor35 is referenced by door_Cube_011.
+[2022.06.08-03.51.44:179][ 54]LogEditorActor: Actor GroupActor35 is referenced by door_Cylinder_004.
+[2022.06.08-03.51.44:179][ 54]LogEditorActor: Actor GroupActor35 is referenced by door_Sphere.
+[2022.06.08-03.51.44:179][ 54]LogEditorActor: Actor GroupActor35 is referenced by door_Sphere_001.
+[2022.06.08-03.51.44:179][ 54]LogEditorActor: Actor GroupActor35 is referenced by Cube11.
+[2022.06.08-03.51.44:778][ 54]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.44:783][ 54]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor35 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+door_Cube_004
+door_Cube_005
+door_Cube_006
+door_Cube_011
+door_Cylinder_004
+door_Sphere
+door_Sphere_001
+Cube11
+[2022.06.08-03.51.44:785][ 54]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.44:785][ 54]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.44:785][ 54]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.44:785][ 54]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.44:786][ 54]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.44:786][ 54]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.44:786][ 54]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.44:786][ 54]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.44:786][ 54]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.44:794][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.06.08-03.51.44:795][ 54]LogEditorActor: Deleted 9 Actors (0.020 secs)
+[2022.06.08-03.51.45:862][116]Cmd: DELETE
+[2022.06.08-03.51.45:862][116]Cmd: ACTOR DELETE
+[2022.06.08-03.51.45:870][116]LogEditorActor: Actor GroupActor_55 is referenced by window_window30.
+[2022.06.08-03.51.45:870][116]LogEditorActor: Actor GroupActor_55 is referenced by window_window_30.
+[2022.06.08-03.51.46:659][116]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.46:664][116]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_55 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window30
+window_window_30
+[2022.06.08-03.51.46:665][116]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.46:665][116]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.46:666][116]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.46:673][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.06.08-03.51.46:674][116]LogEditorActor: Deleted 3 Actors (0.018 secs)
+[2022.06.08-03.51.47:351][155]Cmd: DELETE
+[2022.06.08-03.51.47:351][155]Cmd: ACTOR DELETE
+[2022.06.08-03.51.47:359][155]LogEditorActor: Actor GroupActor_58 is referenced by window_window33.
+[2022.06.08-03.51.47:359][155]LogEditorActor: Actor GroupActor_58 is referenced by window_window_33.
+[2022.06.08-03.51.48:116][155]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.48:122][155]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_58 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window33
+window_window_33
+[2022.06.08-03.51.48:122][155]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.48:123][155]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.48:123][155]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.48:131][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.06.08-03.51.48:133][155]LogEditorActor: Deleted 3 Actors (0.019 secs)
+[2022.06.08-03.51.48:794][192]Cmd: DELETE
+[2022.06.08-03.51.48:794][192]Cmd: ACTOR DELETE
+[2022.06.08-03.51.48:803][192]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.48:812][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.06.08-03.51.48:813][192]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2022.06.08-03.51.51:313][338]Cmd: TRANSACTION UNDO
+[2022.06.08-03.51.51:314][338]LogEditorTransaction: Undo Clicking on Elements
+[2022.06.08-03.51.51:798][361]Cmd: TRANSACTION UNDO
+[2022.06.08-03.51.51:798][361]LogEditorTransaction: Undo Delete Elements
+[2022.06.08-03.51.55:639][576]Cmd: DELETE
+[2022.06.08-03.51.55:639][576]Cmd: ACTOR DELETE
+[2022.06.08-03.51.55:647][576]LogEditorActor: Actor GroupActor_60 is referenced by window_window35.
+[2022.06.08-03.51.55:647][576]LogEditorActor: Actor GroupActor_60 is referenced by window_window_35.
+[2022.06.08-03.51.56:444][576]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.56:448][576]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_60 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window35
+window_window_35
+[2022.06.08-03.51.56:449][576]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.56:450][576]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.56:450][576]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.56:457][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.06.08-03.51.56:458][576]LogEditorActor: Deleted 3 Actors (0.018 secs)
+[2022.06.08-03.51.57:233][619]Cmd: DELETE
+[2022.06.08-03.51.57:234][619]Cmd: ACTOR DELETE
+[2022.06.08-03.51.57:242][619]LogEditorActor: Actor GroupActor_61 is referenced by window_window36.
+[2022.06.08-03.51.57:242][619]LogEditorActor: Actor GroupActor_61 is referenced by window_window_36.
+[2022.06.08-03.51.57:842][619]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.57:846][619]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_61 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window36
+window_window_36
+[2022.06.08-03.51.57:847][619]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.57:847][619]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.57:848][619]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.57:854][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.06.08-03.51.57:856][619]LogEditorActor: Deleted 3 Actors (0.017 secs)
+[2022.06.08-03.51.58:351][647]Cmd: DELETE
+[2022.06.08-03.51.58:352][647]Cmd: ACTOR DELETE
+[2022.06.08-03.51.58:359][647]LogEditorActor: Actor GroupActor_62 is referenced by window_window37.
+[2022.06.08-03.51.58:359][647]LogEditorActor: Actor GroupActor_62 is referenced by window_window_37.
+[2022.06.08-03.51.58:920][647]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.51.58:927][647]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_62 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window37
+window_window_37
+[2022.06.08-03.51.58:928][647]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.51.58:928][647]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.58:929][647]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.51.58:936][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.06.08-03.51.58:937][647]LogEditorActor: Deleted 3 Actors (0.018 secs)
+[2022.06.08-03.51.59:462][676]Cmd: DELETE
+[2022.06.08-03.51.59:463][676]Cmd: ACTOR DELETE
+[2022.06.08-03.51.59:470][676]LogEditorActor: Actor GroupActor_64 is referenced by window_window39.
+[2022.06.08-03.51.59:470][676]LogEditorActor: Actor GroupActor_64 is referenced by window_window_39.
+[2022.06.08-03.52.00:186][676]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.52.00:191][676]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_64 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window39
+window_window_39
+[2022.06.08-03.52.00:191][676]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.52.00:192][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.52.00:192][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.52.00:198][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.06.08-03.52.00:200][676]LogEditorActor: Deleted 3 Actors (0.017 secs)
+[2022.06.08-03.52.00:718][705]Cmd: DELETE
+[2022.06.08-03.52.00:718][705]Cmd: ACTOR DELETE
+[2022.06.08-03.52.00:726][705]LogEditorActor: Actor GroupActor_65 is referenced by window_window40.
+[2022.06.08-03.52.00:726][705]LogEditorActor: Actor GroupActor_65 is referenced by window_window_40.
+[2022.06.08-03.52.01:367][705]LogSlate: Window 'Message' being destroyed
+[2022.06.08-03.52.01:371][705]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor_65 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+window_window40
+window_window_40
+[2022.06.08-03.52.01:371][705]LogEditorActor: Deleted Actor: GroupActor
+[2022.06.08-03.52.01:371][705]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.52.01:372][705]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-03.52.01:378][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.06.08-03.52.01:380][705]LogEditorActor: Deleted 3 Actors (0.017 secs)
+[2022.06.08-03.52.47:938][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.06.08-03.52.50:300][465]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.08-03.52.50:312][465]LogUObjectGlobals: Force Deleting 16 Package(s):
+	Asset Name: /Game/Assets/exal_folder/ruko/ruko__back.ruko__back
+	Asset Type: StaticMesh
+	Asset Name: /Game/Assets/exal_folder/ruko/ruko__back_001.ruko__back_001
+	Asset Type: StaticMesh
+	Asset Name: /Game/Assets/exal_folder/ruko/ruko__back_002.ruko__back_002
+	Asset Type: StaticMesh
+	Asset Name: /Game/Assets/exal_folder/ruko/ruko__floor1.ruko__floor1
+	Asset Type: StaticMesh
+	Asset Name: /Game/Assets/exal_folder/ruko/ruko__front.ruko__front
+	Asset Type: StaticMesh
+	Asset Name: /Game/Assets/exal_folder/ruko/ruko__front_001.ruko__front_001
+	Asset Type: StaticMesh
+	Asset Name: /Game/Assets/exal_folder/ruko/ruko__front_002.ruko__front_002
+	Asset Type: StaticMesh
+	Asset Name: /Game/Assets/exal_folder/ruko/ruko__left.ruko__left
+	Asset Type: StaticMesh
+	Asset Name: /Game/Assets/exal_folder/ruko/ruko__left_001.ruko__left_001
+	Asset Type: StaticMesh
+	Asset Name: /Game/Assets/exal_folder/ruko/ruko__left_002.ruko__left_002
+	Asset Type: StaticMesh
+[2022.06.08-03.52.50:791][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.06.08-03.52.50:798][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.06.08-03.52.50:804][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.06.08-03.52.50:965][465]SourceControl: Error: Updated 0 paths from the index
+[2022.06.08-03.52.51:100][465]SourceControl: rm 'Content/Assets/exal_folder/ruko/ruko__back.uasset'
+[2022.06.08-03.52.51:100][465]SourceControl: rm 'Content/Assets/exal_folder/ruko/ruko__back_001.uasset'
+[2022.06.08-03.52.51:100][465]SourceControl: rm 'Content/Assets/exal_folder/ruko/ruko__back_002.uasset'
+[2022.06.08-03.52.51:100][465]SourceControl: rm 'Content/Assets/exal_folder/ruko/ruko__floor1.uasset'
+[2022.06.08-03.52.51:100][465]SourceControl: rm 'Content/Assets/exal_folder/ruko/ruko__front.uasset'
+[2022.06.08-03.52.51:100][465]SourceControl: rm 'Content/Assets/exal_folder/ruko/ruko__front_001.uasset'
+[2022.06.08-03.52.51:100][465]SourceControl: rm 'Content/Assets/exal_folder/ruko/ruko__front_002.uasset'
+[2022.06.08-03.52.51:100][465]SourceControl: rm 'Content/Assets/exal_folder/ruko/ruko__left.uasset'
+[2022.06.08-03.52.51:100][465]SourceControl: rm 'Content/Assets/exal_folder/ruko/ruko__left_001.uasset'
+[2022.06.08-03.52.51:100][465]SourceControl: rm 'Content/Assets/exal_folder/ruko/ruko__left_002.uasset'
+[2022.06.08-03.52.51:100][465]SourceControl: rm 'Content/Assets/exal_folder/ruko/ruko__right.uasset'
+[2022.06.08-03.52.51:100][465]SourceControl: rm 'Content/Assets/exal_folder/ruko/ruko__right_001.uasset'
+[2022.06.08-03.52.51:100][465]SourceControl: rm 'Content/Assets/exal_folder/ruko/ruko__right_002.uasset'
+[2022.06.08-03.52.51:100][465]SourceControl: rm 'Content/Assets/exal_folder/ruko/ruko__top.uasset'
+[2022.06.08-03.52.51:100][465]SourceControl: rm 'Content/Assets/exal_folder/ruko/ruko__top_001.uasset'
+[2022.06.08-03.52.51:100][465]SourceControl: rm 'Content/Assets/exal_folder/ruko/ruko__top_002.uasset'
+[2022.06.08-03.53.12:085][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.06.08-03.53.14:666][708]LogSlate: Window 'Save Content' being destroyed
+[2022.06.08-03.53.14:778][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.06.08-03.53.14:783][708]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.003735 seconds
+[2022.06.08-03.53.14:919][708]LogSavePackage: Moving output files for package: /Game/demo_orang_stress/tesenvironment
+[2022.06.08-03.53.14:919][708]LogSavePackage: Moving '../../../../../../Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Saved/tesenvironment88DDFC9E4AC7E6CDA6F57AA6ADF8EB12.tmp' to '../../../../../../Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Content/demo_orang_stress/tesenvironment.umap'
+[2022.06.08-03.53.14:928][708]LogFileHelpers: Saving map 'tesenvironment' took 0.157
+[2022.06.08-03.53.14:973][708]LogLinker: Warning: [AssetLog] C:\Users\exalt\OneDrive\Dokumen\GitHub\TheBigBigg\Content\monkey\jigsawwidget.uasset: Failed to load '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2022.06.08-03.53.14:973][708]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/FirstPersonBP/Blueprints/FirstPersonCharacter'
+[2022.06.08-03.53.15:050][708]LogMaterial: Display: Missing cached shadermap for M_ColorGrid_LowSpec in PCD3D_SM5, Default, SM5 (DDC key hash: 69B4F5086FEDFF07A33973184CB8EE8661515374), compiling. 
+[2022.06.08-03.53.15:147][708]LogAssetEditorSubsystem: Opening Asset editor for World /Game/demo_orang_stress/puzzleroom1.puzzleroom1
+[2022.06.08-03.53.15:147][708]Cmd: MAP LOAD FILE="../../../../../../Users/exalt/OneDrive/Dokumen/GitHub/TheBigBigg/Content/demo_orang_stress/puzzleroom1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.08-03.53.15:147][708]LightingResults: New page: Lighting Build
+[2022.06.08-03.53.15:147][708]LoadErrors: New page: Loading map: puzzleroom1.umap
+[2022.06.08-03.53.15:154][708]LogWorld: UWorld::CleanupWorld for tesenvironment, bSessionEnded=true, bCleanupResources=true
+[2022.06.08-03.53.15:154][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.08-03.53.15:154][708]MapCheck: New page: Map Check
+[2022.06.08-03.53.15:154][708]LightingResults: New page: Lighting Build
+[2022.06.08-03.53.15:160][708]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.08-03.53.15:168][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
